@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Painel interativo do Resultado do Tesouro Nacional (RTN) — receitas, despesas e resultado fiscal do Governo Central.">
+<title>Painel RTN — Resultado do Tesouro Nacional</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500;1,9..144,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles/panel.css">
+</head>
+<body>
+<div class="rtn-layout">
+
+  <!-- === SIDEBAR DE FILTROS === -->
+  <aside class="rtn-sidebar">
+    <div class="rtn-brand">
+      <h1>Painel RTN</h1>
+      <div class="sub">Resultado do Tesouro Nacional · Governo Central</div>
+    </div>
+
+    <div class="rtn-filter-group">
+      <h2>Periodicidade</h2>
+      <div class="rtn-segmented">
+        <input type="radio" name="periodicidade" id="p-mensal" value="mensal" checked>
+        <label for="p-mensal">Mensal</label>
+        <input type="radio" name="periodicidade" id="p-trimestral" value="trimestral">
+        <label for="p-trimestral">Trimestral</label>
+        <input type="radio" name="periodicidade" id="p-anual" value="anual">
+        <label for="p-anual">Anual</label>
+      </div>
+    </div>
+
+    <div class="rtn-filter-group">
+      <h2>Base de valores</h2>
+      <div class="rtn-segmented">
+        <input type="radio" name="unidadeTipo" id="u-corrente" value="corrente" checked>
+        <label for="u-corrente">Corrente</label>
+        <input type="radio" name="unidadeTipo" id="u-constante" value="constante_ipca">
+        <label for="u-constante">Constante (IPCA)</label>
+        <input type="radio" name="unidadeTipo" id="u-pctpib" value="pct_pib">
+        <label for="u-pctpib">% do PIB</label>
+        <input type="radio" name="unidadeTipo" id="u-acum12m" value="constante_ipca_acum12m">
+        <label for="u-acum12m">Acum. 12 meses</label>
+      </div>
+    </div>
+
+    <div class="rtn-filter-group">
+      <h2>Variáveis</h2>
+      <input type="text" id="var-search" placeholder="Buscar rubrica ou código…" autocomplete="off">
+      <div class="rtn-chips" id="var-chips"></div>
+      <div class="rtn-var-list" id="var-list"></div>
+    </div>
+  </aside>
+
+  <!-- === CONTEUDO PRINCIPAL === -->
+  <main class="rtn-main">
+    <div class="rtn-header-bar">
+      <h2>Séries selecionadas</h2>
+      <span class="rtn-meta" id="unidade-label"></span>
+    </div>
+
+    <div id="warnings"></div>
+
+    <div class="rtn-chart-card">
+      <div id="chart-wrap" class="rtn-hidden">
+        <canvas id="chart"></canvas>
+      </div>
+      <div id="empty-state" class="rtn-empty-state">
+        <span class="rtn-empty-icon">§</span>
+        <p id="empty-state-text">Selecione uma ou mais variáveis na barra lateral para começar. Busque por nome (ex. "receita total") ou código (ex. "9").</p>
+      </div>
+    </div>
+
+    <footer class="rtn-footer">
+      Fonte: Tesouro Nacional — Resultado do Tesouro Nacional (RTN), série histórica. Painel de uso interno.
+    </footer>
+  </main>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5/papaparse.min.js"></script>
+<script src="scripts/catalog.js"></script>
+<script src="scripts/resolve.js"></script>
+<script src="scripts/data-loader.js"></script>
+<script src="scripts/chart.js"></script>
+<script src="scripts/app.js"></script>
+</body>
+</html>

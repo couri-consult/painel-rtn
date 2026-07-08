@@ -1,0 +1,481 @@
+tabela,periodicidade,unidade_tipo,codigo,descricao,nivel,periodo,valor
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2011,32645.82978441196
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2012,35657.32944862553
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2013,37257.0437870345
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2014,41443.62076119704
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2015,42409.55073469363
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2016,49342.18555247147
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2017,44972.99698644516
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2018,46537.822546702504
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2019,46456.166560781305
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2020,45132.60948352413
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2021,45741.294144405016
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2022,51931.79376742234
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2023,57000.71439086696
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2024,61376.53549494152
+2.4,anual,corrente,,CUSTEIO ADMINISTRATIVO (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9),1,2025,68165.21042924958
+2.4,anual,corrente,1,Serviços de Apoio,1,2011,15546.969860813444
+2.4,anual,corrente,1,Serviços de Apoio,1,2012,17239.02131902147
+2.4,anual,corrente,1,Serviços de Apoio,1,2013,16006.71298378318
+2.4,anual,corrente,1,Serviços de Apoio,1,2014,18585.578963004773
+2.4,anual,corrente,1,Serviços de Apoio,1,2015,19657.42511643166
+2.4,anual,corrente,1,Serviços de Apoio,1,2016,22916.1932312687
+2.4,anual,corrente,1,Serviços de Apoio,1,2017,20504.071245868567
+2.4,anual,corrente,1,Serviços de Apoio,1,2018,20598.530666968807
+2.4,anual,corrente,1,Serviços de Apoio,1,2019,20082.937293438154
+2.4,anual,corrente,1,Serviços de Apoio,1,2020,21061.432643312473
+2.4,anual,corrente,1,Serviços de Apoio,1,2021,20891.737513158918
+2.4,anual,corrente,1,Serviços de Apoio,1,2022,23382.62091089699
+2.4,anual,corrente,1,Serviços de Apoio,1,2023,25993.288691668866
+2.4,anual,corrente,1,Serviços de Apoio,1,2024,28626.651863853614
+2.4,anual,corrente,1,Serviços de Apoio,1,2025,31881.967949706428
+2.4,anual,corrente,1.1,Contratação Temporária,2,2011,396.9832156826859
+2.4,anual,corrente,1.1,Contratação Temporária,2,2012,435.12468546158
+2.4,anual,corrente,1.1,Contratação Temporária,2,2013,235.11483068809602
+2.4,anual,corrente,1.1,Contratação Temporária,2,2014,257.878656493318
+2.4,anual,corrente,1.1,Contratação Temporária,2,2015,209.59098236322401
+2.4,anual,corrente,1.1,Contratação Temporária,2,2016,220.20540135464898
+2.4,anual,corrente,1.1,Contratação Temporária,2,2017,367.95358380612004
+2.4,anual,corrente,1.1,Contratação Temporária,2,2018,444.759679050068
+2.4,anual,corrente,1.1,Contratação Temporária,2,2019,220.07512234917
+2.4,anual,corrente,1.1,Contratação Temporária,2,2020,272.68188018525296
+2.4,anual,corrente,1.1,Contratação Temporária,2,2021,317.23021118670505
+2.4,anual,corrente,1.1,Contratação Temporária,2,2022,1345.4110403595291
+2.4,anual,corrente,1.1,Contratação Temporária,2,2023,839.15160550172
+2.4,anual,corrente,1.1,Contratação Temporária,2,2024,566.7378508814161
+2.4,anual,corrente,1.1,Contratação Temporária,2,2025,647.21890021264
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2011,978.0820285823711
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2012,1205.3825699180256
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2013,880.6536250695702
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2014,988.1286360981165
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2015,1201.9764529069014
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2016,1244.576687870379
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2017,1252.1289191864741
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2018,1265.0960391834974
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2019,1300.1306284925665
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2020,1241.4459452661292
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2021,1211.174740913396
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2022,1530.5907438250351
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2023,1991.0276685752344
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2024,2228.09463402664
+2.4,anual,corrente,1.2,Locações de Mão-de-Obra e Terceirização,2,2025,2484.078220768473
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2011,1422.2832500287047
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2012,1633.7548065345568
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2013,2136.123308830435
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2014,2450.1517286805333
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2015,2605.988917298746
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2016,2976.414236845021
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2017,3005.8629786379643
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2018,3044.6293589284546
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2019,3087.942823946738
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2020,2988.0408258196367
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2021,3014.6778502062716
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2022,3207.693882267995
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2023,3812.4624011793157
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2024,3832.7581213621957
+2.4,anual,corrente,1.3,Serviços de Limpeza e Conservação,2,2025,4022.9701413753983
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2011,1482.2118378491455
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2012,1758.4351081067439
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2013,2370.833793354942
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2014,2828.9158928218267
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2015,2974.6554075830827
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2016,3296.427335672901
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2017,3129.22520222438
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2018,3114.8063929834534
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2019,3094.0937110735235
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2020,2899.672178435896
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2021,2975.1084309029256
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2022,3131.2727973248316
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2023,3554.288741743357
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2024,3660.0012491263114
+2.4,anual,corrente,1.4,Vigilância Ostensiva,2,2025,4126.148337824748
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2011,11267.409528670541
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2012,12206.324149000566
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2013,10383.987425840136
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2014,12060.504048910989
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2015,12665.213356279697
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2016,15178.56956952575
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2017,12748.90056201363
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2018,12729.239196823337
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2019,12380.695007576158
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2020,13659.59181360556
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2021,13373.546279949622
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2022,14167.65244711961
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2023,15796.35827466923
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2024,18339.06000845706
+2.4,anual,corrente,1.5,"Apoio Administrativo, Técnico e Operacional",2,2025,20601.55234952515
+2.4,anual,corrente,2,Material de Consumo,1,2011,4893.626112891974
+2.4,anual,corrente,2,Material de Consumo,1,2012,5059.68644589687
+2.4,anual,corrente,2,Material de Consumo,1,2013,3835.1927323851787
+2.4,anual,corrente,2,Material de Consumo,1,2014,4277.166026178147
+2.4,anual,corrente,2,Material de Consumo,1,2015,3601.804971485089
+2.4,anual,corrente,2,Material de Consumo,1,2016,4278.439102278185
+2.4,anual,corrente,2,Material de Consumo,1,2017,4282.841770895041
+2.4,anual,corrente,2,Material de Consumo,1,2018,4589.872349155946
+2.4,anual,corrente,2,Material de Consumo,1,2019,4500.0268576697035
+2.4,anual,corrente,2,Material de Consumo,1,2020,4494.052848758956
+2.4,anual,corrente,2,Material de Consumo,1,2021,4445.1000547944905
+2.4,anual,corrente,2,Material de Consumo,1,2022,5709.52014787529
+2.4,anual,corrente,2,Material de Consumo,1,2023,5686.498719812708
+2.4,anual,corrente,2,Material de Consumo,1,2024,6179.414671044591
+2.4,anual,corrente,2,Material de Consumo,1,2025,6066.263411149133
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2011,603.6534240085217
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2012,735.547565638524
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2013,949.2535995451788
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2014,990.2194684264539
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2015,749.4002523672507
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2016,801.6210749696486
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2017,856.1078405058449
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2018,874.375353651596
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2019,956.0414308043102
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2020,1014.6795611083298
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2021,885.2607629541503
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2022,1356.7175266198935
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2023,1536.5130427127592
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2024,1313.604285465987
+2.4,anual,corrente,2.1,Combustíveis e Lubrificantes,2,2025,1221.3860156099681
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2011,4289.972688883452
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2012,4324.138880258347
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2013,2885.9391328399997
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2014,3286.9465577516953
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2015,2852.404719117837
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2016,3476.818027308537
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2017,3426.7339303891977
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2018,3715.4969955043507
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2019,3543.9854268653958
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2020,3479.3732876506265
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2021,3559.839291840339
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2022,4352.8026212554005
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2023,4149.985677099948
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2024,4865.810385578602
+2.4,anual,corrente,2.2,Outros Materiais de Consumo,2,2025,4844.877395539163
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2011,3461.7597630891228
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2012,3629.6818070837608
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2013,4883.898666175512
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2014,5066.184062556845
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2015,5299.755705653486
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2016,6553.839039124703
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2017,6151.711069074778
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2018,6379.05043707622
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2019,7048.53892070953
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2020,6746.710501940469
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2021,6861.86927153016
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2022,7223.788636053505
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2023,8217.472375960897
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2024,7978.802512376589
+2.4,anual,corrente,3,Tecnologia da Informação e Comunicação,1,2025,9792.57292858826
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2011,3461.7597630891228
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2012,3629.6818070837608
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2013,4883.898666175512
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2014,5066.184062556845
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2015,5299.755705653486
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2016,6553.839039124703
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2017,6151.711069074778
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2018,6379.05043707622
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2019,7048.53892070953
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2020,6746.710501940469
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2021,6861.86927153016
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2022,7223.788636053505
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2023,8217.472375960897
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2024,7978.802512376589
+2.4,anual,corrente,3.1,Tecnologia da Informação e Comunicação,2,2025,9792.57292858826
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2011,1322.3445097799045
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2012,1293.8554430290378
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2013,1777.1281445707682
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2014,1870.0231416261965
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2015,1562.4364726639246
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2016,1574.8675069158735
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2017,1257.2009524400944
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2018,1365.7340812657762
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2019,1240.8172725152024
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2020,714.1122330961831
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2021,778.8329052910825
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2022,955.6157409615303
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2023,1005.1225974414535
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2024,1078.0539928510782
+2.4,anual,corrente,4,Serviços de Comunicação em Geral e Telecomunicações,1,2025,1366.0949344303099
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2011,754.8385338415794
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2012,761.9572379624833
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2013,1189.557446761341
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2014,1188.030957373865
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2015,1088.7694926868348
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2016,1119.2306843498511
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2017,873.8946558385572
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2018,1054.8441167788508
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2019,997.7777803181168
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2020,514.7795756304599
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2021,606.3724753864227
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2022,786.9537548756249
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2023,847.8477611993449
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2024,910.3163454125983
+2.4,anual,corrente,4.1,Serviços de Comunicação em Geral,2,2025,1206.2812037108106
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2011,567.505975938325
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2012,531.8982050665546
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2013,587.5706978094269
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2014,681.9921842523314
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2015,473.66697997709
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2016,455.6368225660228
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2017,383.3062966015371
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2018,310.88996448692563
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2019,243.03949219708537
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2020,199.33265746572312
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2021,172.4604299046597
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2022,168.66198608590545
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2023,157.27483624210856
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2024,167.73764743847977
+2.4,anual,corrente,4.2,Serviços de Telecomunicações,2,2025,159.8137307194994
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2011,1978.6674582015646
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2012,2269.2445688574817
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2013,3337.823806790884
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2014,3697.225607441599
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2015,3731.8090399258094
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2016,3962.6481065330167
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2017,3729.8285377643406
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2018,3913.540309719111
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2019,4003.2812658253247
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2020,3932.227742598117
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2021,3910.1408891515634
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2022,4181.812022931742
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2023,4478.667295146447
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2024,4871.343081317193
+2.4,anual,corrente,5,Locação e Conservação de Bens Imóveis,1,2025,5497.684461501121
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2011,781.7791890939297
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2012,951.9067681853448
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2013,1211.263183216941
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2014,1423.4909686697672
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2015,1578.429918687008
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2016,1657.2165882585914
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2017,1562.8386244641038
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2018,1493.352565810877
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2019,1471.8605462789524
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2020,1460.2698445809872
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2021,1375.4925586709478
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2022,1354.811609664662
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2023,1398.6754404456503
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2024,1427.6512005800898
+2.4,anual,corrente,5.1,Locação de Imóveis,2,2025,1483.7233633647395
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2011,1196.8882691076346
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2012,1317.337800672137
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2013,2126.5606235739433
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2014,2273.734638771832
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2015,2153.379121238802
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2016,2305.4315182744267
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2017,2166.9899133002364
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2018,2420.1877439082336
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2019,2531.4207195463714
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2020,2471.95789801713
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2021,2534.648330480616
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2022,2827.0004132670806
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2023,3079.9918547007965
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2024,3443.6918807371026
+2.4,anual,corrente,5.2,Manutenção e Conservação de Bens Imóveis,2,2025,4013.9610981363826
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2011,1615.7828947695716
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2012,1690.2839822490603
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2013,1879.9988746258723
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2014,1915.8065217928195
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2015,2506.603106665865
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2016,2994.0001718261797
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2017,2809.0200511004386
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2018,3150.702043138132
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2019,3462.7586937344604
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2020,2848.8502514673164
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2021,3062.4110319467077
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2022,3323.8196151994744
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2023,3419.807309005469
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2024,3673.312409739585
+2.4,anual,corrente,6,Energia Elétrica e Água,1,2025,3791.1912718580847
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2011,360.03210424243304
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2012,349.74402222832566
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2013,507.15147436949985
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2014,449.8965132064906
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2015,436.38778298606235
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2016,519.8211675388891
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2017,523.1399089766392
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2018,529.1957351872484
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2019,600.3161686906728
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2020,524.6460027865286
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2021,530.030157903549
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2022,631.6726337829227
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2023,734.8698287191312
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2024,794.6010554125206
+2.4,anual,corrente,6.1,Serviços de Água e Esgoto,2,2025,863.2673066093919
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2011,1255.7507905271386
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2012,1340.5399600207345
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2013,1372.847400256372
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2014,1465.910008586329
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2015,2070.2153236798026
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2016,2474.1790042872904
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2017,2285.880142123799
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2018,2621.506307950883
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2019,2862.4425250437876
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2020,2324.2042486807877
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2021,2532.3808740431587
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2022,2692.1469814165507
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2023,2684.9374802863367
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2024,2878.7113543270643
+2.4,anual,corrente,6.2,Serviços de Energia Elétrica,2,2025,2927.923965248692
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2011,1100.3965546310305
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2012,1510.4569786998861
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2013,2157.838967025224
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2014,2374.802420386845
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2015,2301.089683319841
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2016,2698.8619246337503
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2017,2354.9906941496247
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2018,2591.8934881579244
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2019,2476.853983182109
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2020,2567.952577882434
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2021,2588.2972606557587
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2022,3016.5370045903755
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2023,3132.2133628020133
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2024,3646.5308775707163
+2.4,anual,corrente,7,Locação e Conservação de Bens Móveis,1,2025,3957.267102824177
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2011,206.79631032012418
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2012,275.6207812804223
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2013,229.5892425906244
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2014,265.08810466338167
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2015,229.1400966682401
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2016,270.77936850479676
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2017,250.0198667038398
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2018,291.6954605867731
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2019,234.84586879983019
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2020,222.1093042320215
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2021,181.2908221933445
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2022,194.16504923909324
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2023,255.8526112347781
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2024,227.3004831451575
+2.4,anual,corrente,7.1,Locação de Máquinas e Equipamentos,2,2025,248.07663268941204
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2011,829.2465255190131
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2012,903.3339157833333
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2013,1468.8897732436078
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2014,1507.2056163313
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2015,1541.3794127818908
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2016,1838.9154594066777
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2017,1562.062436405411
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2018,1731.2770992056232
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2019,1724.0782789452267
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2020,1847.533515992057
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2021,1963.918975462496
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2022,2173.9038062031887
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2023,2108.948923690692
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2024,2416.744490653053
+2.4,anual,corrente,7.2,Manutenção e Conservação de Equipamentos,2,2025,2404.255460102271
+2.4,anual,corrente,7.3,Locação de Veículos,2,2011,64.35371879189312
+2.4,anual,corrente,7.3,Locação de Veículos,2,2012,331.50228163613065
+2.4,anual,corrente,7.3,Locação de Veículos,2,2013,459.3599511909915
+2.4,anual,corrente,7.3,Locação de Veículos,2,2014,602.508699392163
+2.4,anual,corrente,7.3,Locação de Veículos,2,2015,530.5701738697101
+2.4,anual,corrente,7.3,Locação de Veículos,2,2016,589.1670967222747
+2.4,anual,corrente,7.3,Locação de Veículos,2,2017,542.908391040374
+2.4,anual,corrente,7.3,Locação de Veículos,2,2018,568.9209283655289
+2.4,anual,corrente,7.3,Locação de Veículos,2,2019,517.9298354370527
+2.4,anual,corrente,7.3,Locação de Veículos,2,2020,498.3097576583555
+2.4,anual,corrente,7.3,Locação de Veículos,2,2021,443.0874629999182
+2.4,anual,corrente,7.3,Locação de Veículos,2,2022,648.4681491480931
+2.4,anual,corrente,7.3,Locação de Veículos,2,2023,767.4118278765432
+2.4,anual,corrente,7.3,Locação de Veículos,2,2024,1002.4859037725051
+2.4,anual,corrente,7.3,Locação de Veículos,2,2025,1304.935010032494
+2.4,anual,corrente,8,Diárias e Passagens,1,2011,1813.7923332796563
+2.4,anual,corrente,8,Diárias e Passagens,1,2012,1933.1271446547423
+2.4,anual,corrente,8,Diárias e Passagens,1,2013,2193.363029573545
+2.4,anual,corrente,8,Diárias e Passagens,1,2014,2421.934679456265
+2.4,anual,corrente,8,Diárias e Passagens,1,2015,1938.3022459018198
+2.4,anual,corrente,8,Diárias e Passagens,1,2016,2059.3377207758554
+2.4,anual,corrente,8,Diárias e Passagens,1,2017,1880.3555047338655
+2.4,anual,corrente,8,Diárias e Passagens,1,2018,2103.7857263870033
+2.4,anual,corrente,8,Diárias e Passagens,1,2019,1983.8490107920502
+2.4,anual,corrente,8,Diárias e Passagens,1,2020,921.2655207960979
+2.4,anual,corrente,8,Diárias e Passagens,1,2021,1141.093891733909
+2.4,anual,corrente,8,Diárias e Passagens,1,2022,2428.475454280344
+2.4,anual,corrente,8,Diárias e Passagens,1,2023,3276.3373052726774
+2.4,anual,corrente,8,Diárias e Passagens,1,2024,3517.233821874205
+2.4,anual,corrente,8,Diárias e Passagens,1,2025,3666.5815859549175
+2.4,anual,corrente,8.1,Diárias,2,2011,992.1351372217846
+2.4,anual,corrente,8.1,Diárias,2,2012,1250.34841545993
+2.4,anual,corrente,8.1,Diárias,2,2013,1369.4908112029068
+2.4,anual,corrente,8.1,Diárias,2,2014,1473.993976122372
+2.4,anual,corrente,8.1,Diárias,2,2015,1148.125470374851
+2.4,anual,corrente,8.1,Diárias,2,2016,1359.7267813614155
+2.4,anual,corrente,8.1,Diárias,2,2017,1133.507896268408
+2.4,anual,corrente,8.1,Diárias,2,2018,1265.0886177937946
+2.4,anual,corrente,8.1,Diárias,2,2019,1117.8762655728092
+2.4,anual,corrente,8.1,Diárias,2,2020,566.668477955642
+2.4,anual,corrente,8.1,Diárias,2,2021,719.5586383194387
+2.4,anual,corrente,8.1,Diárias,2,2022,1298.572413927114
+2.4,anual,corrente,8.1,Diárias,2,2023,1856.5651357659635
+2.4,anual,corrente,8.1,Diárias,2,2024,2110.318811791332
+2.4,anual,corrente,8.1,Diárias,2,2025,2136.4734493167066
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2011,821.657196057872
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2012,682.7787291948123
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2013,823.8722183706385
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2014,947.9407033338928
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2015,790.1767755269685
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2016,699.6109394144396
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2017,746.8476084654571
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2018,838.6971085932088
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2019,865.972745219241
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2020,354.59704284045586
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2021,421.5352534144703
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2022,1129.9030403532292
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2023,1419.7721695067144
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2024,1406.9150100828726
+2.4,anual,corrente,8.2,Passagens e Despesas com Locomoção,2,2025,1530.1081366382114
+2.4,anual,corrente,9,Outros Serviços,1,2011,912.4902969556839
+2.4,anual,corrente,9,Outros Serviços,1,2012,1031.9717591332196
+2.4,anual,corrente,9,Outros Serviços,1,2013,1185.0865821043367
+2.4,anual,corrente,9,Outros Serviços,1,2014,1234.89933875355
+2.4,anual,corrente,9,Outros Serviços,1,2015,1810.3243926461405
+2.4,anual,corrente,9,Outros Serviços,1,2016,2303.998749115212
+2.4,anual,corrente,9,Outros Serviços,1,2017,2002.9771604184255
+2.4,anual,corrente,9,Outros Serviços,1,2018,1844.713444833577
+2.4,anual,corrente,9,Outros Serviços,1,2019,1657.1032629147633
+2.4,anual,corrente,9,Outros Serviços,1,2020,1846.005163672089
+2.4,anual,corrente,9,Outros Serviços,1,2021,2061.8113261424273
+2.4,anual,corrente,9,Outros Serviços,1,2022,1709.6042346330796
+2.4,anual,corrente,9,Outros Serviços,1,2023,1791.306733756434
+2.4,anual,corrente,9,Outros Serviços,1,2024,1805.1922643139496
+2.4,anual,corrente,9,Outros Serviços,1,2025,2145.586783237134
+2.4,anual,corrente,9.1,Serviços Bancários,2,2011,370.4012267448855
+2.4,anual,corrente,9.1,Serviços Bancários,2,2012,481.85080385859663
+2.4,anual,corrente,9.1,Serviços Bancários,2,2013,666.2676692835073
+2.4,anual,corrente,9.1,Serviços Bancários,2,2014,672.7155445799921
+2.4,anual,corrente,9.1,Serviços Bancários,2,2015,1287.8233151670916
+2.4,anual,corrente,9.1,Serviços Bancários,2,2016,1802.544747329011
+2.4,anual,corrente,9.1,Serviços Bancários,2,2017,1457.7807415721215
+2.4,anual,corrente,9.1,Serviços Bancários,2,2018,1371.6415441926238
+2.4,anual,corrente,9.1,Serviços Bancários,2,2019,1317.984532982808
+2.4,anual,corrente,9.1,Serviços Bancários,2,2020,1607.6969638961052
+2.4,anual,corrente,9.1,Serviços Bancários,2,2021,1838.6881361638439
+2.4,anual,corrente,9.1,Serviços Bancários,2,2022,1500.1534663823718
+2.4,anual,corrente,9.1,Serviços Bancários,2,2023,1543.9170391127084
+2.4,anual,corrente,9.1,Serviços Bancários,2,2024,1488.3781794497145
+2.4,anual,corrente,9.1,Serviços Bancários,2,2025,1470.676330684309
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2011,118.91596443319355
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2012,117.65821168114687
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2013,147.5815111859426
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2014,162.0789177793121
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2015,159.83696596302184
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2016,171.91218985986126
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2017,172.7895509467054
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2018,119.58937267419903
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2019,80.40483851851101
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2020,50.63722690100122
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2021,40.01125163127151
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2022,32.35105401106978
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2023,32.070470152530305
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2024,28.858370841971606
+2.4,anual,corrente,9.2,Serviços de Cópias e Reproduções de Documentos,2,2025,26.850929371975717
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2011,423.1731057776049
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2012,432.46274359347626
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2013,371.23740163488696
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2014,400.10487639424593
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2015,362.66411151602705
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2016,329.5418119263394
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2017,372.4068678995983
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2018,353.48252796675405
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2019,258.7138914134442
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2020,187.67097287498265
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2021,183.1119383473115
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2022,177.09971423963796
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2023,215.31922449119514
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2024,287.95571402226403
+2.4,anual,corrente,9.3,Serviços de Consultoria,2,2025,648.0595231808489

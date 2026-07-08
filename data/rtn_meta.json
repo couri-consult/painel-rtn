@@ -1,0 +1,122 @@
+{
+  "1.1": {
+    "titulo": "Tabela 1.1. Resultado Primário do Governo Central - Brasil - Mensal - Resumida",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 24710
+  },
+  "1.1-A": {
+    "titulo": "Tabela 1.1-A Resultado Primário do Governo Central - Brasil - Mensal - Resumida",
+    "unidade_desc": "R$ Milhões - Valores de Mai/2026 - IPCA",
+    "n_linhas": 24710
+  },
+  "1.2": {
+    "titulo": "Tabela 1.2. Resultado Primário do Governo Central - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 56127
+  },
+  "1.2-A": {
+    "titulo": "Tabela 1.2-A Resultado Primário do Governo Central - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores de Mai/2026 - IPCA",
+    "n_linhas": 56127
+  },
+  "1.2-B": {
+    "titulo": "Tabela 1.2-B Resultado Primário do Governo Central - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores de Mai/2026 - IPCA - Acumulado em 12 meses",
+    "n_linhas": 54378
+  },
+  "1.3": {
+    "titulo": "Tabela 1.3. Investimento do Governo Central 1/ - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 13260
+  },
+  "1.3-A": {
+    "titulo": "Tabela 1.3-A Investimento do Governo Central 1/ - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores de Mai/2026 - IPCA",
+    "n_linhas": 13260
+  },
+  "1.4": {
+    "titulo": "Tabela 1.4. Custeio Administrativo do Governo Central 1/ - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 5920
+  },
+  "1.4-A": {
+    "titulo": "Tabela 1.4 - A Custeio Administrativo do Governo Central 1/ - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores de Mai/2026 - IPCA",
+    "n_linhas": 5920
+  },
+  "1.5": {
+    "titulo": "Tabela 1.5. Transferências e despesas primárias do Governo Central apuradas pelo critério de \"valor pago\" 1/ - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 21605
+  },
+  "1.5-A": {
+    "titulo": "Tabela 1.5-A Transferências e despesas primárias do Governo Central apuradas pelo critério de \"valor pago\" 1/ - Brasil - Mensal",
+    "unidade_desc": "R$ Milhões - Valores de Mai/2026 - IPCA",
+    "n_linhas": 21605
+  },
+  "1.6": {
+    "titulo": "Tabela 1.6. Receita Líquida Ajustada - Lei Complementar 200/2023 - Mensal",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 1167
+  },
+  "2.1": {
+    "titulo": "Tabela 2.1 Resultado Primário do Governo Central - Brasil - Anual - Resumida",
+    "unidade_desc": "R$ Milhões - Valores Correntes",
+    "n_linhas": 2030
+  },
+  "2.1-A": {
+    "titulo": "Tabela 2.1-A Resultado Primário do Governo Central - Brasil - Anual - Resumido",
+    "unidade_desc": "% do PIB",
+    "n_linhas": 2030
+  },
+  "2.2": {
+    "titulo": "Tabela 2.2 Resultado Primário do Governo Central - Brasil - Anual",
+    "unidade_desc": "R$ Milhões - Valores Correntes",
+    "n_linhas": 4611
+  },
+  "2.2-A": {
+    "titulo": "Tabela 2.2-A Resultado Primário do Governo Central - Brasil - Anual",
+    "unidade_desc": "% do PIB",
+    "n_linhas": 4611
+  },
+  "2.3": {
+    "titulo": "Tabela 2.3. Investimento do Governo Central 1/ - Brasil - Anual",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 1080
+  },
+  "2.3-A": {
+    "titulo": "Tabela 2.3-A Investimento do Governo Central 1/ - Brasil - Anual",
+    "unidade_desc": "% do PIB",
+    "n_linhas": 1080
+  },
+  "2.4": {
+    "titulo": "Tabela 2.4. Custeio Administrativo do Governo Central 1/ - Brasil - Anual",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 480
+  },
+  "2.4-A": {
+    "titulo": "Tabela 2.4 - A Custeio Administrativo do Governo Central 1/ - Brasil - Anual",
+    "unidade_desc": "% do PIB",
+    "n_linhas": 480
+  },
+  "2.5": {
+    "titulo": "Tabela 2.5 Transferências e despesas primárias do Governo Central apuradas pelo critério de \"valor pago\" 1/ - Brasil - Anual",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 1752
+  },
+  "2.5-A": {
+    "titulo": "Tabela 2.5-A Transferências e despesas primárias do Governo Central apuradas pelo critério de \"valor pago\" 1/ - Brasil - Anual",
+    "unidade_desc": "% do PIB",
+    "n_linhas": 1752
+  },
+  "4.1": {
+    "titulo": "Tabela 4.1. Demonstrativo de Operações do Governo Central Orçamentário - Metodologia Manual de Estatísticas de Finanças Públicas 2014 - Brasil - Trimestral",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 2400
+  },
+  "4.2": {
+    "titulo": "Tabela 4.2. Conciliação do Resultado Primário do RTN e o Resultado de Operações do Governo Central Orçamentário (GCO) - Trimestral",
+    "unidade_desc": "R$ Milhões - Valores Correntes ",
+    "n_linhas": 1224
+  }
+}

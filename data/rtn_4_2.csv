@@ -1,0 +1,1225 @@
+tabela,periodicidade,unidade_tipo,codigo,descricao,nivel,periodo,valor
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2020-I,400841.21052198
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2020-II,257589.10860622
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2020-III,354511.56525499
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2020-IV,454816.9037073799
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2021-I,453805.17060295993
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2021-II,446726.59097635
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2021-III,469912.03734584997
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2021-IV,562205.8806975799
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2022-I,571353.26070207
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2022-II,595794.77397474
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2022-III,556952.5425720399
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2022-IV,589204.8485931801
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2023-I,587965.90470154
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2023-II,571103.8527998601
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2023-III,565893.45370364
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2023-IV,628469.03182346
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2024-I,667856.40090233
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2024-II,641596.91373308
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2024-III,617125.0376681901
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2024-IV,752863.25396191
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2025-I,720713.61185939
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2025-II,702921.4618821699
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2025-III,679982.10855394
+4.2,trimestral,corrente,1.1,Receita RTN 1/,2,2025-IV,798657.3817691
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2020-I,20660.636540939973
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2020-II,17585.308165960014
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2020-III,15116.97123272001
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2020-IV,23028.776759240078
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2021-I,23512.234622430056
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2021-II,13595.787884269957
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2021-III,19945.226038700086
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2021-IV,22331.011868739966
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2022-I,21645.608876440092
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2022-II,24025.219755659928
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2022-III,24492.638920290046
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2022-IV,34428.15649048984
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2023-I,32078.970277379965
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2023-II,25696.112913019955
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2023-III,28946.790307290037
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2023-IV,30794.716963769984
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2024-I,32271.980246650055
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2024-II,36405.271032219985
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2024-III,36917.1545781499
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2024-IV,41426.80013035005
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2025-I,36504.27669673995
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2025-II,36569.23017664009
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2025-III,34418.36435974017
+4.2,trimestral,corrente,1.1.1,"Ajustes na Receita RTN, dos quais:",3,2025-IV,46208.12999937008
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2020-I,-1923.19
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2020-II,-3565.59
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2020-III,-1991.33
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2020-IV,-1927.1
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2021-I,-1469.1399999999999
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2021-II,-2698.9500000000003
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2021-III,-1628.93
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2021-IV,-1474.28
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2022-I,-1541.7900000000002
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2022-II,-1554.3
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2022-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2022-IV,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2023-I,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2023-II,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2023-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2023-IV,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2024-I,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2024-II,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2024-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2024-IV,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2025-I,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2025-II,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2025-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas Desonerações da Folha,1,2025-IV,0
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-I,-458.60338748000004
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-II,-722.9705354
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-III,-5539.1035133
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-IV,-755.30466079
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-I,-376.69836488
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-II,-654.93364343
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-III,-1393.97406714
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-IV,-6198.54890235
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-I,-484.62355285
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-II,-1581.32990215
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-III,-1276.86148125
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-IV,-2031.70809064
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-I,-366.83453303
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-II,-3285.6051469799995
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-III,-295.05397101
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-IV,-2286.68229029
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-I,-307.81045887999994
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-II,-763.97480263
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-III,-320.62001448999996
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-IV,-5736.2902841899995
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-I,-484.5426444
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-II,-964.0848945200001
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-III,-486.0273288
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-IV,-1617.71939225
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2020-I,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2020-II,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2020-III,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2020-IV,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2021-I,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2021-II,-6288.59212138
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2021-III,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2021-IV,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2022-I,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2022-II,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2022-III,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2022-IV,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2023-I,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2023-II,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2023-III,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2023-IV,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2024-I,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2024-II,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2024-III,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2024-IV,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2025-I,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2025-II,-5040.22633465
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2025-III,0
+4.2,trimestral,corrente,,(-) Operações financeiras,1,2025-IV,-4985.219999999999
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-I,4541.3862609200005
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-II,5120.68835592
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-III,5199.40729365
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-IV,6855.10215549
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-I,5127.72884202
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-II,5145.69149713
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-III,5129.84521722
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-IV,6883.052974070001
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-I,5051.505591
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-II,5106.09482364
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-III,5048.74150199
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-IV,6571.4029843299995
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-I,4771.94566412
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-II,5005.10986376
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-III,5103.18080538
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-IV,6842.77451342
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-I,5131.65718494
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-II,5228.19259568
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-III,5172.91275187
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-IV,6994.22297281
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-I,5195.70396483
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-II,5966.70861181
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-III,5754.10667312
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-IV,7810.926947260001
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-I,16940.637277054964
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-II,15665.748469636303
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-III,18628.20892061387
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-IV,20768.32148100097
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-I,16799.695788071065
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-II,16910.576319813146
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-III,17836.812451884172
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-IV,23786.565197711698
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-I,18494.312438298737
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-II,22356.138078659453
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-III,22533.330936711696
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-IV,31682.263104421043
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-I,21970.617592654024
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-II,25538.08400495564
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-III,26817.94639400742
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-IV,38031.42902562205
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-I,26853.417467572974
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-II,30356.65020066437
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-III,31283.135515191458
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-IV,42046.6651816447
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-I,30548.338621947514
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-II,33580.64899459123
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-III,34527.42746055461
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-IV,46027.82241991363
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2020-I,2337.2450589101063
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2020-II,2155.096394120017
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2020-III,577.3426637100056
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2020-IV,-574.2828173399321
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2021-I,4297.37676481402
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2021-II,2157.0415004633833
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2021-III,1312.4320805461612
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2021-IV,731.1838803354185
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2022-I,1154.5394271300174
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2022-II,794.5865618099924
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2022-III,-589.3300963700749
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2022-IV,-505.84916901995894
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2023-I,6781.778148469864
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2023-II,-408.1206815800397
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2023-III,-1559.856494429987
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2023-IV,-10212.94339449983
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2024-I,1505.8303718700772
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2024-II,2662.8280049598543
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2024-III,1768.961873879889
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2024-IV,-489.97598428989295
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2025-I,2351.1904112400953
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2025-II,4333.521835190128
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2025-III,-4179.453580280067
+4.2,trimestral,corrente,,(+) Registro Siafi x Fluxo de Caixa,1,2025-IV,622.4441332702991
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2020-I,-909.34485021
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2020-II,-1099.9339776
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2020-III,-1124.5813086100002
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2020-IV,-1426.89167614
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2021-I,-908.25976284
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2021-II,-1117.9569767
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2021-III,-1368.87258461
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2021-IV,-1383.8878059899998
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2022-I,-1039.36766255
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2022-II,-1049.40068347
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2022-III,-1100.6806206200001
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2022-IV,-1280.86436479
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2023-I,-1080.7936900500001
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2023-II,-1153.35455981
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2023-III,-1119.4264266599998
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2023-IV,-1479.84894181
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2024-I,-910.4546469800001
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2024-II,-1027.35337697
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2024-III,-973.51708471
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2024-IV,-1332.6869002199999
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2025-I,-1086.5749600800002
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2025-II,-1280.1291907600003
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2025-III,-1191.1660226500003
+4.2,trimestral,corrente,,(-) Receita do Banco Central,1,2025-IV,-1411.1623769700002
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-I,-15.96130858
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-II,-15.73582663
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-IV,-4.11444579
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-II,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-IV,-31.67305011
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-II,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-IV,-87.32375522
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-II,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-IV,-102.31762
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-II,-42.25778801
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-III,-9.63447851
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-IV,-42.1723561
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-I,-10.42402657
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-II,-18.0042058
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-IV,-231.81807738999998
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-I,148.46749032490334
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-II,48.00528591369584
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-III,-632.9728233438636
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-IV,93.04672280903833
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-I,41.531355244969745
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-II,142.91130837342644
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-III,57.91294079974978
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-IV,18.599575072850712
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-I,11.03263541133856
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-II,-46.56912282951453
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-III,-122.56132017157142
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-IV,80.23578140875907
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-I,2.2570952160749584
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-II,-0.000567325645533856
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-III,2.6047928258776665e-09
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-IV,2.3056713277692324
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-I,-0.659671872996114
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-II,-8.813801474236243
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-III,-4.083985081444553
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-IV,-12.962499304754601
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-I,-9.41467022766301
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-II,-9.204639221257821
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-III,-6.522842204372864
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-IV,-7.143654463849089
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2020-I,421501.84706292
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2020-II,275174.41677218
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2020-III,369628.53648771
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2020-IV,477845.68046661996
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2021-I,477317.40522539
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2021-II,460322.37886061997
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2021-III,489857.26338455005
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2021-IV,584536.8925663199
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2022-I,592998.86957851
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2022-II,619819.9937303999
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2022-III,581445.1814923299
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2022-IV,623633.0050836699
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2023-I,620044.87497892
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2023-II,596799.96571288
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2023-III,594840.2440109301
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2023-IV,659263.74878723
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2024-I,700128.38114898
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2024-II,678002.1847653
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2024-III,654042.19224634
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2024-IV,794290.0540922601
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2025-I,757217.88855613
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2025-II,739490.69205881
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2025-III,714400.4729136801
+4.2,trimestral,corrente,1.2,Receita primária GCO (1.1 + 1.1.1) 4/,2,2025-IV,844865.51176847
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2020-I,46847.129721699996
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2020-II,28657.885470330002
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2020-III,30601.5490234
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2020-IV,39362.80234089
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2021-I,47463.159846099996
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2021-II,44303.116364240006
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2021-III,53405.90301271
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2021-IV,63626.684097590005
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2022-I,70350.62578983
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2022-II,85954.59002152001
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2022-III,66796.6435626
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2022-IV,75065.71307239
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2023-I,81866.88341616
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2023-II,81080.60830566
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2023-III,73068.91900347
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2023-IV,71209.98855594
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2024-I,76412.44109295
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2024-II,72748.65201928001
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2024-III,68079.50536002
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2024-IV,72078.71953546
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2025-I,85739.91764372
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2025-II,86505.06114687
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2025-III,89544.73110356
+4.2,trimestral,corrente,1.2.1,Receita de juros 4/,3,2025-IV,90610.55290827001
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2020-I,468348.97678461997
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2020-II,303832.30224251
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2020-III,400230.08551111
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2020-IV,517208.48280750995
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2021-I,524780.56507149
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2021-II,504625.49522486
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2021-III,543263.16639726
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2021-IV,648163.57666391
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2022-I,663349.49536834
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2022-II,705774.5837519199
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2022-III,648241.8250549299
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2022-IV,698698.71815606
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2023-I,701911.75839508
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2023-II,677880.57401854
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2023-III,667909.1630144
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2023-IV,730473.73734317
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2024-I,776540.82224193
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2024-II,750750.83678458
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2024-III,722121.69760636
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2024-IV,866368.7736277201
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2025-I,842957.80619985
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2025-II,825995.75320568
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2025-III,803945.2040172401
+4.2,trimestral,corrente,1.3,Receita (1.2 + 1.2.1) 4/,2,2025-IV,935476.0646767401
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2020-I,403696.9871357406
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2020-II,672094.6656681632
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2020-III,614612.3590213223
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2020-IV,520530.2792923135
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2021-I,429599.8501605625
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2021-II,524500.3133099036
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2021-III,497911.60253974656
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2021-IV,515705.8481028191
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2022-I,521327.0597905215
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2022-II,591528.1414567678
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2022-III,580826.5463822469
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2022-IV,573215.2166023566
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2023-I,556075.5414016042
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2023-II,644966.5995599088
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2023-III,616579.4036529465
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2023-IV,764310.0797066943
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2024-I,647685.4018036096
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2024-II,729140.694866249
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2024-III,653324.9542372382
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2024-IV,692214.2468989796
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2025-I,665720.450556472
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2025-II,769191.5412454333
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2025-III,768971.9264094336
+4.2,trimestral,corrente,2.1,"Transferências e Despesa RTN, dos quais: 1/",2,2025-IV,760084.9548342503
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2020-I,74988.30508049436
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2020-II,56537.83004364703
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2020-III,55512.39637854764
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2020-IV,76759.51639483261
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2021-I,84642.61806894583
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2021-II,83672.46332275691
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2021-III,83951.91410443987
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2021-IV,101279.83941567247
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2022-I,110396.37202377486
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2022-II,116855.63922223111
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2022-III,109356.98451315018
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2022-IV,120594.87717222002
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2023-I,118173.11798870745
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2023-II,109471.86928939223
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2023-III,100415.62771963986
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2023-IV,123948.47128504762
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2024-I,132909.10111036283
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2024-II,124150.00174788231
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2024-III,121135.29986319148
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2024-IV,139459.6015137029
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2025-I,143685.65541761531
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2025-II,141504.50333371147
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2025-III,132034.19970323684
+4.2,trimestral,corrente,,Transferências por repartição de receitas,1,2025-IV,152494.90417854866
+4.2,trimestral,corrente,,Despesa total,1,2020-I,328708.6820552462
+4.2,trimestral,corrente,,Despesa total,1,2020-II,615556.8356245162
+4.2,trimestral,corrente,,Despesa total,1,2020-III,559099.9626427747
+4.2,trimestral,corrente,,Despesa total,1,2020-IV,443770.76289748086
+4.2,trimestral,corrente,,Despesa total,1,2021-I,344957.23209161666
+4.2,trimestral,corrente,,Despesa total,1,2021-II,440827.8499871467
+4.2,trimestral,corrente,,Despesa total,1,2021-III,413959.68843530666
+4.2,trimestral,corrente,,Despesa total,1,2021-IV,414426.00868714665
+4.2,trimestral,corrente,,Despesa total,1,2022-I,410930.6877667467
+4.2,trimestral,corrente,,Despesa total,1,2022-II,474672.5022345367
+4.2,trimestral,corrente,,Despesa total,1,2022-III,471469.5618690967
+4.2,trimestral,corrente,,Despesa total,1,2022-IV,452620.3394301366
+4.2,trimestral,corrente,,Despesa total,1,2023-I,437902.4234128967
+4.2,trimestral,corrente,,Despesa total,1,2023-II,535494.7302705166
+4.2,trimestral,corrente,,Despesa total,1,2023-III,516163.7759333066
+4.2,trimestral,corrente,,Despesa total,1,2023-IV,640361.6084216468
+4.2,trimestral,corrente,,Despesa total,1,2024-I,514776.3006932467
+4.2,trimestral,corrente,,Despesa total,1,2024-II,604990.6931183666
+4.2,trimestral,corrente,,Despesa total,1,2024-III,532189.6543740467
+4.2,trimestral,corrente,,Despesa total,1,2024-IV,552754.6453852768
+4.2,trimestral,corrente,,Despesa total,1,2025-I,522034.7951388567
+4.2,trimestral,corrente,,Despesa total,1,2025-II,627687.0379117217
+4.2,trimestral,corrente,,Despesa total,1,2025-III,636937.7267061968
+4.2,trimestral,corrente,,Despesa total,1,2025-IV,607590.0506557017
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2020-I,19139.88906589942
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2020-II,-19454.206777553074
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2020-III,-20972.08392696234
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2020-IV,15701.462197076413
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2021-I,20230.046359777567
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2021-II,39977.78969663638
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2021-III,-10194.568466556608
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2021-IV,10125.331653690955
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2022-I,21498.86289318849
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2022-II,27445.477527772193
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2022-III,12361.091414763243
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2022-IV,53475.11733213335
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2023-I,25606.649683685857
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2023-II,54884.09182679106
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2023-III,-9857.0541360965
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2023-IV,20510.417592655518
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2024-I,33481.90025013045
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2024-II,32182.85821112094
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2024-III,25914.289533871925
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2024-IV,34452.62874042033
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2025-I,32368.672335157986
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2025-II,44144.02923520678
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2025-III,22978.932200746378
+4.2,trimestral,corrente,2.1.1,"Ajustes nas Transferências e Despesa RTN, dos quais:",3,2025-IV,46950.26832884969
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2020-I,-1923.19
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2020-II,-3565.59
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2020-III,-1991.33
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2020-IV,-1927.1
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2021-I,-1469.1399999999999
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2021-II,-2698.9500000000003
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2021-III,-1628.93
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2021-IV,-1474.28
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2022-I,-1541.7900000000002
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2022-II,-1554.3
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2022-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2022-IV,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2023-I,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2023-II,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2023-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2023-IV,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2024-I,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2024-II,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2024-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2024-IV,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2025-I,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2025-II,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2025-III,0
+4.2,trimestral,corrente,,(-) Compensação ao RGPS pelas desonerações da folha,1,2025-IV,0
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2020-I,-168.09149390999974
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2020-II,-343.21991265999867
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2020-III,-503.7727438699993
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2020-IV,-583.8634478600004
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2021-I,-336.75537356999956
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2021-II,-341.0452514600009
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2021-III,-424.16604320000005
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2021-IV,-458.1430235599999
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2022-I,-292.78307770999993
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2022-II,-380.30978116999944
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2022-III,-437.2674436299996
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2022-IV,-530.5201802900006
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2023-I,-342.7456588299991
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2023-II,-420.5745557199996
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2023-III,-509.2205356300011
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2023-IV,-690.5218760600012
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2024-I,-426.55045161
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2024-II,-409.27749540000053
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2024-III,-427.2370485099996
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2024-IV,-511.53470870999917
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2025-I,-365.23523032000077
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2025-II,-429.6503104400002
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2025-III,-522.4919766100002
+4.2,trimestral,corrente,,(-) Operações intraorçamentárias,1,2025-IV,-500.22213246000064
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2020-I,-599.47850335
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2020-II,-17287.92235934
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2020-III,-5549.232470259998
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2020-IV,9013.59709874
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2021-I,-48.24896330000001
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2021-II,-730.3103200400001
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2021-III,-365.37348915
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2021-IV,-687.98243704
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2022-I,-461.01661034
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2022-II,-837.90129913
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2022-III,-290.05377469999996
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2022-IV,-242.21889548999988
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2023-I,-529.77909094
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2023-II,-796.5705964000001
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2023-III,-1325.6398750199996
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2023-IV,-831.2397383399999
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2024-I,-321.69370395
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2024-II,-1000.14380046
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2024-III,-369.17525178999995
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2024-IV,-720.7928704399999
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2025-I,-423.04348045999996
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2025-II,-1206.7465
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2025-III,-853.193253
+4.2,trimestral,corrente,,(-) Operações financeiras de subsídios e subvenções,1,2025-IV,-1271.85567457
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2020-I,551.46206231
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2020-II,324.08819592
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2020-III,593.3925076600002
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2020-IV,770.50530032
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2021-I,1157.7312763999998
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2021-II,1079.7441835800003
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2021-III,1329.96727088
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2021-IV,1298.3992297200002
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2022-I,1063.15171842
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2022-II,947.3633090599999
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2022-III,2106.53680962
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2022-IV,1126.0996463699998
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2023-I,1670.53402699
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2023-II,945.7387963399999
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2023-III,747.1781374
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2023-IV,631.3429279300001
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2024-I,413.92360428999996
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2024-II,362.82622510999994
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2024-III,440.6150190399999
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2024-IV,318.03203587
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2025-I,340.29188088
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2025-II,290.62468376
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2025-III,388.29266653999997
+4.2,trimestral,corrente,,(-) Receitas de retorno de subsídios e subvenções,1,2025-IV,524.86518542
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2020-I,-519.36165004
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2020-II,-20902.89100542
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2020-III,-22013.96473639
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2020-IV,-15806.4316806
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2021-I,-500.03137606999996
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2021-II,-1288.9658058099997
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2021-III,-5153.522325100001
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2021-IV,-11530.689744270003
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2022-I,-435.85573345
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2022-II,-603.7614823399999
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2022-III,-325.05379613
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2022-IV,-2801.58531661
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2023-I,-301.96307106
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2023-II,-1088.6545659299998
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2023-III,-410.92059999
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2023-IV,-2470.29686798
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2024-I,-47.758180870000004
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2024-II,-5260.7406825299995
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2024-III,-850.2936787299999
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2024-IV,-7823.342087
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2025-I,-603.51164412
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2025-II,-596.8657528299999
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2025-III,-1242.08882379
+4.2,trimestral,corrente,,(-) Aquisição de ativos  financeiros,1,2025-IV,-356.81126144
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2020-I,-1895.0931609443614
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2020-II,-2711.172539357029
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2020-III,-2319.533353627633
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2020-IV,-1627.4407692525997
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2021-I,-1402.9433702258139
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2021-II,-1969.517904346918
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2021-III,-1295.0590831798731
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2021-IV,-1147.8492855324657
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2022-I,-1795.1575838348685
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2022-II,-1535.8559143511134
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2022-III,-3578.055713780172
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2022-IV,-3168.533754320026
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2023-I,-2538.168532537448
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2023-II,-2423.0053857522307
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2023-III,-3436.1082408098723
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2023-IV,-2904.450031787625
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2024-I,-2672.4140065
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2024-II,-2995.846137129999
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2024-III,-3513.04235881
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2024-IV,-3779.4975381400004
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2025-I,-4581.20221442
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2025-II,-4123.13467715
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2025-III,-5170.804494240001
+4.2,trimestral,corrente,,(-) Fundos Constitucionais,1,2025-IV,-5252.38655637
+4.2,trimestral,corrente,,(-) Registro FIES,1,2020-I,792.7898973238023
+4.2,trimestral,corrente,,(-) Registro FIES,1,2020-II,449.53487824372394
+4.2,trimestral,corrente,,(-) Registro FIES,1,2020-III,503.711036545172
+4.2,trimestral,corrente,,(-) Registro FIES,1,2020-IV,1015.611569859158
+4.2,trimestral,corrente,,(-) Registro FIES,1,2021-I,-1102.8039857666668
+4.2,trimestral,corrente,,(-) Registro FIES,1,2021-II,150.13885739333318
+4.2,trimestral,corrente,,(-) Registro FIES,1,2021-III,3299.9319240933332
+4.2,trimestral,corrente,,(-) Registro FIES,1,2021-IV,-949.6541234866667
+4.2,trimestral,corrente,,(-) Registro FIES,1,2022-I,-661.9708332066666
+4.2,trimestral,corrente,,(-) Registro FIES,1,2022-II,-627.6084111566666
+4.2,trimestral,corrente,,(-) Registro FIES,1,2022-III,1102.9761578133334
+4.2,trimestral,corrente,,(-) Registro FIES,1,2022-IV,-516.0474697266668
+4.2,trimestral,corrente,,(-) Registro FIES,1,2023-I,-467.94900138666674
+4.2,trimestral,corrente,,(-) Registro FIES,1,2023-II,-466.9525268166667
+4.2,trimestral,corrente,,(-) Registro FIES,1,2023-III,-480.37131706666673
+4.2,trimestral,corrente,,(-) Registro FIES,1,2023-IV,-189.5819986966669
+4.2,trimestral,corrente,,(-) Registro FIES,1,2024-I,-540.5488350566668
+4.2,trimestral,corrente,,(-) Registro FIES,1,2024-II,-333.11422303666666
+4.2,trimestral,corrente,,(-) Registro FIES,1,2024-III,-393.20097009666677
+4.2,trimestral,corrente,,(-) Registro FIES,1,2024-IV,-229.1437283766668
+4.2,trimestral,corrente,,(-) Registro FIES,1,2025-I,-452.12677600666666
+4.2,trimestral,corrente,,(-) Registro FIES,1,2025-II,-557.68581512
+4.2,trimestral,corrente,,(-) Registro FIES,1,2025-III,-579.9763145699999
+4.2,trimestral,corrente,,(-) Registro FIES,1,2025-IV,-600.3799274500001
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2020-I,-3875.32957846
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2020-II,-5522.2744365300005
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2020-III,-6430.324781339999
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2020-IV,-8702.57740854
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2021-I,-3454.65375048
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2021-II,-5232.14137243
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2021-III,-5666.8006896199995
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2021-IV,-8065.715407820001
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2022-I,-3989.27301728
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2022-II,-6070.86988455
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2022-III,-6487.19946571
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2022-IV,-8916.62941003
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2023-I,-4695.5233559
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2023-II,-7035.92055307
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2023-III,-8382.66554704
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2023-IV,-12302.34066826
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2024-I,-6389.34136902
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2024-II,-8514.92415417
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2024-III,-9287.53158603
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2024-IV,-12343.1886482
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2025-I,-5558.90905258
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2025-II,-8221.51855545
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2025-III,-9540.60650735
+4.2,trimestral,corrente,,(-) Aquisição de ativos não financeiros 3/,1,2025-IV,-12726.382061690001
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-I,4541.3862609200005
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-II,5120.68835592
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-III,5199.40729365
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2020-IV,6855.10215549
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-I,5127.72884202
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-II,5145.69149713
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-III,5129.84521722
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2021-IV,6883.052974070001
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-I,5051.505591
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-II,5106.09482364
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-III,5048.74150199
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2022-IV,6571.4029843299995
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-I,4771.94566412
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-II,5005.10986376
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-III,5103.18080538
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2023-IV,6842.77451342
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-I,5131.65718494
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-II,5228.19259568
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-III,5172.91275187
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2024-IV,6994.22297281
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-I,5195.70396483
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-II,5966.70861181
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-III,5754.10667312
+4.2,trimestral,corrente,,(+) Contribuição patronal intraorçamentária - RPPS,1,2025-IV,7810.926947260001
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-I,16940.637277054964
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-II,15665.748469636303
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-III,18628.20892061387
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2020-IV,20768.32148100097
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-I,16799.695788071065
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-II,16910.576319813146
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-III,17836.812451884172
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2021-IV,23786.565197711698
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-I,18494.312438298737
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-II,22356.138078659453
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-III,22533.330936711696
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2022-IV,31682.263104421043
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-I,21970.617592654024
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-II,25538.08400495564
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-III,26817.94639400742
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2023-IV,38031.42902562205
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-I,26853.417467572974
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-II,30356.65020066437
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-III,31283.135515191458
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2024-IV,42046.6651816447
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-I,30548.338621947514
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-II,33580.64899459123
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-III,34527.42746055461
+4.2,trimestral,corrente,,(+) IRRF Governos Regionais,1,2025-IV,46027.82241991363
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2020-I,9124.40927082
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2020-II,9238.4272439
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2020-III,9490.91347549
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2020-IV,9886.25000978
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2021-I,10045.84117168
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2021-II,10529.19092533
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2021-III,10880.39211194
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2021-IV,11076.56509823
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2022-I,10370.30856941
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2022-II,10744.94898538
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2022-III,11010.60610266
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2022-IV,11056.97932077
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2023-I,11215.096649520001
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2023-II,11310.60612568
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2023-III,11409.66146484
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2023-IV,11454.37888644
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2024-I,11858.028788799998
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2024-II,12023.10549125
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2024-III,11772.41199264
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2024-IV,11940.99273977
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2025-I,11779.59112159
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2025-II,11925.02318208
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2025-III,12130.640032360001
+4.2,trimestral,corrente,,(+) Consumo de capital fixo 3/,1,2025-IV,12218.551127199999
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2020-I,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2020-II,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2020-III,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2020-IV,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2021-I,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2021-II,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2021-III,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2021-IV,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2022-I,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2022-II,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2022-III,-3099.616451221692
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2022-IV,22419.25872152169
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2023-I,-482.02172668
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2023-II,-859.2238495800001
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2023-III,-2650.63323516912
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2023-IV,-10809.064275190001
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2024-I,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2024-II,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2024-III,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2024-IV,0
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2025-I,-2557.9245164300005
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2025-II,-666.8778390499999
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2025-III,-266.80185903
+4.2,trimestral,corrente,,(+) Transferência aos Estados referente à compensação de ICMS - LC 194/2022,1,2025-IV,-78.50877688
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2020-I,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2020-II,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2020-III,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2020-IV,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2021-I,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2021-II,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2021-III,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2021-IV,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2022-I,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2022-II,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2022-III,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2022-IV,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2023-I,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2023-II,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2023-III,0
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2023-IV,-6100
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2024-I,489.99626161
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2024-II,1776.20947969
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2024-III,1303.79960256
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2024-IV,2081.81157313
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2025-I,4237.66141056
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2025-II,2247.7490323899997
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2025-III,2180.8970315
+4.2,trimestral,corrente,,(+) Registro FIPEM 5/,1,2025-IV,2055.29173703
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2020-I,3982.868369794495
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2020-II,7185.265899103271
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2020-III,-6324.089870312866
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2020-IV,-444.03609905096437
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2021-I,4165.61305479065
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2021-II,25467.390145713805
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2021-III,-25797.154176861695
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2021-IV,4653.79267941919
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2022-I,4681.06840825414
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2022-II,11009.38733444537
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2022-III,-9411.517140388352
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2022-IV,2233.259457292233
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2023-I,3903.717713347107
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2023-II,35793.75176599732
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2023-III,-31127.83610396814
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2023-IV,-208.6594901557619
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2024-I,5855.856621380127
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2024-II,7200.018358260254
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2024-III,-5756.139491520507
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2024-IV,1188.1563595203856
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2025-I,3265.7017711397707
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2025-II,11943.70584315979
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2025-III,-9371.907700359741
+4.2,trimestral,corrente,,(+) Registro contábil - Competência x Pagamento Efetivo,1,2025-IV,1906.9340441499635
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2020-I,-953.43179049
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2020-II,-1326.68038449
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2020-III,-1311.0352304799999
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2020-IV,-1519.57868686
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2021-I,-1021.2221042900001
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2021-II,-1296.43258382
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2021-III,-1594.8502948799996
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2021-IV,-1477.60749151
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2022-I,-1030.61144067
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2022-II,-1140.0714335300001
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2022-III,-1329.81981171
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2022-IV,-1443.27818185
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2023-I,-978.68467229
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2023-II,-1382.91318444
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2023-III,-1359.11329847
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2023-IV,-1578.21143769
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2024-I,-1033.51359511
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2024-II,-1173.45655035
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2024-III,-1645.38342561
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2024-IV,-1609.93347674
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2025-I,-1097.7133611
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2025-II,-1338.24741599
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2025-III,-1644.4573598
+4.2,trimestral,corrente,,(-) Despesa do Banco Central,1,2025-IV,-1758.23970803
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2020-I,-48.635189940000004
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2020-II,-273.52325286
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2020-III,-358.53745145
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2020-IV,-366.92130798
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2021-I,-61.83228431
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2021-II,-302.25481211
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2021-III,-275.66894958
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2021-IV,-359.43721202
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2022-I,-118.71295827
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2022-II,-226.38345242999998
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2022-III,-296.06760648
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2022-IV,-359.30450640000004
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2023-I,-63.913911889999994
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2023-II,-328.57764136000003
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2023-III,-395.08247352
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2023-IV,-318.4249067
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2024-I,-61.947943450000004
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2024-II,-83.72753556
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2024-III,-680.31473956
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2024-IV,-378.80625799
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2025-I,-88.19033616
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2025-II,-78.61406009999999
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2025-III,-566.43123941
+4.2,trimestral,corrente,,(-) Fabricação de Cédulas e Moedas,1,2025-IV,-413.74599733
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-I,-15.96130858
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-II,-15.73582663
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2020-IV,-4.11444579
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-II,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2021-IV,-31.67305011
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-II,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2022-IV,-87.32375522
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-II,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2023-IV,-102.31762
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-I,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-II,-42.25778801
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-III,-9.63447851
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2024-IV,-42.1723561
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-I,-10.42402657
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-II,-18.0042058
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-III,0
+4.2,trimestral,corrente,,(-) Complemento para o FGTS,1,2025-IV,-231.81807738999998
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2020-I,3875.32957846
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2020-II,5522.2744365300005
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2020-III,6430.324781339999
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2020-IV,8702.57740854
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2021-I,3454.65375048
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2021-II,5232.14137243
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2021-III,5666.8006896199995
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2021-IV,8065.715407820001
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2022-I,3989.27301728
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2022-II,6070.86988455
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2022-III,6487.19946571
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2022-IV,8916.62941003
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2023-I,4695.5233559
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2023-II,7035.92055307
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2023-III,8382.66554704
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2023-IV,12302.34066826
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2024-I,6389.34136902
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2024-II,8514.92415417
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2024-III,9287.53158603
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2024-IV,12343.1886482
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2025-I,5558.90905258
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2025-II,8221.51855545
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2025-III,9540.60650735
+4.2,trimestral,corrente,,(+) Aquisição de ativos não financeiros 3/,1,2025-IV,12726.382061690001
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-I,-458.60338748000004
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-II,-722.9705354
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-III,-5539.1035133
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2020-IV,-755.30466079
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-I,-376.69836488
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-II,-654.93364343
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-III,-1393.97406714
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2021-IV,-6198.54890235
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-I,-484.62355285
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-II,-1581.32990215
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-III,-1276.86148125
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2022-IV,-2031.70809064
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-I,-366.83453303
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-II,-3285.6051469799995
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-III,-295.05397101
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2023-IV,-2286.68229029
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-I,-307.81045887999994
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-II,-763.97480263
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-III,-320.62001448999996
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2024-IV,-5736.2902841899995
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-I,-484.5426444
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-II,-964.0848945200001
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-III,-486.0273288
+4.2,trimestral,corrente,,(-) Venda de ativos não financeiros 3/,1,2025-IV,-1617.71939225
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2020-I,-9124.40927082
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2020-II,-9238.4272439
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2020-III,-9490.91347549
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2020-IV,-9886.25000978
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2021-I,-10045.84117168
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2021-II,-10529.19092533
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2021-III,-10880.39211194
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2021-IV,-11076.56509823
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2022-I,-10370.30856941
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2022-II,-10744.94898538
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2022-III,-11010.60610266
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2022-IV,-11056.97932077
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2023-I,-11215.096649520001
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2023-II,-11310.60612568
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2023-III,-11409.66146484
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2023-IV,-11454.37888644
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2024-I,-11858.028788799998
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2024-II,-12023.10549125
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2024-III,-11772.41199264
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2024-IV,-11940.99273977
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2025-I,-11779.59112159
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2025-II,-11925.02318208
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2025-III,-12130.640032360001
+4.2,trimestral,corrente,,(-) Consumo de capital fixo 3/,1,2025-IV,-12218.551127199999
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-I,-1087.408316769477
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-II,-1049.8267602193373
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-III,13.795684259112022
+4.2,trimestral,corrente,,Discrepância não explicada,1,2020-IV,313.1156898498484
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-I,-701.0467790916664
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-II,506.65901402301097
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-III,137.57309845745476
+4.2,trimestral,corrente,,Discrepância não explicada,1,2021-IV,-2180.6131573507955
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-I,-968.6534724528537
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-II,-3485.9843417748525
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-III,1613.8192279184295
+4.2,trimestral,corrente,,Discrepância não explicada,1,2022-IV,623.3535687450712
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-I,-638.1051147811559
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-II,-1346.5151512830053
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-III,-535.3798222301193
+4.2,trimestral,corrente,,Discrepância não explicada,1,2023-IV,3494.321658573521
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-I,149.28628576401388
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-II,-678.4996331770235
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-III,1678.868102837645
+4.2,trimestral,corrente,,Discrepância não explicada,1,2024-IV,2655.253925131925
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-I,-555.1110842126363
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-II,94.50354049575981
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-III,832.3887186415159
+4.2,trimestral,corrente,,Discrepância não explicada,1,2025-IV,706.1154992460943
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2020-I,422836.87620164
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2020-II,652640.4588906101
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2020-III,593640.27509436
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2020-IV,536231.7414893899
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2021-I,449829.89652034006
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2021-II,564478.10300654
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2021-III,487717.03407318995
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2021-IV,525831.1797565101
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2022-I,542825.92268371
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2022-II,618973.61898454
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2022-III,593187.6377970101
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2022-IV,626690.33393449
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2023-I,581682.19108529
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2023-II,699850.6913866999
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2023-III,606722.34951685
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2023-IV,784820.4972993499
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2024-I,681167.30205374
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2024-II,761323.5530773699
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2024-III,679239.2437711101
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2024-IV,726666.8756394
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2025-I,698089.1228916299
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2025-II,813335.57048064
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2025-III,791950.85861018
+4.2,trimestral,corrente,2.2,Despesa primária GCO (2.1 + 2.1.1) 4/,2,2025-IV,807035.2231631
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2020-I,112050.73603542
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2020-II,80549.98149782
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2020-III,106057.36170974
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2020-IV,131967.68259679998
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2021-I,126546.59498408
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2021-II,126305.99429999
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2021-III,158118.51549378
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2021-IV,190846.89740731
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2022-I,205496.67191679002
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2022-II,221438.54852791998
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2022-III,154072.01348815
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2022-IV,203576.28831442
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2023-I,227042.86142605997
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2023-II,207559.63306484
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2023-III,208146.24768851
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2023-IV,214015.16554298002
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2024-I,227827.90174172
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2024-II,227112.60702522
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2024-III,228305.26797669998
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2024-IV,254435.71704217
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2025-I,288506.49530244
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2025-II,289509.08918444003
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2025-III,316185.88117763
+4.2,trimestral,corrente,2.2.1,Gasto de juros 4/,3,2025-IV,325869.9584094
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2020-I,534887.61223706
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2020-II,733190.4403884301
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2020-III,699697.6368041
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2020-IV,668199.42408619
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2021-I,576376.4915044201
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2021-II,690784.09730653
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2021-III,645835.54956697
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2021-IV,716678.07716382
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2022-I,748322.5946005001
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2022-II,840412.16751246
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2022-III,747259.6512851601
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2022-IV,830266.62224891
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2023-I,808725.05251135
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2023-II,907410.3244515399
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2023-III,814868.59720536
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2023-IV,998835.6628423299
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2024-I,908995.20379546
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2024-II,988436.16010259
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2024-III,907544.5117478101
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2024-IV,981102.59268157
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2025-I,986595.61819407
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2025-II,1102844.65966508
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2025-III,1108136.73978781
+4.2,trimestral,corrente,2.3,Despesa (2.2 + 2.2.1) 4/,2,2025-IV,1132905.1815725
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2020-I,-2855.776613760565
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2020-II,-414505.5570619433
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2020-III,-260100.79376633238
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2020-IV,-65713.37558493351
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2021-I,24205.320442397453
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2021-II,-77773.7223335536
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2021-III,-27999.56519389659
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2021-IV,46500.032594760865
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2022-I,50026.20091154844
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2022-II,4266.632517972219
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2022-III,-23874.003810206923
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2022-IV,15989.63199082337
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2023-I,31890.363299935896
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2023-II,-73862.74676004879
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2023-III,-50685.949949306465
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2023-IV,-135841.04788323425
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2024-I,20170.999098720495
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2024-II,-87543.78113316896
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2024-III,-36199.916569048044
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2024-IV,60649.00706293041
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2025-I,54993.16130291807
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2025-II,-66270.07936326315
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2025-III,-88989.81785549357
+4.2,trimestral,corrente,3,Resultado primário - RTN 2/,1,2025-IV,38572.42693484959
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2020-I,1520.7474750405527
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2020-II,37039.51494351309
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2020-III,36089.05515968235
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2020-IV,7327.314562163665
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2021-I,3282.1882626524894
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2021-II,-26382.00181236642
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2021-III,30139.794505256694
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2021-IV,12205.680215049011
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2022-I,146.74598325160332
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2022-II,-3420.2577721122652
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2022-III,12131.547505526803
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2022-IV,-19046.960841643508
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2023-I,6472.3205936941085
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2023-II,-29187.978913771105
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2023-III,38803.84444338654
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2023-IV,10284.299371114466
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2024-I,-1209.9200034803944
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2024-II,4222.412821099046
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2024-III,11002.865044277976
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2024-IV,6974.171389929717
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2025-I,4135.604361581965
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2025-II,-7574.799058566685
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2025-III,11439.43215899379
+4.2,trimestral,corrente,3.1,Ajuste final (3.1.1 - 3.1.2),2,2025-IV,-742.1383294796105
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2020-I,20660.636540939973
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2020-II,17585.308165960014
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2020-III,15116.97123272001
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2020-IV,23028.776759240078
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2021-I,23512.234622430056
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2021-II,13595.787884269957
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2021-III,19945.226038700086
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2021-IV,22331.011868739966
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2022-I,21645.608876440092
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2022-II,24025.219755659928
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2022-III,24492.638920290046
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2022-IV,34428.15649048984
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2023-I,32078.970277379965
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2023-II,25696.112913019955
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2023-III,28946.790307290037
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2023-IV,30794.716963769984
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2024-I,32271.980246650055
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2024-II,36405.271032219985
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2024-III,36917.1545781499
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2024-IV,41426.80013035005
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2025-I,36504.27669673995
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2025-II,36569.23017664009
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2025-III,34418.36435974017
+4.2,trimestral,corrente,3.1.1,Ajuste nas Receitas RTN (+),3,2025-IV,46208.12999937008
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2020-I,19139.88906589942
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2020-II,-19454.206777553074
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2020-III,-20972.08392696234
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2020-IV,15701.462197076413
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2021-I,20230.046359777567
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2021-II,39977.78969663638
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2021-III,-10194.568466556608
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2021-IV,10125.331653690955
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2022-I,21498.86289318849
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2022-II,27445.477527772193
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2022-III,12361.091414763243
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2022-IV,53475.11733213335
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2023-I,25606.649683685857
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2023-II,54884.09182679106
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2023-III,-9857.0541360965
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2023-IV,20510.417592655518
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2024-I,33481.90025013045
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2024-II,32182.85821112094
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2024-III,25914.289533871925
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2024-IV,34452.62874042033
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2025-I,32368.672335157986
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2025-II,44144.02923520678
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2025-III,22978.932200746378
+4.2,trimestral,corrente,3.1.2,Ajuste nas Transferências e Despesas RTN (-),3,2025-IV,46950.26832884969
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2020-I,-1335.0291387199977
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2020-II,-377466.0421184301
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2020-III,-224011.73860664997
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2020-IV,-58386.06102277001
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2021-I,27487.508705050015
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2021-II,-104155.72414592002
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2021-III,2140.229311360017
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2021-IV,58705.71280980998
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2022-I,50172.94689479991
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2022-II,846.3747458600265
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2022-III,-11742.456304680032
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2022-IV,-3057.328850819991
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2023-I,38362.68389363005
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2023-II,-103050.72567381995
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2023-III,-11882.105505919986
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2023-IV,-125556.74851211996
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2024-I,18961.079095239984
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2024-II,-83321.36831206997
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2024-III,-25197.051524770097
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2024-IV,67623.1784528601
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2025-I,59128.76566449998
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2025-II,-73844.87842183001
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2025-III,-77550.38569649999
+4.2,trimestral,corrente,4,Capacidade (+)/Necessidade(-) líquida de financiamento primária GCO (3 + 3.1) 4/,1,2025-IV,37830.28860537009
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2020-I,-65203.60631372001
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2020-II,-51892.09602749
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2020-III,-75455.81268634
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2020-IV,-92604.88025590999
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2021-I,-79083.43513798
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2021-II,-82002.87793574999
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2021-III,-104712.61248107
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2021-IV,-127220.21330971998
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2022-I,-135146.04612696002
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2022-II,-135483.95850639997
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2022-III,-87275.36992555
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2022-IV,-128510.57524203
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2023-I,-145175.97800989996
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2023-II,-126479.02475917999
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2023-III,-135077.32868504
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2023-IV,-142805.17698704003
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2024-I,-151415.46064877
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2024-II,-154363.95500594
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2024-III,-160225.76261667997
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2024-IV,-182356.99750671
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2025-I,-202766.57765872002
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2025-II,-203004.02803757004
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2025-III,-226641.15007406997
+4.2,trimestral,corrente,4.1,Juros Líquidos (4.1.1 - 4.1.2),2,2025-IV,-235259.40550113
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2020-I,46847.129721699996
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2020-II,28657.885470330002
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2020-III,30601.5490234
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2020-IV,39362.80234089
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2021-I,47463.159846099996
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2021-II,44303.116364240006
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2021-III,53405.90301271
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2021-IV,63626.684097590005
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2022-I,70350.62578983
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2022-II,85954.59002152001
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2022-III,66796.6435626
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2022-IV,75065.71307239
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2023-I,81866.88341616
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2023-II,81080.60830566
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2023-III,73068.91900347
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2023-IV,71209.98855594
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2024-I,76412.44109295
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2024-II,72748.65201928001
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2024-III,68079.50536002
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2024-IV,72078.71953546
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2025-I,85739.91764372
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2025-II,86505.06114687
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2025-III,89544.73110356
+4.2,trimestral,corrente,4.1.1,Receita de juros (+),3,2025-IV,90610.55290827001
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2020-I,112050.73603542
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2020-II,80549.98149782
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2020-III,106057.36170974
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2020-IV,131967.68259679998
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2021-I,126546.59498408
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2021-II,126305.99429999
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2021-III,158118.51549378
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2021-IV,190846.89740731
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2022-I,205496.67191679002
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2022-II,221438.54852791998
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2022-III,154072.01348815
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2022-IV,203576.28831442
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2023-I,227042.86142605997
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2023-II,207559.63306484
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2023-III,208146.24768851
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2023-IV,214015.16554298002
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2024-I,227827.90174172
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2024-II,227112.60702522
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2024-III,228305.26797669998
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2024-IV,254435.71704217
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2025-I,288506.49530244
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2025-II,289509.08918444003
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2025-III,316185.88117763
+4.2,trimestral,corrente,4.1.2,Gasto de juros (-),3,2025-IV,325869.9584094
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2020-I,-66538.63545243998
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2020-II,-429358.1381459201
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2020-III,-299467.55129299
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2020-IV,-150990.94127868
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2021-I,-51595.92643292999
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2021-II,-186158.60208167002
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2021-III,-102572.38316970997
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2021-IV,-68514.50049991003
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2022-I,-84973.09923216005
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2022-II,-134637.58376053997
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2022-III,-99017.82623023004
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2022-IV,-131567.90409285002
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2023-I,-106813.29411626988
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2023-II,-229529.75043299998
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2023-III,-146959.43419095996
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2023-IV,-268361.92549915996
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2024-I,-132454.38155353005
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2024-II,-237685.32331800993
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2024-III,-185422.81414145007
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2024-IV,-114733.81905384996
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2025-I,-143637.81199422
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2025-II,-276848.9064594
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2025-III,-304191.53577057004
+4.2,trimestral,corrente,5,Capacidade (+)/Necessidade(-) líquida de financiamento GCO (4 + 4.1) 4/,1,2025-IV,-197429.11689575994

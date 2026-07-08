@@ -1,0 +1,2031 @@
+tabela,periodicidade,unidade_tipo,codigo,descricao,nivel,periodo,valor
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,1997,159012.37514721998
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,1998,183516.204217834
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,1999,209383.5307711301
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2000,235051.9264603559
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2001,270441.181138346
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2002,320056.45485952095
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2003,356131.53487670014
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2004,418993.2891569934
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2005,487822.08090402954
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2006,542810.005410329
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2007,618352.1084603929
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2008,715615.8952906401
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2009,738124.9459499798
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2010,918531.3694962286
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2011,988270.07665692
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2012,1072289.4194307346
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2013,1178983.23858507
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2014,1221474.13234092
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2015,1249103.68621406
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2016,1315985.2686316364
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2017,1383653.146881649
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2018,1488999.2062827144
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2019,1635607.86223003
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2020,1468096.1372304999
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2021,1932649.6796227393
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2022,2313305.42584203
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2023,2353432.2430285
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2024,2679441.60626551
+2.1,anual,corrente,1,RECEITA TOTAL 1/,1,2025,2902274.5640645996
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,1997,101710.99134000001
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,1998,111752.412363
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,1999,134315.24228339997
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2000,156187.723345
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2001,179218.17344314948
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2002,219900.79490799998
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2003,242869.35892299996
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2004,286807.667223
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2005,333069.63118063996
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2006,359189.16918996006
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2007,417509.43861415
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2008,466337.04441949003
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2009,456139.3312590299
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2010,531205.991596
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2011,628894.93289579
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2012,647535.05609337
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2013,720193.3676892
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2014,739178.0048503602
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2015,765137.1798145701
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2016,819751.85484766
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2017,835563.53550946
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2018,905052.42457351
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2019,946082.8637966599
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2020,899522.5079037499
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2021,1195712.30130914
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2022,1390000.44825626
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2023,1439302.59864158
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2024,1690020.4045533903
+2.1,anual,corrente,1.1,-  Receita Administrada pela RFB,2,2025,1859843.9075971898
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,1997,5135.256259
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,1998,6530.952877
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,1999,7861.04880414
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2000,8497.976205
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2001,9079.028762000002
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2002,7956.566514
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2003,8134.749651
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2004,9195.22296
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2005,9019.946378069999
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2006,9978.31674298
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2007,12216.324714800001
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2008,17171.27425229
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2009,15967.9047799
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2010,21093.346541
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2011,26680.65729114
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2012,31067.553560219996
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2013,37138.714750600004
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2014,36563.27696015
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2015,38942.28003581
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2016,31390.477725079996
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2017,32426.4895769
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2018,40678.35279421
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2019,43035.29653404
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2020,45743.696486999994
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2021,61970.274861629994
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2022,59078.702113290004
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2023,54221.9966958
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2024,77749.32054684001
+2.1,anual,corrente,1.1.01,Imposto sobre a Importação,3,2025,90395.23605360999
+2.1,anual,corrente,1.1.02,IPI,3,1997,16552.739062
+2.1,anual,corrente,1.1.02,IPI,3,1998,15824.030666
+2.1,anual,corrente,1.1.02,IPI,3,1999,16084.6880461
+2.1,anual,corrente,1.1.02,IPI,3,2000,17700.491536999998
+2.1,anual,corrente,1.1.02,IPI,3,2001,18939.45091
+2.1,anual,corrente,1.1.02,IPI,3,2002,18622.865379
+2.1,anual,corrente,1.1.02,IPI,3,2003,17874.787781
+2.1,anual,corrente,1.1.02,IPI,3,2004,21294.33507
+2.1,anual,corrente,1.1.02,IPI,3,2005,24451.57242752
+2.1,anual,corrente,1.1.02,IPI,3,2006,27385.116525669997
+2.1,anual,corrente,1.1.02,IPI,3,2007,31875.67389319
+2.1,anual,corrente,1.1.02,IPI,3,2008,37361.12416486001
+2.1,anual,corrente,1.1.02,IPI,3,2009,28086.368623339997
+2.1,anual,corrente,1.1.02,IPI,3,2010,37553.81540199999
+2.1,anual,corrente,1.1.02,IPI,3,2011,41471.406301580006
+2.1,anual,corrente,1.1.02,IPI,3,2012,44480.205970170005
+2.1,anual,corrente,1.1.02,IPI,3,2013,44077.37423477
+2.1,anual,corrente,1.1.02,IPI,3,2014,50146.207356390005
+2.1,anual,corrente,1.1.02,IPI,3,2015,48586.32245439
+2.1,anual,corrente,1.1.02,IPI,3,2016,42293.98847793
+2.1,anual,corrente,1.1.02,IPI,3,2017,48032.50307579
+2.1,anual,corrente,1.1.02,IPI,3,2018,55427.3229957
+2.1,anual,corrente,1.1.02,IPI,3,2019,52685.94749463002
+2.1,anual,corrente,1.1.02,IPI,3,2020,56694.55364529
+2.1,anual,corrente,1.1.02,IPI,3,2021,71286.10705468999
+2.1,anual,corrente,1.1.02,IPI,3,2022,59893.53837295
+2.1,anual,corrente,1.1.02,IPI,3,2023,59326.696669289995
+2.1,anual,corrente,1.1.02,IPI,3,2024,84373.24293272
+2.1,anual,corrente,1.1.02,IPI,3,2025,88363.57696765
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,1997,34020.003967000004
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,1998,42911.457161
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,1999,47490.551729080005
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2000,51242.621816
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2001,60046.64085000001
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2002,78973.16247800001
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2003,83624.51610799998
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2004,92112.659107
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2005,115285.58289877001
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2006,125835.02292859001
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2007,148013.74913099
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2008,179249.42554529
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2009,178795.78526941
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2010,194672.40508899998
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2011,235799.81205564
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2012,246653.32404043004
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2013,272592.3024716
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2014,285684.33506535005
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2015,300442.45732922
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2016,341115.24763857
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2017,339840.91056232003
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2018,362757.26654574997
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2019,398366.45974941994
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2020,384124.92612419
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2021,518525.12334447
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2022,667222.5404668598
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2023,695762.50170423
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2024,785162.24620658
+2.1,anual,corrente,1.1.03,Imposto sobre a Renda,3,2025,867312.0758069201
+2.1,anual,corrente,1.1.04,IOF,3,1997,3784.0268250000004
+2.1,anual,corrente,1.1.04,IOF,3,1998,3533.8497310000007
+2.1,anual,corrente,1.1.04,IOF,3,1999,4876.80263824
+2.1,anual,corrente,1.1.04,IOF,3,2000,3125.420329
+2.1,anual,corrente,1.1.04,IOF,3,2001,3578.0682389999997
+2.1,anual,corrente,1.1.04,IOF,3,2002,4020.5803809999998
+2.1,anual,corrente,1.1.04,IOF,3,2003,4449.860832
+2.1,anual,corrente,1.1.04,IOF,3,2004,5251.960255999999
+2.1,anual,corrente,1.1.04,IOF,3,2005,6097.77087053
+2.1,anual,corrente,1.1.04,IOF,3,2006,6793.427882300001
+2.1,anual,corrente,1.1.04,IOF,3,2007,7855.038158810001
+2.1,anual,corrente,1.1.04,IOF,3,2008,20340.268255699997
+2.1,anual,corrente,1.1.04,IOF,3,2009,19293.43144847
+2.1,anual,corrente,1.1.04,IOF,3,2010,26576.14484200001
+2.1,anual,corrente,1.1.04,IOF,3,2011,31943.37218261
+2.1,anual,corrente,1.1.04,IOF,3,2012,31023.032419970004
+2.1,anual,corrente,1.1.04,IOF,3,2013,29642.62747172
+2.1,anual,corrente,1.1.04,IOF,3,2014,29892.947839300006
+2.1,anual,corrente,1.1.04,IOF,3,2015,34869.72750034
+2.1,anual,corrente,1.1.04,IOF,3,2016,33782.40685662
+2.1,anual,corrente,1.1.04,IOF,3,2017,34983.514963420006
+2.1,anual,corrente,1.1.04,IOF,3,2018,36786.12644843
+2.1,anual,corrente,1.1.04,IOF,3,2019,41044.22130983
+2.1,anual,corrente,1.1.04,IOF,3,2020,22047.586264160003
+2.1,anual,corrente,1.1.04,IOF,3,2021,49128.42200222001
+2.1,anual,corrente,1.1.04,IOF,3,2022,59091.20390155999
+2.1,anual,corrente,1.1.04,IOF,3,2023,61902.20282408998
+2.1,anual,corrente,1.1.04,IOF,3,2024,67748.46906898
+2.1,anual,corrente,1.1.04,IOF,3,2025,86380.43918458998
+2.1,anual,corrente,1.1.05,Cofins,3,1997,19112.970209
+2.1,anual,corrente,1.1.05,Cofins,3,1998,18697.386003999996
+2.1,anual,corrente,1.1.05,Cofins,3,1999,32069.737737220003
+2.1,anual,corrente,1.1.05,Cofins,3,2000,39823.323042
+2.1,anual,corrente,1.1.05,Cofins,3,2001,46118.153737
+2.1,anual,corrente,1.1.05,Cofins,3,2002,52067.71784477
+2.1,anual,corrente,1.1.05,Cofins,3,2003,59405.20937101001
+2.1,anual,corrente,1.1.05,Cofins,3,2004,78789.0026823458
+2.1,anual,corrente,1.1.05,Cofins,3,2005,86581.298603
+2.1,anual,corrente,1.1.05,Cofins,3,2006,91481.21576609001
+2.1,anual,corrente,1.1.05,Cofins,3,2007,103195.58434362999
+2.1,anual,corrente,1.1.05,Cofins,3,2008,121923.90935882002
+2.1,anual,corrente,1.1.05,Cofins,3,2009,118957.14958799002
+2.1,anual,corrente,1.1.05,Cofins,3,2010,141232.330539
+2.1,anual,corrente,1.1.05,Cofins,3,2011,160988.35704444998
+2.1,anual,corrente,1.1.05,Cofins,3,2012,175157.7874408
+2.1,anual,corrente,1.1.05,Cofins,3,2013,202813.18744507
+2.1,anual,corrente,1.1.05,Cofins,3,2014,198742.40016735002
+2.1,anual,corrente,1.1.05,Cofins,3,2015,202733.67623008
+2.1,anual,corrente,1.1.05,Cofins,3,2016,204678.62578346
+2.1,anual,corrente,1.1.05,Cofins,3,2017,235759.38850717002
+2.1,anual,corrente,1.1.05,Cofins,3,2018,251466.02993433006
+2.1,anual,corrente,1.1.05,Cofins,3,2019,238696.07089371994
+2.1,anual,corrente,1.1.05,Cofins,3,2020,221964.22563193002
+2.1,anual,corrente,1.1.05,Cofins,3,2021,274580.94718766
+2.1,anual,corrente,1.1.05,Cofins,3,2022,276748.0158437
+2.1,anual,corrente,1.1.05,Cofins,3,2023,292903.01752975007
+2.1,anual,corrente,1.1.05,Cofins,3,2024,367241.83518655004
+2.1,anual,corrente,1.1.05,Cofins,3,2025,391530.71978511
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,1997,7582.374699
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,1998,7482.024443
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,1999,9777.45159716
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2000,10025.805398
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2001,11328.03297
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2002,12776.849209199998
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2003,17058.05706511
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2004,19768.136722088926
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2005,21585.364466209998
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2006,24193.28458269
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2007,26632.426027650003
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2008,31515.76843597
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2009,31723.208363999995
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2010,40794.401496000006
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2011,42102.13449725999
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2012,46407.43428724
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2013,52037.99822709
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2014,52543.52006726001
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2015,53548.38077247
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2016,53894.73793165
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2017,62560.62857604002
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2018,66124.80591304999
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2019,64751.57540105999
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2020,62593.69558526999
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2021,76089.02743695998
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2022,80008.86377472
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2023,84700.65607314998
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2024,103823.86259622998
+2.1,anual,corrente,1.1.06,PIS/Pasep,3,2025,105882.35305473
+2.1,anual,corrente,1.1.07,CSLL,3,1997,7688.816482
+2.1,anual,corrente,1.1.07,CSLL,3,1998,7680.145070999999
+2.1,anual,corrente,1.1.07,CSLL,3,1999,7270.260936940001
+2.1,anual,corrente,1.1.07,CSLL,3,2000,9242.747935
+2.1,anual,corrente,1.1.07,CSLL,3,2001,9315.419064
+2.1,anual,corrente,1.1.07,CSLL,3,2002,13297.097854000001
+2.1,anual,corrente,1.1.07,CSLL,3,2003,16154.906323
+2.1,anual,corrente,1.1.07,CSLL,3,2004,19895.60201507527
+2.1,anual,corrente,1.1.07,CSLL,3,2005,25843.08033125
+2.1,anual,corrente,1.1.07,CSLL,3,2006,28023.579601920002
+2.1,anual,corrente,1.1.07,CSLL,3,2007,34471.27240255
+2.1,anual,corrente,1.1.07,CSLL,3,2008,44613.23048253999
+2.1,anual,corrente,1.1.07,CSLL,3,2009,45050.08293117999
+2.1,anual,corrente,1.1.07,CSLL,3,2010,46370.27639399999
+2.1,anual,corrente,1.1.07,CSLL,3,2011,58961.59564374001
+2.1,anual,corrente,1.1.07,CSLL,3,2012,56541.535373750005
+2.1,anual,corrente,1.1.07,CSLL,3,2013,64250.670251420015
+2.1,anual,corrente,1.1.07,CSLL,3,2014,64808.06447730001
+2.1,anual,corrente,1.1.07,CSLL,3,2015,60418.56565953999
+2.1,anual,corrente,1.1.07,CSLL,3,2016,68143.26484634001
+2.1,anual,corrente,1.1.07,CSLL,3,2017,75650.60294061
+2.1,anual,corrente,1.1.07,CSLL,3,2018,78549.17494866998
+2.1,anual,corrente,1.1.07,CSLL,3,2019,82018.49767435
+2.1,anual,corrente,1.1.07,CSLL,3,2020,79319.34254582998
+2.1,anual,corrente,1.1.07,CSLL,3,2021,114530.32901558999
+2.1,anual,corrente,1.1.07,CSLL,3,2022,158497.11212835004
+2.1,anual,corrente,1.1.07,CSLL,3,2023,148652.09474847003
+2.1,anual,corrente,1.1.07,CSLL,3,2024,166760.25458755
+2.1,anual,corrente,1.1.07,CSLL,3,2025,177799.14225965
+2.1,anual,corrente,1.1.08,CPMF,3,1997,6909.360098000001
+2.1,anual,corrente,1.1.08,CPMF,3,1998,8118.052616999999
+2.1,anual,corrente,1.1.08,CPMF,3,1999,7955.922068
+2.1,anual,corrente,1.1.08,CPMF,3,2000,14544.577824000002
+2.1,anual,corrente,1.1.08,CPMF,3,2001,17196.813416
+2.1,anual,corrente,1.1.08,CPMF,3,2002,20366.959527
+2.1,anual,corrente,1.1.08,CPMF,3,2003,23045.127879000003
+2.1,anual,corrente,1.1.08,CPMF,3,2004,26432.626958
+2.1,anual,corrente,1.1.08,CPMF,3,2005,29006.977849970004
+2.1,anual,corrente,1.1.08,CPMF,3,2006,32145.7916624
+2.1,anual,corrente,1.1.08,CPMF,3,2007,36519.64547218999
+2.1,anual,corrente,1.1.08,CPMF,3,2008,1109.4730335599997
+2.1,anual,corrente,1.1.08,CPMF,3,2009,91.51768725000002
+2.1,anual,corrente,1.1.08,CPMF,3,2010,23.620171999999986
+2.1,anual,corrente,1.1.08,CPMF,3,2011,76.28120429000002
+2.1,anual,corrente,1.1.08,CPMF,3,2012,-274.96767546000007
+2.1,anual,corrente,1.1.08,CPMF,3,2013,-205.27753544999996
+2.1,anual,corrente,1.1.08,CPMF,3,2014,8.51821516
+2.1,anual,corrente,1.1.08,CPMF,3,2015,18.085566290000003
+2.1,anual,corrente,1.1.08,CPMF,3,2016,0
+2.1,anual,corrente,1.1.08,CPMF,3,2017,0
+2.1,anual,corrente,1.1.08,CPMF,3,2018,0
+2.1,anual,corrente,1.1.08,CPMF,3,2019,0
+2.1,anual,corrente,1.1.08,CPMF,3,2020,0
+2.1,anual,corrente,1.1.08,CPMF,3,2021,0
+2.1,anual,corrente,1.1.08,CPMF,3,2022,0
+2.1,anual,corrente,1.1.08,CPMF,3,2023,0
+2.1,anual,corrente,1.1.08,CPMF,3,2024,0
+2.1,anual,corrente,1.1.08,CPMF,3,2025,0
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,1997,0
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,1998,0
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,1999,0
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2000,0
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2001,0
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2002,7240.934763310001
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2003,7495.73721288
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2004,7668.611225490001
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2005,7679.677371000001
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2006,7822.58402927
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2007,7942.9848975800005
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2008,5944.005304599999
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2009,4914.52883664
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2010,7759.058122
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2011,8963.516558
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2012,2877.63662082
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2013,749.4815560200001
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2014,30.32079258
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2015,3277.8718475099995
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2016,6010.65517066
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2017,5827.3121671
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2018,3963.39031378
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2019,2792.8889666200007
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2020,1988.0668203400003
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2021,1927.9723081399998
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2022,1673.7556055600005
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2023,1209.09319075
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2024,3415.44885884
+2.1,anual,corrente,1.1.09,CIDE - Combustíveis,3,2025,3311.7829672999997
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,1997,925.4437389999999
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,1998,974.513793
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,1999,928.77872652
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2000,1984.759259
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2001,3616.565495149515
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2002,4578.06095772
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2003,5626.4067000000005
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2004,6399.510227000002
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2005,7518.359984319999
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2006,5530.82946805
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2007,8786.73957276
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2008,7108.565585859999
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2009,13259.353730849998
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2010,15130.592999
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2011,21907.800117080005
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2012,13601.51405542996
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2013,17096.288816360004
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2014,20758.413909519993
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2015,22299.812418919995
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2016,38442.45041734999
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2017,482.1851401100057
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2018,9299.954679589991
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2019,22691.90577299
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2020,25046.414799740003
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2021,27674.098097779995
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2022,27786.71604927
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2023,40624.33920605
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2024,33745.7245691
+2.1,anual,corrente,1.1.10,Outras Receitas Administradas pela RFB,3,2025,48868.581517629995
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,1997,-748.1089999999999
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,1998,-769.999
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,1999,-750.0930000000001
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2000,-995.0995530000001
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2001,-230.53638515
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2002,-249.322
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2003,-190
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2004,0
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2005,-6.978274
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2006,0
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2007,-10.09600534
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2008,-1.07943
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2009,-54.804604999999995
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2010,-98.59654640000001
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2011,-273.86240261999995
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2012,-142.176555
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2013,-51.56204838
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2014,-6.285844000000001
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2015,-10.605144
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2016,-163.21314048802301
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2017,-1378.9279037680176
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2018,-14.05752584288099
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2019,-47.8000343
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2020,-137.51541046
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2021,-160.45839827999998
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2022,-56.63502522
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2023,-78.03588343
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2024,0
+2.1,anual,corrente,1.2,-  Incentivos Fiscais,2,2025,-1.43107765
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,1997,44260.75699999999
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,1998,46283.80232114
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,1999,49065.28359285999
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2000,55715.133753156995
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2001,62491.88984365
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2002,71027.67941761001
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2003,80730.14997953
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2004,93765.38227237
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2005,108434.09657806001
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2006,123520.19059296299
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2007,140411.788680832
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2008,163355.27142175997
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2009,182008.44418068998
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2010,211968.37845694157
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2011,245891.94119519
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2012,275764.6886979245
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2013,307146.98513935
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2014,337503.13283227006
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2015,350272.00390151003
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2016,358137.31866677
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2017,374784.82827434
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2018,391181.79700336
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2019,413331.29458847
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2020,404772.51361546
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2021,462244.11482627003
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2022,535709.90323387
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2023,592666.5167928799
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2024,641155.4790284
+2.1,anual,corrente,1.3,-  Arrecadação Líquida para o RGPS,2,2025,709714.2887337102
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,1997,13788.735807220004
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,1998,26249.988533694
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,1999,26753.097894870087
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2000,24144.168915198912
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2001,28961.654236696428
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2002,29377.302533910944
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2003,32722.02597417009
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2004,38420.23966162339
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2005,46325.3314193296
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2006,60100.6456274059
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2007,60440.97717075095
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2008,85924.65887938997
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2009,100031.97511525996
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2010,175455.595989687
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2011,113757.06496855996
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2012,149131.85119443995
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2013,151694.44780490006
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2014,144799.28050228988
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2015,133705.10764198002
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2016,138259.30825769447
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2017,174683.71100161702
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2018,192779.042231687
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2019,276241.50387919997
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2020,163938.63112175002
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2021,274853.72188561
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2022,387651.70937712
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2023,321541.16347747
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2024,348265.72268372006
+2.1,anual,corrente,1.4,-  Receitas Não Administradas pela RFB,2,2025,332717.79881135
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,1997,1517.1922220000001
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,1998,9357.718330960999
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,1999,9151.195750324998
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2000,5227.038846445999
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2001,4381.311246647
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2002,1820.008949235
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2003,402.465834282
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2004,1254.35562803
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2005,826.8294451500002
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2006,984.6362532
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2007,2064.00236768
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2008,6080.00492661
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2009,3091.4169553399997
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2010,1158.39607844
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2011,3938.2754905499996
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2012,2237.13748679
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2013,22072.59500776
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2014,7921.119361880001
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2015,5891.23170865
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2016,21907.809140645146
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2017,32106.47704657
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2018,21929.15764629
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2019,93281.32687966
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2020,8178.653946659999
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2021,9865.84128166
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2022,46847.10412858
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2023,8819.648096879999
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2024,16470.007017390002
+2.1,anual,corrente,1.4.1,Concessões e Permissões,3,2025,7199.18607659
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,1997,822.346665
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,1998,2370.55243768
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,1999,1791.5977170200003
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2000,1572.17805635
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2001,3231.92226472
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2002,3163.83847325
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2003,3828.3481803899995
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2004,4308.962194080001
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2005,4853.962639800001
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2006,9740.394801429999
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2007,6977.141765260001
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2008,13363.76828129
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2009,26683.036292009998
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2010,22414.450086139997
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2011,19962.368370390002
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2012,28018.983493369997
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2013,17141.64546023
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2014,18939.596358389997
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2015,12072.644033909999
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2016,2847.77375841
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2017,5517.099037259998
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2018,7676.471179800003
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2019,20879.00749252
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2020,6576.814339909999
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2021,43484.46082004999
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2022,87003.60441701
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2023,49957.934620969994
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2024,72381.42176710999
+2.1,anual,corrente,1.4.2,Dividendos e Participações,3,2025,49796.61851945
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,1997,1299.84761348
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,1998,1265.8140825100002
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,1999,1575.9999039900001
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2000,1595.76458135
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2001,1596.1450479
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2002,2159.06441321
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2003,2087.1763458600003
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2004,2815.9962162699994
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2005,4189.29383958
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2006,4907.88453672
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2007,5648.510958220001
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2008,6627.473058199999
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2009,7558.56060142
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2010,8573.91475853
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2011,9291.63408722
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2012,9492.59755937
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2013,10171.445974010001
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2014,10917.08714063
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2015,11928.57402109
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2016,12388.400368080001
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2017,13707.273658819999
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2018,13731.54913259
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2019,13926.892281479999
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2020,17397.459554779998
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2021,17945.25476894
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2022,17283.70717414
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2023,17399.30823747
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2024,18600.49087166
+2.1,anual,corrente,1.4.3,Contr. Plano de Seguridade Social do Servidor,3,2025,18982.50609644
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,1997,0
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,1998,0
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,1999,0
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2000,0
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2001,4543.677640000001
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2002,7161.758179089999
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2003,10887.767614880002
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2004,12156.132150760002
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2005,15114.05387445
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2006,18595.36152367
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2007,17026.18011424
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2008,25031.6848562
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2009,19412.03131725
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2010,24420.668337410003
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2011,29585.560164810002
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2012,34131.24851635
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2013,36450.83537804
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2014,39372.78141465
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2015,28830.868497960008
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2016,23274.60140853
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2017,36039.658521720005
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2018,59914.28611693999
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2019,64681.30673933
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2020,56488.56294894999
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2021,94063.60572268
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2022,132482.30356376
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2023,112874.32783108001
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2024,118761.68212732
+2.1,anual,corrente,1.4.4,Receitas de Exploração de Recursos Naturais,3,2025,139345.76147445
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,1997,0
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,1998,0
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,1999,5185.374923
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2000,6372.794999999999
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2001,7324.65004495
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2002,7807.274677370001
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2003,8421.15212415
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2004,4934.518313200001
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2005,5362.20588597
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2006,6259.11411067
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2007,8028.217210286
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2008,9377.61211265
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2009,10075.117655889999
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2010,11422.34921547
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2011,13568.856657653
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2012,18659.54384095
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2013,13202.52558182
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2014,12449.85865844
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2015,14559.790754030002
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2016,14377.001030149999
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2017,13457.763192780003
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2018,14794.08713069
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2019,15887.09786989
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2020,13250.48299117
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2021,16665.74101108
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2022,21094.07125601
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2023,21094.97079082
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2024,23500.97783097
+2.1,anual,corrente,1.4.5,"Receitas Próprias (fontes 50, 81 e 82)",3,2025,24231.88541172
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,1997,2775.4667248799997
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,1998,2459.8136503700002
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,1999,2341.51165706
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2000,2769.6834046569
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2001,3108.38636364
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2002,3643.6391772746
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2003,3985.6310193371005
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2004,4807.054611263399
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2005,5875.10224873208
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2006,6926.519799317899
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2007,7089.07106747
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2008,8776.36227934
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2009,9588.92524498
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2010,11049.16013448
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2011,13115.47947147
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2012,14775.01356101
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2013,16562.18923881
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2014,18300.66910896
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2015,19084.09752856
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2016,19519.399436749994
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2017,20091.70091495
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2018,22047.584664959995
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2019,22104.574234860003
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2020,21260.85747688
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2021,24021.630645729998
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2022,27291.66103866
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2023,30797.51671023
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2024,33078.17730697
+2.1,anual,corrente,1.4.6,Contribuição do Salário Educação,3,2025,35980.64130471
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,1997,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,1998,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,1999,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2000,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2001,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2002,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2003,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2004,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2005,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2006,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2007,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2008,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2009,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2010,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2011,0
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2012,2428.66140986
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2013,3629.4240757000007
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2014,4037.52374476
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2015,4793.152937929999
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2016,5624.1128878
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2017,5207.9944731
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2018,5029.898134970001
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2019,5296.922531999999
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2020,35.811581000000004
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2021,31.67305011
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2022,87.32375522
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2023,102.31762
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2024,94.069197
+2.1,anual,corrente,1.4.7,Complemento para o FGTS (LC nº 110/01),3,2025,260.24987153
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,1997,7373.882581860005
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,1998,10796.090032172999
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,1999,6707.417943475088
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2000,6606.70902639601
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2001,4775.561628839423
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2002,3621.7186644813455
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2003,3109.484855270988
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2004,8143.2205480199855
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2005,10103.88348564752
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2006,12686.734602397997
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2007,13607.853687594956
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2008,16667.753365099972
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2009,23622.887048369954
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2010,96416.65737921701
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2011,24294.89072646698
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2012,39388.66532673997
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2013,32463.787088530047
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2014,32860.64471457988
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2015,36544.74815985
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2016,38320.21022732932
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2017,48555.744156417
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2018,47656.008225447
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2019,40184.37584945998
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2020,40749.9882824
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2021,68775.51458536001
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2022,55561.934043739995
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2023,80495.13957002001
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2024,65378.89656530002
+2.1,anual,corrente,1.4.8,Demais Receitas Não Administradas pela RFB,3,2025,56920.95005646001
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,1997,24243.621361471236
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,1998,27156.30802054167
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,1999,30539.428331422852
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2000,36697.659843306676
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2001,43060.90136313985
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2002,52018.18281150838
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2003,56929.09069339233
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2004,64041.205378603845
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2005,80223.53453705195
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2006,90323.38356692971
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2007,101916.67235134661
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2008,127359.01189529506
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2009,119679.07270701096
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2010,133370.28905174482
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2011,163035.66907687392
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2012,171394.43783466215
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2013,181894.96092318106
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2014,198461.5001679403
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2015,204684.25719552115
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2016,226835.31140796465
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2017,228335.34127365967
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2018,256723.66815739695
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2019,288330.76398146304
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2020,263798.0478975216
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2021,353546.83491181507
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2022,457203.87293137616
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2023,452009.08628278715
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2024,517654.00423513947
+2.1,anual,corrente,2,TRANSF. POR REPARTIÇÃO DE RECEITA 2/,1,2025,569719.2626331123
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,1997,21800.58550161
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,1998,24762.39160781
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,1999,27402.997904810007
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2000,31151.647467690003
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2001,36415.43865273
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2002,44596.32865747999
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2003,46243.40841362701
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2004,51138.74000947001
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2005,63755.64464878
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2006,70627.72133094001
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2007,82238.97602732
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2008,101880.60799578
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2009,97560.56578868
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2010,105744.35726107999
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2011,130171.80741089
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2012,133911.81625729
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2013,143921.40139147
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2014,156822.9566953199
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2015,165695.19180397
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2016,189849.1502634
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2017,183122.96298182
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2018,196629.8279257
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2019,213592.6855924
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2020,204616.85762319
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2021,274865.18418216
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2022,341926.68618864997
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2023,353288.16675653006
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2024,411979.91660038
+2.1,anual,corrente,2.1,FPM / FPE / IPI-EE,2,2025,454682.34288675996
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,1997,908.7381759952369
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,1998,876.077
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,1999,716.6503249028567
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2000,736.2700850366723
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2001,1070.181831351138
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2002,262.44037956837667
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2003,938.8208012453259
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2004,1264.5905871938385
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2005,1478.569177901949
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2006,2207.0027650097036
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2007,2218.371635446626
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2008,2673.9681172450573
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2009,2833.0082898989385
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2010,3261.888920474839
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2011,3781.267191353921
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2012,4289.801731700449
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2013,4630.687830211055
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2014,4555.747396670438
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2015,6113.409417823163
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2016,7530.087461454638
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2017,7838.633470419689
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2018,8470.07771159698
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2019,9609.224273727601
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2020,8553.239823181624
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2021,5815.369643285071
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2022,10077.60296628618
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2023,11391.268061707178
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2024,12944.545890209489
+2.1,anual,corrente,2.2,Fundos Constitucionais,2,2025,18681.505651082305
+2.1,anual,corrente,2.2.1,Repasse Total,3,1997,0
+2.1,anual,corrente,2.2.1,Repasse Total,3,1998,0
+2.1,anual,corrente,2.2.1,Repasse Total,3,1999,1672.4510249028567
+2.1,anual,corrente,2.2.1,Repasse Total,3,2000,1949.02748963
+2.1,anual,corrente,2.2.1,Repasse Total,3,2001,2398.20648218
+2.1,anual,corrente,2.2.1,Repasse Total,3,2002,2825.50046996
+2.1,anual,corrente,2.2.1,Repasse Total,3,2003,2985.8514476499995
+2.1,anual,corrente,2.2.1,Repasse Total,3,2004,3477.1990061100005
+2.1,anual,corrente,2.2.1,Repasse Total,3,2005,4180.054899589999
+2.1,anual,corrente,2.2.1,Repasse Total,3,2006,4626.1412362
+2.1,anual,corrente,2.2.1,Repasse Total,3,2007,5359.2926322
+2.1,anual,corrente,2.2.1,Repasse Total,3,2008,6345.445005421971
+2.1,anual,corrente,2.2.1,Repasse Total,3,2009,6285.9438941
+2.1,anual,corrente,2.2.1,Repasse Total,3,2010,6835.645568199999
+2.1,anual,corrente,2.2.1,Repasse Total,3,2011,8384.29487546
+2.1,anual,corrente,2.2.1,Repasse Total,3,2012,8640.63664678
+2.1,anual,corrente,2.2.1,Repasse Total,3,2013,9301.566386890001
+2.1,anual,corrente,2.2.1,Repasse Total,3,2014,10131.30658079
+2.1,anual,corrente,2.2.1,Repasse Total,3,2015,10657.97052322
+2.1,anual,corrente,2.2.1,Repasse Total,3,2016,12193.741503950001
+2.1,anual,corrente,2.2.1,Repasse Total,3,2017,11598.86312851
+2.1,anual,corrente,2.2.1,Repasse Total,3,2018,12467.578036719999
+2.1,anual,corrente,2.2.1,Repasse Total,3,2019,13595.92410966
+2.1,anual,corrente,2.2.1,Repasse Total,3,2020,12980.622512830001
+2.1,anual,corrente,2.2.1,Repasse Total,3,2021,16221.257422379998
+2.1,anual,corrente,2.2.1,Repasse Total,3,2022,23156.39304448
+2.1,anual,corrente,2.2.1,Repasse Total,3,2023,22545.053801239996
+2.1,anual,corrente,2.2.1,Repasse Total,3,2024,25841.65433677
+2.1,anual,corrente,2.2.1,Repasse Total,3,2025,28884.717132250003
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,1997,0
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,1998,0
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,1999,-955.8006999999998
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2000,-1212.7574045933277
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2001,-1328.0246508288621
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2002,-2563.060090391624
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2003,-2047.0306464046741
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2004,-2212.608418916162
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2005,-2701.485721688051
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2006,-2419.1384711902965
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2007,-3140.9209967533748
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2008,-3671.476888176912
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2009,-3452.9356042010613
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2010,-3573.7566477251617
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2011,-4603.027684106079
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2012,-4350.834915079552
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2013,-4670.878556678946
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2014,-5575.559184119561
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2015,-4544.561105396838
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2016,-4663.654042495362
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2017,-3760.229658090311
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2018,-3997.50032512302
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2019,-3986.6998359323984
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2020,-4427.382689648376
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2021,-10405.88777909493
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2022,-13078.790078193819
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2023,-11153.785739532821
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2024,-12897.108446560509
+2.1,anual,corrente,2.2.2,Superávit dos Fundos,3,2025,-10203.211481167695
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,1997,1480.248919936001
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,1998,1311.9006135306674
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,1999,1255.077
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2000,1724.773
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2001,2004.1544573786998
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2002,2340.0059549999996
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2003,2603.25630258
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2004,2875.1696056400006
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2005,3440.02983153
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2006,4037.0153883799994
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2007,4537.24126722
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2008,5172.936168900001
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2009,5740.136603242
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2010,6553.710085140001
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2011,7770.748048279999
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2012,8787.71993636169
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2013,9044.11214829
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2014,10800.80142286
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2015,12355.055367977999
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2016,11685.301490259999
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2017,12018.799347480002
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2018,12758.05410598
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2019,12261.08643038
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2020,12621.58065986
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2021,14088.566755280002
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2022,16136.02260974
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2023,18161.95310002
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2024,19571.99635092
+2.1,anual,corrente,2.3,Transferência de Contribuição do Salário Educação,2,2025,21369.905735610002
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,1997,0
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,1998,68.25285036
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,1999,726.35291083
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2000,1896.57440465
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2001,2263.89266075
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2002,3364.5216744599998
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2003,5476.06805788
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2004,7471.73695834
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2005,9570.57998322
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2006,11464.9309379
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2007,10839.7606512
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2008,15795.17981172
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2009,12213.08504856
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2010,15480.894093580002
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2011,18594.310055259997
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2012,22614.611924840003
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2013,23441.128453870002
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2014,25150.995615139997
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2015,18836.92355499
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2016,15240.74278556
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2017,22184.76514876
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2018,35970.116669890005
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2019,38782.86440168
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2020,35630.63601866
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2021,56282.4872037
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2022,78117.58409360998
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2023,66010.51703952
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2024,68827.64966045
+2.1,anual,corrente,2.4,Transferências de Exploração de Recursos Naturais,2,2025,70207.80709976
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,1997,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,1998,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,1999,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2000,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2001,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2002,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2003,0
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2004,1109.1670781700002
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2005,1776.05395457
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2006,1781.32350862
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2007,1850.24792148
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2008,1578.87954842
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2009,962.41355126
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2010,1775.72667672
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2011,2109.7062591500003
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2012,1117.88241486
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2013,57.31916915
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2014,116.082503
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2015,447.95837443
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2016,1239.2812874899998
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2017,1698.7142459000002
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2018,1356.7614281300002
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2019,820.8351170354999
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2020,690.04593245
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2021,443.96791608
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2022,690.8355384700001
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2023,139.27691364
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2024,979.20462686
+2.1,anual,corrente,2.5,Transferência da CIDE - Combustíveis,2,2025,917.8630216600001
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,1997,54.0487639299988
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,1998,137.68594884100196
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,1999,438.35019088
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2000,1188.3948859299999
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2001,1307.2337609299998
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2002,1454.8861450000004
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2003,1667.53711806
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2004,181.80113978999995
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2005,202.65694104999997
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2006,205.38963608
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2007,232.07484868000003
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2008,257.44025323
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2009,369.86342537
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2010,553.71201475
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2011,607.83011194
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2012,672.60556961
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2013,800.31193019
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2014,1014.9165349499998
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2015,1235.71867633
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2016,1290.7481198
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2017,1471.4660792799998
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2018,1538.8303161000001
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2019,13264.06816624
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2020,1685.68784018
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2021,2051.25921131
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2022,10255.14153462
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2023,3017.90441137
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2024,3350.69110632
+2.1,anual,corrente,2.6,Demais Transferências por Repartição de Receita,2,2025,3859.8382382400005
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,1997,134768.75378574876
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,1998,156359.89619729234
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,1999,178844.1024397072
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2000,198354.26661704923
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2001,227380.27977520914
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2002,268038.2720480126
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2003,299202.44418330776
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2004,354952.0837783896
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2005,407598.5463669776
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2006,452486.6218433962
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2007,516435.4361090474
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2008,588256.8833953451
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2009,618445.873242969
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2010,785161.080444482
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2011,825234.4075800461
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2012,900894.9815960769
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2013,997088.277661889
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2014,1023012.6321729795
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2015,1044419.4290185389
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2016,1089149.9572236717
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2017,1155317.8056079894
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2018,1232275.538125317
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2019,1347277.0982485667
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2020,1204298.0893329782
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2021,1579102.8447109247
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2022,1856101.5529106539
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2023,1901423.1567457127
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2024,2161787.602030371
+2.1,anual,corrente,3,RECEITA LÍQUIDA  (1-2),1,2025,2332555.301431488
+2.1,anual,corrente,4,DESPESA TOTAL,1,1997,132968.00152194535
+2.1,anual,corrente,4,DESPESA TOTAL,1,1998,148782.8785413815
+2.1,anual,corrente,4,DESPESA TOTAL,1,1999,158679.80940034002
+2.1,anual,corrente,4,DESPESA TOTAL,1,2000,177372.06250843
+2.1,anual,corrente,4,DESPESA TOTAL,1,2001,205643.17946561784
+2.1,anual,corrente,4,DESPESA TOTAL,1,2002,236461.06742889402
+2.1,anual,corrente,4,DESPESA TOTAL,1,2003,260122.39577347832
+2.1,anual,corrente,4,DESPESA TOTAL,1,2004,305610.65847151
+2.1,anual,corrente,4,DESPESA TOTAL,1,2005,354925.37863825954
+2.1,anual,corrente,4,DESPESA TOTAL,1,2006,403738.39180313505
+2.1,anual,corrente,4,DESPESA TOTAL,1,2007,458785.0472418464
+2.1,anual,corrente,4,DESPESA TOTAL,1,2008,516818.49425449455
+2.1,anual,corrente,4,DESPESA TOTAL,1,2009,579009.4543798543
+2.1,anual,corrente,4,DESPESA TOTAL,1,2010,707269.9115029328
+2.1,anual,corrente,4,DESPESA TOTAL,1,2011,733343.3767192657
+2.1,anual,corrente,4,DESPESA TOTAL,1,2012,815907.0153480775
+2.1,anual,corrente,4,DESPESA TOTAL,1,2013,924929.132750146
+2.1,anual,corrente,4,DESPESA TOTAL,1,2014,1046495.03558552
+2.1,anual,corrente,4,DESPESA TOTAL,1,2015,1164921.6555464705
+2.1,anual,corrente,4,DESPESA TOTAL,1,2016,1250425.582139611
+2.1,anual,corrente,4,DESPESA TOTAL,1,2017,1279579.292242651
+2.1,anual,corrente,4,DESPESA TOTAL,1,2018,1352496.8205198538
+2.1,anual,corrente,4,DESPESA TOTAL,1,2019,1442341.8449397744
+2.1,anual,corrente,4,DESPESA TOTAL,1,2020,1947552.906937438
+2.1,anual,corrente,4,DESPESA TOTAL,1,2021,1614170.7792012165
+2.1,anual,corrente,4,DESPESA TOTAL,1,2022,1809693.0913005164
+2.1,anual,corrente,4,DESPESA TOTAL,1,2023,2129922.5380383665
+2.1,anual,corrente,4,DESPESA TOTAL,1,2024,2204711.2935709367
+2.1,anual,corrente,4,DESPESA TOTAL,1,2025,2394249.6104124766
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,1997,47050.46415265135
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,1998,53375.65047309616
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,1999,58540.02297299999
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2000,65787.07964169001
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2001,75328.10639725
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2002,88026.65896677002
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2003,107134.80524463
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2004,125750.76427089
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2005,146010.12951515
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2006,165585.29985489
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2007,185293.44094160997
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2008,199562.01244601
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2009,224876.36602006992
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2010,254858.55438472
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2011,281438.21954436996
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2012,316589.50754773995
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2013,357003.1236034498
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2014,394201.2487127537
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2015,436090.09994438
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2016,507871.27620946994
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2017,557234.8273231001
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2018,586378.75188442
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2019,626510.37506631
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2020,663904.39250698
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2021,709582.5012878
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2022,796976.5567515001
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2023,898872.9121756799
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2024,938544.5372642202
+2.1,anual,corrente,4.1,Benefícios Previdenciários,2,2025,1026872.53793049
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,1997,40132.12979068001
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,1998,44664.708183639996
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,1999,48261.258802230004
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2000,54515.738617350005
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2001,63217.92376958
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2002,71856.27592215
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2003,76617.99529921002
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2004,84594.61342516002
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2005,93206.93123443001
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2006,106634.30071949
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2007,117585.73922634238
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2008,132396.68643886
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2009,153403.64169386
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2010,168404.68505739002
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2011,181439.49653964
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2012,188394.48391232002
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2013,205152.91340865
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2014,222375.43913155
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2015,238499.02406698998
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2016,257871.83341549998
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2017,284041.09886991
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2018,298020.89774993
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2019,313087.30807848
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2020,321349.33764993004
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2021,329347.13277638
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2022,337942.00826851
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2023,363726.68755384005
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2024,367355.35432646
+2.1,anual,corrente,4.2,Pessoal e Encargos Sociais,2,2025,402553.13783286
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,1997,8595.92503078
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,1998,8926.209861336001
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,1999,13525.426666829999
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2000,14139.1927134
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2001,16170.54990305785
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2002,17342.40223808
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2003,22378.876945348333
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2004,26566.853625440002
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2005,39241.59573906951
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2006,46120.93843760504
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2007,56632.359419498156
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2008,61730.84985905964
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2009,71474.88792970426
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2010,89577.98936478281
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2011,98867.69148776575
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2012,114125.61697470736
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2013,142104.66903894607
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2014,170785.5089596563
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2015,248501.9635494661
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2016,213722.78994627076
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2017,197138.65062491703
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2018,201726.97124778226
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2019,195488.4891604626
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2020,720443.3520061781
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2021,306127.06481146667
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2022,303488.2317749967
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2023,357508.4532827866
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2024,358388.12479626667
+2.1,anual,corrente,4.3,Outras Despesas Obrigatórias,2,2025,390552.6570551866
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,1997,4317.07681162
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,1998,4458.56362667
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,1999,4843.08261367
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2000,4636.120682
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2001,5634.78381544
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2002,7198.08440463
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2003,8282.774895139999
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2004,9540.23015609
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2005,11484.5718456
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2006,14757.597923439998
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2007,17993.34716831
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2008,20411.369352579997
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2009,26927.076696469998
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2010,29808.679897949998
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2011,34173.448411440004
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2012,38878.89656254
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2013,44235.519662599996
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2014,53874.854374
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2015,47494.59852932001
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2016,56013.764095080005
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2017,54508.07444631
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2018,53553.31882733
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2019,55592.25689951
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2020,59570.76625143
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2021,45894.69943006
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2022,64270.85650394
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2023,72856.08136876
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2024,80712.4280416
+2.1,anual,corrente,4.3.01,Abono e Seguro Desemprego,3,2025,87843.46728032001
+2.1,anual,corrente,4.3.02,Anistiados,3,1997,0
+2.1,anual,corrente,4.3.02,Anistiados,3,1998,0
+2.1,anual,corrente,4.3.02,Anistiados,3,1999,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2000,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2001,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2002,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2003,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2004,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2005,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2006,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2007,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2008,0
+2.1,anual,corrente,4.3.02,Anistiados,3,2009,128.40796609
+2.1,anual,corrente,4.3.02,Anistiados,3,2010,165.972074327
+2.1,anual,corrente,4.3.02,Anistiados,3,2011,191.99957898000002
+2.1,anual,corrente,4.3.02,Anistiados,3,2012,171.41771152
+2.1,anual,corrente,4.3.02,Anistiados,3,2013,212.54911185
+2.1,anual,corrente,4.3.02,Anistiados,3,2014,191.13274392
+2.1,anual,corrente,4.3.02,Anistiados,3,2015,212.00178485000004
+2.1,anual,corrente,4.3.02,Anistiados,3,2016,201.36760451
+2.1,anual,corrente,4.3.02,Anistiados,3,2017,180.78980664
+2.1,anual,corrente,4.3.02,Anistiados,3,2018,168.19472689000003
+2.1,anual,corrente,4.3.02,Anistiados,3,2019,161.4912459
+2.1,anual,corrente,4.3.02,Anistiados,3,2020,160.43873213
+2.1,anual,corrente,4.3.02,Anistiados,3,2021,157.7838989
+2.1,anual,corrente,4.3.02,Anistiados,3,2022,161.53954538
+2.1,anual,corrente,4.3.02,Anistiados,3,2023,173.61947904000002
+2.1,anual,corrente,4.3.02,Anistiados,3,2024,184.35198841
+2.1,anual,corrente,4.3.02,Anistiados,3,2025,212.78463427
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,1997,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,1998,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,1999,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2000,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2001,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2002,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2003,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2004,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2005,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2006,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2007,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2008,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2009,1867.4964169500001
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2010,1316.60966489
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2011,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2012,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2013,1500
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2014,1500
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2015,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2016,2900
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2017,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2018,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2019,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2020,78247.02591574998
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2021,0
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2022,13992.35797633
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2023,27095.102683470002
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2024,1731.7850038899999
+2.1,anual,corrente,4.3.03,Apoio Fin. EE/MM,3,2025,5604.415421109999
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,1997,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,1998,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,1999,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2000,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2001,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2002,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2003,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2004,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2005,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2006,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2007,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2008,0
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2009,0.17051734
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2010,204.74905230000002
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2011,288.39055135
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2012,340.4309593
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2013,330.92015232
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2014,358.6470080100001
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2015,793.40057262
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2016,537.2725918699999
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2017,571.53249634
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2018,614.9622954399999
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2019,736.9354995600002
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2020,640.67665572
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2021,630.80844371
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2022,693.5898044200001
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2023,717.5785547
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2024,804.54747711
+2.1,anual,corrente,4.3.04,Benefícios de Legislação Especial e Indenizações,3,2025,919.59730453
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,1997,0
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,1998,0
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,1999,1459.9915896300001
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2000,2006.91838836
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2001,2687.20942437
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2002,3462.78621889
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2003,4447.99213627
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2004,7501.987134109999
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2005,9253.06681521
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2006,11638.85082152
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2007,14191.99225401
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2008,16036.195987059999
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2009,18945.99490084
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2010,22502.49928881
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2011,25235.89644176
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2012,29543.318279860003
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2013,33943.56290995001
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2014,38557.76456502
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2015,42538.359842039994
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2016,48990.08400851
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2017,53744.19727847
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2018,56156.036372819995
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2019,59728.3642726
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2020,62667.56343379
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2021,67667.70955665
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2022,78826.64029258999
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2023,92671.23610588002
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2024,111084.78610847
+2.1,anual,corrente,4.3.05,Benefícios de Prestação Continuada da LOAS/RMV,3,2025,127236.02353976002
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,1997,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,1998,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,1999,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2000,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2001,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2002,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2003,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2004,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2005,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2006,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2007,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2008,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2009,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2010,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2011,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2012,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2013,0
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2014,900
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2015,16943.66015356
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2016,5624.28585224
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2017,5207.9944731
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2018,5029.898134970001
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2019,5296.922531999999
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2020,35.811581000000004
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2021,31.67305011
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2022,87.32375522
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2023,102.31762
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2024,94.06462262
+2.1,anual,corrente,4.3.06,Complemento para o FGTS (LC nº 110/01),3,2025,260.24630976000003
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,1997,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,1998,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,1999,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2000,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2001,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2002,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2003,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2004,0
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2005,2135.6650051899996
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2006,5321.15457187
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2007,7948.10692055
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2008,4679.0565150699995
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2009,2806.3791746200004
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2010,8599.55946153
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2011,5036.805995239999
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2012,2763.74318361
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2013,6382.38276076
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2014,4035.89000836
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2015,6157.295214669999
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2016,3982.275461554422
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2017,785.2241094100001
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2018,5733.224943379999
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2019,3344.0135141
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2020,429608.07966009004
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2021,117175.62603516999
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2022,46983.16571876001
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2023,2792.4050218099997
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2024,25676.09525796
+2.1,anual,corrente,4.3.07,Créditos Extraordinários 9/,3,2025,6362.37455193
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,1997,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,1998,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,1999,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2000,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2001,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2002,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2003,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2004,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2005,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2006,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2007,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2008,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2009,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2010,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2011,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2012,1790
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2013,9019.72
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2014,18052.000100830002
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2015,25406.97368477
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2016,17593.309999999998
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2017,13901.35
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2018,13534.54
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2019,10194.93
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2020,9407.210000000001
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2021,7271.3
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2022,3096.09
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2023,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2024,0
+2.1,anual,corrente,4.3.08,Compensação ao RGPS pelas Desonerações da Folha,3,2025,0
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,1997,0
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,1998,0
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,1999,274.179416
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2000,255.79096975
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2001,267.93001780000003
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2002,216.76448406999998
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2003,276.2959612199999
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2004,323.66554075000005
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2005,345.24080573000003
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2006,386.72800787
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2007,507.835210718155
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2008,599.90906652
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2009,885.0218495300002
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2010,819.90549551
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2011,935.0778851299998
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2012,1003.67724924
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2013,1441.4349774999998
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2014,527.48556333
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2015,735.7308351099999
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2016,772.5178361899999
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2017,856.39284118
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2018,870.2243126900001
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2019,931.3336349200001
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2020,1047.61720223
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2021,999.19325802
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2022,1000.46852358
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2023,1105.99893347
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2024,1204.7964765600002
+2.1,anual,corrente,4.3.09,Fabricação de Cédulas e Moedas,3,2025,1146.981633
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,1997,0
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,1998,0
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,1999,675.0609549999999
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2000,505.63646000000006
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2001,451.94128200000006
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2002,431.37499700000006
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2003,335.91929077000003
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2004,484.993555
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2005,434.30257309000007
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2006,320.26274466
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2007,2018.6186643
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2008,3174.343580005
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2009,5070.22115846
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2010,5353.3100936460005
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2011,9328.91044778
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2012,10372.208194249999
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2013,9272.18160629
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2014,10859.487708559998
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2015,13287.747749739996
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2016,13674.84750081
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2017,13070.920978370003
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2018,13814.694498289997
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2019,15602.801777150004
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2020,15003.535418039999
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2021,22033.40725144
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2022,32881.53982493
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2023,37487.82304809001
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2024,47544.19502596
+2.1,anual,corrente,4.3.10,FUNDEB (Complem. União),3,2025,59727.56100878
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,1997,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,1998,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,1999,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2000,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2001,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2002,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2003,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2004,0
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2005,385.58693194
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2006,402.3938277099999
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2007,459.53838831999997
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2008,473.97895983999996
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2009,527.4471670199999
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2010,545.23036983
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2011,679.6471958599999
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2012,865.7045642800001
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2013,1119.24734115
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2014,1217.02622925
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2015,7059.78910739
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2016,1174.21748946
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2017,1458.04918272
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2018,1597.82118985
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2019,1725.2358076
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2020,1969.6772670499997
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2021,2147.78759077
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2022,2412.57165317
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2023,4282.88930765
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2024,4823.48635112
+2.1,anual,corrente,4.3.11,Fundo Constitucional DF (Custeio e Capital),3,2025,4908.45657843
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,1997,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,1998,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,1999,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2000,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2001,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2002,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2003,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2004,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2005,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2006,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2007,0
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2008,5636.40028962
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2009,5497.43038281
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2010,6664.78016956
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2011,7001.92650534
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2012,8257.533731599999
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2013,8662.630890370001
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2014,10427.52648422
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2015,11786.22461845
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2016,13004.18584457
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2017,12060.392760300001
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2018,13370.27294031
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2019,12262.284395219998
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2020,11166.57086869
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2021,11011.21151411
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2022,15001.347358399998
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2023,17369.292926269998
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2024,19555.81232
+2.1,anual,corrente,4.3.12,Legislativo/Judiciário/MPU/DPU (Custeio e Capital),3,2025,19843.928679880002
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,1997,1633.7767836899998
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,1998,2255.1003938659996
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,1999,4403.91128166
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2000,3816.0541958900003
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2001,3582.18043794
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2002,3952.6287798399994
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2003,3900.000001688334
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2004,4295.797824630001
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2005,4757.399574633333
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2006,4343.30383125
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2007,3887.8170007100002
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2008,5216.1154175
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2009,3900
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2010,3900
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2011,3900
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2012,3900
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2013,1950
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2014,3900
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2015,3900
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2016,5857.76586667
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2017,3860.415896
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2018,1909.9999999266668
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2019,0
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2020,3119.2049902
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2021,4856.418316269999
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2022,3987.93285704
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2023,3986.9167283300003
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2024,3985.5633745200007
+2.1,anual,corrente,4.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2025,3984.731139310001
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,1997,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,1998,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,1999,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2000,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2001,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2002,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2003,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2004,0
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2005,711.9373604599999
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2006,1012.3669456000002
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2007,1221.7161128400003
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2008,1526.40562116
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2009,1740.3753196399998
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2010,2094.60917263
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2011,2263.34539887
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2012,2874.3281611600005
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2013,3367.31433815
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2014,4854.96271616
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2015,9878.842619500001
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2016,10163.36612316
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2017,10661.32648235
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2018,13880.93902182
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2019,15477.295838029999
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2020,22876.662231619997
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2021,18763.33615717
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2022,17349.083634880004
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2023,71441.17633467
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2024,34280.57349892001
+2.1,anual,corrente,4.3.14,Sentenças Judiciais e Precatórios (Custeio e Capital),3,2025,42774.63346832
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,1997,1773.7324354700002
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,1998,2075.4648408
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,1999,1869.2008108700002
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2000,2918.6720173999997
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2001,3546.504925507852
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2002,2080.76335365
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2003,5135.89466026
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2004,4373.76269627
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2005,9669.127272586173
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2006,7849.840112725036
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2007,7783.09162702
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2008,3337.773602434641
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2009,2658.746847324249
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2010,4742.306448357922
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2011,6718.069074350001
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2012,7596.983513139
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2013,5949.2854143899995
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2014,4345.720576840001
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2015,53636.03742134001
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2016,24096.592876279996
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2017,18544.91279154
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2018,15721.762424090004
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2019,11296.546321739997
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2020,21067.13348653
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2021,7468.8446182200005
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2022,15324.37068307
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2023,21665.11067383
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2024,17849.1188937
+2.1,anual,corrente,4.3.15,"Subsídios, Subvenções e Proagro",3,2025,25488.905553290002
+2.1,anual,corrente,4.3.16,Transferências ANA,3,1997,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,1998,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,1999,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2000,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2001,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2002,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2003,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2004,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2005,0
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2006,17.70640493
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2007,311.21788337
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2008,355.63160430999994
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2009,27.62819988
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2010,31.6912256
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2011,192.8203417
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2012,112.62873802
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2013,263.41782398000004
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2014,239.49022446
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2015,278.70357433
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2016,284.17015889
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2017,303.33991662
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2018,302.82044591
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2019,224.13318258
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2020,77.02846403000001
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2021,154.39547342
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2022,134.88100180000004
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2023,143.83055682
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2024,115.10887366
+2.1,anual,corrente,4.3.16,Transferências ANA,3,2025,89.30125848
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,1997,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,1998,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,1999,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2000,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2001,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2002,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2003,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2004,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2005,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2006,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2007,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2008,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2009,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2010,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2011,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2012,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2013,0
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2014,45.25086669
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2015,843.45003436
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2016,849.6552401900001
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2017,893.19055229
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2018,917.22070304
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2019,971.86294612
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2020,1924.9833340699997
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2021,1197.46858556
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2022,1597.23968338
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2023,2006.72811396
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2024,2288.67572746
+2.1,anual,corrente,4.3.17,Transferências Multas ANEEL,3,2025,1958.96338578
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,1997,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,1998,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,1999,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2000,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2001,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2002,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2003,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2004,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2005,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2006,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2007,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2008,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2009,0
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2010,881.6959633908968
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2011,1632.5286694857577
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2012,3274.5725946083603
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2013,4834.465032866082
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2014,6271.781652786298
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2015,5761.406670586088
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2016,7020.267761156325
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2017,6218.038864297009
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2018,2834.830980025569
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2019,1942.0812934325857
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2020,-181.58831019185632
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2021,-1334.5983681133334
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2022,725.7131811066664
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2023,1610.3458260366672
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2024,1498.0594528466672
+2.1,anual,corrente,4.3.18,Impacto Primário do FIES,3,2025,2190.285308236667
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,1997,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,1998,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,1999,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2000,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2001,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2002,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2003,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2004,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2005,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2006,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2007,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2008,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2009,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2010,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2011,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2012,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2013,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2014,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2015,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2016,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2017,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2018,1716.209431
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2019,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2020,2034.9548239999997
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2021,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2022,4961.5197769999995
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2023,0
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2024,4954.67630146
+2.1,anual,corrente,4.3.19,Financiamento de Campanha Eleitoral,3,2025,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,1997,871.339
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,1998,137.081
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,1999,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2000,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2001,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2002,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2003,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2004,46.41671859
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2005,64.69755463
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2006,70.73324603
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2007,309.07818935
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2008,283.66986296
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2009,492.49133273
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2010,1946.390986451
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2011,1288.82499048
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2012,2380.1735315799997
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2013,9620.03701677
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2014,10626.48813722
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2015,1787.7411368300002
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2016,982.8436351299999
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2017,312.50774898
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2018,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2019,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2020,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2021,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2022,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2023,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2024,0
+2.1,anual,corrente,4.3.20,Demais Despesas Obrigatórias,3,2025,0
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,1997,37189.48254783399
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,1998,41816.310023309336
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,1999,38353.10095828
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2000,42930.05153599
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2001,50926.59939573
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2002,59235.73030189402
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2003,53990.71828428999
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2004,68698.42715002
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2005,76466.72214960998
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2006,85397.85279115
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2007,99273.5076543958
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2008,123128.945510565
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2009,129254.55873622
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2010,194428.68269604
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2011,171597.96914749002
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2012,196797.40691330997
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2013,220668.42669909995
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2014,259132.83878156
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2015,241830.56798563444
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2016,270959.68256837025
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2017,241164.71542472384
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2018,266370.19963772164
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2019,307255.67263452156
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2020,241855.82477435
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2021,269114.08032557
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2022,371286.29450551
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2023,509814.48502605996
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2024,540423.27718399
+2.1,anual,corrente,4.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2025,574271.2775939399
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,1997,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,1998,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,1999,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2000,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2001,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2002,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2003,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2004,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2005,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2006,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2007,0
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2008,50344.95299813518
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2009,57266.323866544815
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2010,65256.551636664786
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2011,77800.39830723795
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2012,88451.23931257475
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2013,97388.20004859535
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2014,112287.30803232557
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2015,114803.01672476548
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2016,129051.0683432891
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2017,123793.11507398296
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2018,137186.72459397203
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2019,142837.10604653
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2020,133504.94532576003
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2021,145196.11511442997
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2022,219143.77690767002
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2023,326422.18274848
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2024,356681.242805472
+2.1,anual,corrente,4.4.1,Obrigatórias com Controle de Fluxo,3,2025,369352.8905465743
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,1997,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,1998,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,1999,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2000,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2001,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2002,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2003,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2004,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2005,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2006,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2007,0
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2008,72783.99251242982
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2009,71988.2348696752
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2010,129172.1310593752
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2011,93797.57084025208
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2012,108346.16760073525
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2013,123280.22665050463
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2014,146845.53074923443
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2015,127027.55126086895
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2016,141908.6142250812
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2017,117371.60035074086
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2018,129183.47504374963
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2019,164418.56658799158
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2020,108350.87944859
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2021,123917.96521113999
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2022,152142.51759784
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2023,183392.30227758002
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2024,183742.03437851803
+2.1,anual,corrente,4.4.2,Despesas Discricionárias,3,2025,204918.38704736574
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,1997,1800.7522638034116
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,1998,7577.017655910835
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,1999,20164.29303936723
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2000,20982.20410861923
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2001,21737.100309591246
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2002,31577.20461911855
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2003,39080.048409829426
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2004,49341.425306879544
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2005,52673.16772871814
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2006,48748.230040261136
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2007,57650.38886720103
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2008,71438.38914085034
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2009,39436.41886311482
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2010,77891.16894154937
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2011,91891.0308607803
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2012,84987.96624799946
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2013,72159.14491174312
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2014,-23482.40341254037
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2015,-120502.2265279316
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2016,-161275.62491593923
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2017,-124261.48663466153
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2018,-120221.28239453673
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2019,-95064.74669120742
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2020,-743254.8176044599
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2021,-35067.93449029187
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2022,46408.46161013711
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2023,-228499.38129265362
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2024,-42923.6915405661
+2.1,anual,corrente,5,RESULTADO PRIMÁRIO GOVERNO CENTRAL - ACIMA DA LINHA (3 - 4),1,2025,-61694.308980989066
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,1997,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,1998,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,1999,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2000,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2001,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2002,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2003,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2004,2634.31762953
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2005,2399.69379062
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2006,2590.5418248299998
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2007,1787.7170058170109
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2008,1229.16250193
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2009,1373.0629399900001
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2010,1357.88881676
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2011,1137.9017346199998
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2012,1313.7562010299998
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2013,858.41207205
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2014,0
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2015,3888.43473464
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2016,3883.6203607800007
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2017,7577.332997174244
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2018,6621.905446897639
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2019,6760.6702836703
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2020,1916.6332838551743
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2021,-456.38076930534965
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2022,8229.506294410287
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2023,-32855.4240922037
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2024,-428.4491344100002
+2.1,anual,corrente,6,AJUSTES METODOLÓGICOS,1,2025,1039.9501694499997
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,1997,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,1998,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,1999,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2000,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2001,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2002,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2003,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2004,2634.31762953
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2005,2399.69379062
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2006,2590.5418248299998
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2007,1787.7170058170109
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2008,1229.16250193
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2009,1373.0629399900001
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2010,1357.88881676
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2011,1137.9017346199998
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2012,1313.7562010299998
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2013,858.41207205
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2014,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2015,3888.43473464
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2016,3721.92036078
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2017,4461.687957319999
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2018,4908.011846950001
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2019,5371.649369499999
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2020,932.27381366
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2021,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2022,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2023,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2024,0
+2.1,anual,corrente,6.1,Ajuste Metodológico Itaipu 3/,2,2025,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,1997,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,1998,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,1999,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2000,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2001,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2002,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2003,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2004,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2005,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2006,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2007,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2008,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2009,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2010,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2011,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2012,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2013,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2014,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2015,0
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2016,161.69999999999982
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2017,3115.645039854245
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2018,1713.8935999476384
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2019,1389.0209141703017
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2020,984.3594701951749
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2021,-456.38076930534965
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2022,534.2485647102856
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2023,827.4188595063017
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2024,-428.4491344100002
+2.1,anual,corrente,6.2,Ajuste Metodológico Caixa - Competência 4/,2,2025,1039.9501694499997
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,1997,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,1998,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,1999,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2000,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2001,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2002,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2003,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2004,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2005,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2006,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2007,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2008,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2009,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2010,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2011,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2012,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2013,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2014,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2015,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2016,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2017,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2018,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2019,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2020,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2021,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2022,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2023,-25987.58522201
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2024,0
+2.1,anual,corrente,6.3,Ajuste Metodológico Recursos Não Sacados do PIS/PASEP (EC nº 126/2022) 5/,2,2025,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,1997,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,1998,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,1999,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2000,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2001,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2002,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2003,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2004,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2005,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2006,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2007,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2008,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2009,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2010,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2011,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2012,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2013,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2014,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2015,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2016,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2017,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2018,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2019,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2020,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2021,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2022,7695.2577297
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2023,-7695.2577297
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2024,0
+2.1,anual,corrente,6.4,Ajuste Metodológico Compensações LC nº 194/2022 (pré-Acordo União e Estados/Distrito Federal) 6/,2,2025,0
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,1997,-4176.262263803412
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,1998,-2535.5149356862253
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,1999,2507.7969606327715
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2000,-551.6041086192292
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2001,242.70537020437337
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2002,341.8930633414466
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2003,-336.16438357942457
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2004,409.4396191804392
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2005,668.5045621518555
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2006,12.79792099886376
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2007,0.6110896519439848
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2008,-1359.6291991603737
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2009,1633.7314538651788
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2010,-525.8020483193627
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2011,6.564866899684148
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2012,-215.74992664944818
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2013,2273.1457185868603
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2014,3010.6993193604303
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2015,-41.78820046839945
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2016,-2081.3518416307907
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2017,-1758.0519406726298
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2018,-2567.9902365409303
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2019,-594.8282741229355
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2020,-3927.681365795395
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2021,-347.8606222326838
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2022,308.6954348825375
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2023,-3177.963227482689
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2024,-2012.1925056438567
+2.1,anual,corrente,7,DISCREPÂNCIA ESTATÍSTICA,1,2025,1967.2589446291486
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,1997,-2375.51
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,1998,5041.502720224611
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,1999,22672.090000000004
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2000,20430.6
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2001,21979.80567979562
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2002,31919.097682459993
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2003,38743.88402625
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2004,52385.18255559
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2005,55741.366081490014
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2006,51351.56978609
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2007,59438.71696266998
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2008,71307.92244361996
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2009,42443.21325697
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2010,78723.25570999
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2011,93035.49746229996
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2012,86085.97252238
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2013,75290.70270237997
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2014,-20471.70409317994
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2015,-116655.57999376001
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2016,-159473.35639679
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2017,-118442.20557815993
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2018,-116167.36718418002
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2019,-88898.90468166006
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2020,-745265.8656864001
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2021,-35872.1758818299
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2022,54946.663339429935
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2023,-264532.76861234003
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2024,-45364.33318061997
+2.1,anual,corrente,8,RESULTADO PRIMÁRIO DO GOVERNO CENTRAL - ABAIXO DA LINHA (5 + 6 + 7),1,2025,-58687.09986690992
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,1997,-18931.52
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,1998,-50141.50000000001
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,1999,-49008.09
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2000,-45447.03
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2001,-47253.044310795
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2002,-41948.24781838
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2003,-100896.42538302
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2004,-79418.51657693001
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2005,-129025.37226321001
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2006,-125826.6155069
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2007,-119045.70192031999
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2008,-96198.68013631999
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2009,-149806.40014884
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2010,-124508.74253006998
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2011,-180553.06946837
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2012,-147267.63260292
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2013,-185845.65065012
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2014,-251070.21532889004
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2015,-397240.4236946301
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2016,-318362.14190561
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2017,-340907.29406904
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2018,-310307.13012869994
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2019,-310115.06477194
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2020,-266657.22489966
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2021,-407282.23516923
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2022,-503234.39651791996
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2023,-614548.08589738
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2024,-855206.34790094
+2.1,anual,corrente,9,JUROS NOMINAIS 7/,1,2025,-891879.89015513
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,1997,-21307.030000000002
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,1998,-45099.9972797754
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,1999,-26336
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2000,-25016.43
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2001,-25273.23863099938
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2002,-10029.150135919997
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2003,-62152.54135677
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2004,-27033.33402134
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2005,-73284.00618172
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2006,-74475.04572080998
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2007,-59606.98495765001
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2008,-24890.75769270002
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2009,-107363.18689187
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2010,-45785.48682007999
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2011,-87517.57200607003
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2012,-61181.66008053999
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2013,-110554.94794774
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2014,-271541.9194220699
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2015,-513896.00368839
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2016,-477835.49830240005
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2017,-459349.49964719976
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2018,-426474.49731288
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2019,-399013.96945360006
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2020,-1011923.0905860601
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2021,-443154.41105105996
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2022,-448287.7331784901
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2023,-879080.85450972
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2024,-900570.6810815601
+2.1,anual,corrente,10,RESULTADO NOMINAL DO GOVERNO CENTRAL (8 + 9) 8/,1,2025,-950566.99002204

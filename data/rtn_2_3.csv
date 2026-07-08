@@ -1,0 +1,1081 @@
+tabela,periodicidade,unidade_tipo,codigo,descricao,nivel,periodo,valor
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2008,28105.82378092
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2009,34008.27421018999
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2010,44741.21760242
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2011,52630.67191140999
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2012,59448.82930250001
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2013,63224.22525464001
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2014,77535.69652941001
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2015,55531.95447205678
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2016,64812.871412311106
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2017,45694.004741468874
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2018,53132.627145881284
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2019,56593.35589430047
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2020,104904.49770114284
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2021,56828.23561548984
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2022,45054.64552259868
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2023,81365.33022576442
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2024,86102.1053613419
+2.3,anual,corrente,1,INVESTIMENTO TOTAL (1 + 2 + 3),1,2025,83406.34938974492
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2008,26112.48820340766
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2009,32151.340891519434
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2010,44681.59548960539
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2011,41930.42066757101
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2012,46873.51891461348
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2013,47286.24168017012
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2014,57214.08293732805
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2015,38950.20970740758
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2016,48051.4161552007
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2017,37854.34178952889
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2018,41296.58596934161
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2019,37820.01478197956
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2020,42020.616063697315
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2021,36017.35253916983
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2022,40639.09459896869
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2023,58750.29581598443
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2024,60126.53666178191
+2.3,anual,corrente,1.1,Investimentos (GND 4),2,2025,69922.95260078994
+2.3,anual,corrente,1.1.01,Legislativa,3,2008,79.93868681999999
+2.3,anual,corrente,1.1.01,Legislativa,3,2009,64.00657657000001
+2.3,anual,corrente,1.1.01,Legislativa,3,2010,103.84378315000001
+2.3,anual,corrente,1.1.01,Legislativa,3,2011,137.5039084
+2.3,anual,corrente,1.1.01,Legislativa,3,2012,97.56193078000001
+2.3,anual,corrente,1.1.01,Legislativa,3,2013,91.36531679000001
+2.3,anual,corrente,1.1.01,Legislativa,3,2014,172.05453287
+2.3,anual,corrente,1.1.01,Legislativa,3,2015,189.30657437
+2.3,anual,corrente,1.1.01,Legislativa,3,2016,231.29282387
+2.3,anual,corrente,1.1.01,Legislativa,3,2017,115.08874555999999
+2.3,anual,corrente,1.1.01,Legislativa,3,2018,78.28017138
+2.3,anual,corrente,1.1.01,Legislativa,3,2019,55.71787991
+2.3,anual,corrente,1.1.01,Legislativa,3,2020,83.20607936
+2.3,anual,corrente,1.1.01,Legislativa,3,2021,77.79807223
+2.3,anual,corrente,1.1.01,Legislativa,3,2022,91.94145402000001
+2.3,anual,corrente,1.1.01,Legislativa,3,2023,118.37892739
+2.3,anual,corrente,1.1.01,Legislativa,3,2024,149.38257456999997
+2.3,anual,corrente,1.1.01,Legislativa,3,2025,131.61525684999998
+2.3,anual,corrente,1.1.02,Judiciária,3,2008,800.35124663664
+2.3,anual,corrente,1.1.02,Judiciária,3,2009,681.2310434377362
+2.3,anual,corrente,1.1.02,Judiciária,3,2010,963.1301943
+2.3,anual,corrente,1.1.02,Judiciária,3,2011,906.40381378
+2.3,anual,corrente,1.1.02,Judiciária,3,2012,935.0735011300001
+2.3,anual,corrente,1.1.02,Judiciária,3,2013,780.39475118
+2.3,anual,corrente,1.1.02,Judiciária,3,2014,987.3276929299999
+2.3,anual,corrente,1.1.02,Judiciária,3,2015,962.1272162899999
+2.3,anual,corrente,1.1.02,Judiciária,3,2016,1088.8021120399999
+2.3,anual,corrente,1.1.02,Judiciária,3,2017,887.8536604299999
+2.3,anual,corrente,1.1.02,Judiciária,3,2018,1030.4484463899998
+2.3,anual,corrente,1.1.02,Judiciária,3,2019,884.2376525300001
+2.3,anual,corrente,1.1.02,Judiciária,3,2020,609.28228404
+2.3,anual,corrente,1.1.02,Judiciária,3,2021,488.99128094
+2.3,anual,corrente,1.1.02,Judiciária,3,2022,1801.80480544
+2.3,anual,corrente,1.1.02,Judiciária,3,2023,1949.8522841200001
+2.3,anual,corrente,1.1.02,Judiciária,3,2024,1875.1027673299996
+2.3,anual,corrente,1.1.02,Judiciária,3,2025,1003.53501254
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2008,136.26206628
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2009,196.41730066000002
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2010,160.69869269999998
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2011,154.28612743000002
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2012,204.78170779
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2013,210.91149764
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2014,221.83333541999997
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2015,259.05135656999994
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2016,340.11819487
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2017,247.58790538
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2018,191.22249275000004
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2019,108.02101047999997
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2020,172.43385645
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2021,201.38708520999998
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2022,199.33365121000003
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2023,190.33171608000004
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2024,124.78897986999999
+2.3,anual,corrente,1.1.03,Essencial à Justiça,3,2025,75.33110642
+2.3,anual,corrente,1.1.04,Administração,3,2008,355.4636096308299
+2.3,anual,corrente,1.1.04,Administração,3,2009,390.267347866812
+2.3,anual,corrente,1.1.04,Administração,3,2010,520.1420093538981
+2.3,anual,corrente,1.1.04,Administração,3,2011,623.191889874722
+2.3,anual,corrente,1.1.04,Administração,3,2012,471.60505672697997
+2.3,anual,corrente,1.1.04,Administração,3,2013,1608.2442534516438
+2.3,anual,corrente,1.1.04,Administração,3,2014,1499.970573993822
+2.3,anual,corrente,1.1.04,Administração,3,2015,692.4538574700001
+2.3,anual,corrente,1.1.04,Administração,3,2016,532.6922331600001
+2.3,anual,corrente,1.1.04,Administração,3,2017,632.6693633799999
+2.3,anual,corrente,1.1.04,Administração,3,2018,654.704439883752
+2.3,anual,corrente,1.1.04,Administração,3,2019,584.764379805
+2.3,anual,corrente,1.1.04,Administração,3,2020,579.190815724369
+2.3,anual,corrente,1.1.04,Administração,3,2021,489.25258689987993
+2.3,anual,corrente,1.1.04,Administração,3,2022,541.893082526123
+2.3,anual,corrente,1.1.04,Administração,3,2023,656.8489402901869
+2.3,anual,corrente,1.1.04,Administração,3,2024,554.82077764
+2.3,anual,corrente,1.1.04,Administração,3,2025,625.63948763
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2008,3279.4355878964593
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2009,4011.7300590617883
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2010,6969.488384415681
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2011,6541.045711439364
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2012,7738.066733093496
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2013,8157.015431380647
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2014,10382.564083775513
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2015,6329.648807971129
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2016,9151.029577284387
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2017,8065.271057534397
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2018,8560.26325050075
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2019,8346.54603725421
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2020,8145.07420193836
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2021,7410.103878844868
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2022,7855.927763311164
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2023,8126.894883693327
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2024,9146.743349320797
+2.3,anual,corrente,1.1.05,Defesa Nacional,3,2025,10633.014250625984
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2008,1076.74408447
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2009,1413.8928110400002
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2010,2160.14018249
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2011,1079.53716112
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2012,1092.70219876
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2013,1455.5285959500002
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2014,1169.0633671500002
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2015,702.3168298318961
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2016,1010.105135043543
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2017,855.84366443
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2018,1194.7839489986518
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2019,1947.9097828788488
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2020,2153.895103692497
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2021,2166.76294554711
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2022,2125.063634306861
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2023,2337.23551125
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2024,2636.7550111299997
+2.3,anual,corrente,1.1.06,Segurança Pública,3,2025,3200.83982588
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2008,42.28316086615298
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2009,43.26386600142207
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2010,39.913661199697046
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2011,29.969629710852075
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2012,45.11643982422137
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2013,27.92741262199996
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2014,49.021903916106936
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2015,24.25304716177019
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2016,24.247067164353254
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2017,52.995599635448244
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2018,64.34814159113138
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2019,61.03133393814791
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2020,37.35845561444136
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2021,36.39517739223112
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2022,37.804762391978315
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2023,42.347344175390816
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2024,27.595372350301442
+2.3,anual,corrente,1.1.07,Relações Exteriores,3,2025,16.52711716082213
+2.3,anual,corrente,1.1.08,Assistência Social,3,2008,128.15678367
+2.3,anual,corrente,1.1.08,Assistência Social,3,2009,156.84125333000003
+2.3,anual,corrente,1.1.08,Assistência Social,3,2010,232.53927753
+2.3,anual,corrente,1.1.08,Assistência Social,3,2011,388.9068296
+2.3,anual,corrente,1.1.08,Assistência Social,3,2012,575.1567659
+2.3,anual,corrente,1.1.08,Assistência Social,3,2013,439.81798653
+2.3,anual,corrente,1.1.08,Assistência Social,3,2014,743.5797212400003
+2.3,anual,corrente,1.1.08,Assistência Social,3,2015,236.42261846999997
+2.3,anual,corrente,1.1.08,Assistência Social,3,2016,532.06614946
+2.3,anual,corrente,1.1.08,Assistência Social,3,2017,242.87759058
+2.3,anual,corrente,1.1.08,Assistência Social,3,2018,243.47487117
+2.3,anual,corrente,1.1.08,Assistência Social,3,2019,311.65854513
+2.3,anual,corrente,1.1.08,Assistência Social,3,2020,236.18462972000003
+2.3,anual,corrente,1.1.08,Assistência Social,3,2021,279.27390461
+2.3,anual,corrente,1.1.08,Assistência Social,3,2022,525.06220364
+2.3,anual,corrente,1.1.08,Assistência Social,3,2023,735.2654641400001
+2.3,anual,corrente,1.1.08,Assistência Social,3,2024,624.10346425
+2.3,anual,corrente,1.1.08,Assistência Social,3,2025,796.47281505
+2.3,anual,corrente,1.1.09,Previdência Social,3,2008,75.67761130943
+2.3,anual,corrente,1.1.09,Previdência Social,3,2009,131.74584119
+2.3,anual,corrente,1.1.09,Previdência Social,3,2010,349.92917319987805
+2.3,anual,corrente,1.1.09,Previdência Social,3,2011,175.58608035999998
+2.3,anual,corrente,1.1.09,Previdência Social,3,2012,110.78348718000001
+2.3,anual,corrente,1.1.09,Previdência Social,3,2013,139.246185
+2.3,anual,corrente,1.1.09,Previdência Social,3,2014,184.12692681999997
+2.3,anual,corrente,1.1.09,Previdência Social,3,2015,52.07621867
+2.3,anual,corrente,1.1.09,Previdência Social,3,2016,16.4335765
+2.3,anual,corrente,1.1.09,Previdência Social,3,2017,53.26997909
+2.3,anual,corrente,1.1.09,Previdência Social,3,2018,40.129724859999996
+2.3,anual,corrente,1.1.09,Previdência Social,3,2019,35.907771860000004
+2.3,anual,corrente,1.1.09,Previdência Social,3,2020,4.74345489
+2.3,anual,corrente,1.1.09,Previdência Social,3,2021,15.22201739
+2.3,anual,corrente,1.1.09,Previdência Social,3,2022,21.30754592
+2.3,anual,corrente,1.1.09,Previdência Social,3,2023,41.955127430000005
+2.3,anual,corrente,1.1.09,Previdência Social,3,2024,41.988675650000005
+2.3,anual,corrente,1.1.09,Previdência Social,3,2025,35.96616383
+2.3,anual,corrente,1.1.10,Saúde,3,2008,1293.4138321474202
+2.3,anual,corrente,1.1.10,Saúde,3,2009,1672.24684504
+2.3,anual,corrente,1.1.10,Saúde,3,2010,2329.995275802916
+2.3,anual,corrente,1.1.10,Saúde,3,2011,2386.516168698792
+2.3,anual,corrente,1.1.10,Saúde,3,2012,3580.340308770001
+2.3,anual,corrente,1.1.10,Saúde,3,2013,4038.34373245
+2.3,anual,corrente,1.1.10,Saúde,3,2014,4431.217820890001
+2.3,anual,corrente,1.1.10,Saúde,3,2015,4220.353270060001
+2.3,anual,corrente,1.1.10,Saúde,3,2016,4987.22646709
+2.3,anual,corrente,1.1.10,Saúde,3,2017,3021.60549066
+2.3,anual,corrente,1.1.10,Saúde,3,2018,6161.921832149999
+2.3,anual,corrente,1.1.10,Saúde,3,2019,3789.8316232899992
+2.3,anual,corrente,1.1.10,Saúde,3,2020,5828.32802214
+2.3,anual,corrente,1.1.10,Saúde,3,2021,3423.1170142200003
+2.3,anual,corrente,1.1.10,Saúde,3,2022,3507.41573682
+2.3,anual,corrente,1.1.10,Saúde,3,2023,3926.5690191699996
+2.3,anual,corrente,1.1.10,Saúde,3,2024,4672.30228213
+2.3,anual,corrente,1.1.10,Saúde,3,2025,9731.14065774
+2.3,anual,corrente,1.1.11,Trabalho,3,2008,41.486741030000005
+2.3,anual,corrente,1.1.11,Trabalho,3,2009,32.71593087
+2.3,anual,corrente,1.1.11,Trabalho,3,2010,39.079610800000005
+2.3,anual,corrente,1.1.11,Trabalho,3,2011,35.7991555
+2.3,anual,corrente,1.1.11,Trabalho,3,2012,30.07698133
+2.3,anual,corrente,1.1.11,Trabalho,3,2013,32.356575230000004
+2.3,anual,corrente,1.1.11,Trabalho,3,2014,38.29423916
+2.3,anual,corrente,1.1.11,Trabalho,3,2015,43.015779120000005
+2.3,anual,corrente,1.1.11,Trabalho,3,2016,53.45733263000001
+2.3,anual,corrente,1.1.11,Trabalho,3,2017,54.19746369
+2.3,anual,corrente,1.1.11,Trabalho,3,2018,42.11606519
+2.3,anual,corrente,1.1.11,Trabalho,3,2019,19.66749397
+2.3,anual,corrente,1.1.11,Trabalho,3,2020,22.564204309999997
+2.3,anual,corrente,1.1.11,Trabalho,3,2021,16.15014892
+2.3,anual,corrente,1.1.11,Trabalho,3,2022,41.70890061
+2.3,anual,corrente,1.1.11,Trabalho,3,2023,21.69293905
+2.3,anual,corrente,1.1.11,Trabalho,3,2024,65.90608395000001
+2.3,anual,corrente,1.1.11,Trabalho,3,2025,39.103400289999996
+2.3,anual,corrente,1.1.12,Educação,3,2008,2258.3657205999993
+2.3,anual,corrente,1.1.12,Educação,3,2009,2934.3431737200003
+2.3,anual,corrente,1.1.12,Educação,3,2010,5707.816972207289
+2.3,anual,corrente,1.1.12,Educação,3,2011,5986.340337540002
+2.3,anual,corrente,1.1.12,Educação,3,2012,9689.998664590004
+2.3,anual,corrente,1.1.12,Educação,3,2013,6765.6506785599995
+2.3,anual,corrente,1.1.12,Educação,3,2014,8690.356041320001
+2.3,anual,corrente,1.1.12,Educação,3,2015,5444.90421506
+2.3,anual,corrente,1.1.12,Educação,3,2016,5747.111570120913
+2.3,anual,corrente,1.1.12,Educação,3,2017,4491.57841898
+2.3,anual,corrente,1.1.12,Educação,3,2018,4704.390121937484
+2.3,anual,corrente,1.1.12,Educação,3,2019,3705.5816140484994
+2.3,anual,corrente,1.1.12,Educação,3,2020,3235.2022943300008
+2.3,anual,corrente,1.1.12,Educação,3,2021,3400.6537350700005
+2.3,anual,corrente,1.1.12,Educação,3,2022,4683.97680241
+2.3,anual,corrente,1.1.12,Educação,3,2023,5156.1465254
+2.3,anual,corrente,1.1.12,Educação,3,2024,5074.318502120001
+2.3,anual,corrente,1.1.12,Educação,3,2025,6141.25356585
+2.3,anual,corrente,1.1.13,Cultura,3,2008,104.90326051
+2.3,anual,corrente,1.1.13,Cultura,3,2009,86.37950071
+2.3,anual,corrente,1.1.13,Cultura,3,2010,112.87527447999999
+2.3,anual,corrente,1.1.13,Cultura,3,2011,101.22809963
+2.3,anual,corrente,1.1.13,Cultura,3,2012,148.45329087
+2.3,anual,corrente,1.1.13,Cultura,3,2013,287.6581429
+2.3,anual,corrente,1.1.13,Cultura,3,2014,314.75943198999994
+2.3,anual,corrente,1.1.13,Cultura,3,2015,176.93804079
+2.3,anual,corrente,1.1.13,Cultura,3,2016,252.75658495
+2.3,anual,corrente,1.1.13,Cultura,3,2017,199.84960633999998
+2.3,anual,corrente,1.1.13,Cultura,3,2018,185.44420315000002
+2.3,anual,corrente,1.1.13,Cultura,3,2019,183.84193043
+2.3,anual,corrente,1.1.13,Cultura,3,2020,116.85058353
+2.3,anual,corrente,1.1.13,Cultura,3,2021,76.31407476000001
+2.3,anual,corrente,1.1.13,Cultura,3,2022,57.664274479999996
+2.3,anual,corrente,1.1.13,Cultura,3,2023,87.87390214
+2.3,anual,corrente,1.1.13,Cultura,3,2024,152.36718752000002
+2.3,anual,corrente,1.1.13,Cultura,3,2025,257.79717642
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2008,140.34186171
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2009,245.55594235
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2010,213.11240865000002
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2011,196.18275559999998
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2012,159.80326318
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2013,123.00038612
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2014,344.50999218999993
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2015,208.92461196999997
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2016,1322.55588293
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2017,947.92934412132
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2018,281.465006615424
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2019,363.1909515587489
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2020,510.476560476453
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2021,349.17996572
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2022,384.57974611000003
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2023,195.02397179000002
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2024,177.945753
+2.3,anual,corrente,1.1.14,Direitos da Cidadania,3,2025,223.61153362999997
+2.3,anual,corrente,1.1.15,Urbanismo,3,2008,2831.3145385999997
+2.3,anual,corrente,1.1.15,Urbanismo,3,2009,2519.37094234
+2.3,anual,corrente,1.1.15,Urbanismo,3,2010,2668.486539
+2.3,anual,corrente,1.1.15,Urbanismo,3,2011,2293.9164137599996
+2.3,anual,corrente,1.1.15,Urbanismo,3,2012,2227.86920968
+2.3,anual,corrente,1.1.15,Urbanismo,3,2013,1794.56479446
+2.3,anual,corrente,1.1.15,Urbanismo,3,2014,1737.5362357400004
+2.3,anual,corrente,1.1.15,Urbanismo,3,2015,2470.2494429500007
+2.3,anual,corrente,1.1.15,Urbanismo,3,2016,3139.4707597200004
+2.3,anual,corrente,1.1.15,Urbanismo,3,2017,2407.12288172
+2.3,anual,corrente,1.1.15,Urbanismo,3,2018,2651.9880416099995
+2.3,anual,corrente,1.1.15,Urbanismo,3,2019,3175.7296823300003
+2.3,anual,corrente,1.1.15,Urbanismo,3,2020,4699.78172822
+2.3,anual,corrente,1.1.15,Urbanismo,3,2021,4167.831256920001
+2.3,anual,corrente,1.1.15,Urbanismo,3,2022,5622.138312850001
+2.3,anual,corrente,1.1.15,Urbanismo,3,2023,6637.339363270001
+2.3,anual,corrente,1.1.15,Urbanismo,3,2024,5797.017517129999
+2.3,anual,corrente,1.1.15,Urbanismo,3,2025,5965.097200439999
+2.3,anual,corrente,1.1.16,Habitação,3,2008,530.0901758099999
+2.3,anual,corrente,1.1.16,Habitação,3,2009,506.23271668999996
+2.3,anual,corrente,1.1.16,Habitação,3,2010,238.92054840000003
+2.3,anual,corrente,1.1.16,Habitação,3,2011,292.76597649
+2.3,anual,corrente,1.1.16,Habitação,3,2012,419.76469732000004
+2.3,anual,corrente,1.1.16,Habitação,3,2013,215.40770404999998
+2.3,anual,corrente,1.1.16,Habitação,3,2014,146.44525095999995
+2.3,anual,corrente,1.1.16,Habitação,3,2015,77.75608638999998
+2.3,anual,corrente,1.1.16,Habitação,3,2016,104.59045383
+2.3,anual,corrente,1.1.16,Habitação,3,2017,46.40490883
+2.3,anual,corrente,1.1.16,Habitação,3,2018,56.796467670000006
+2.3,anual,corrente,1.1.16,Habitação,3,2019,46.69906819
+2.3,anual,corrente,1.1.16,Habitação,3,2020,51.07470817999999
+2.3,anual,corrente,1.1.16,Habitação,3,2021,19.79227843
+2.3,anual,corrente,1.1.16,Habitação,3,2022,24.632254819999996
+2.3,anual,corrente,1.1.16,Habitação,3,2023,13.540928019999999
+2.3,anual,corrente,1.1.16,Habitação,3,2024,14.900965420000002
+2.3,anual,corrente,1.1.16,Habitação,3,2025,552.4340160900001
+2.3,anual,corrente,1.1.17,Saneamento,3,2008,1508.86157974
+2.3,anual,corrente,1.1.17,Saneamento,3,2009,1621.2764301400002
+2.3,anual,corrente,1.1.17,Saneamento,3,2010,1621.77565476
+2.3,anual,corrente,1.1.17,Saneamento,3,2011,1171.59067794
+2.3,anual,corrente,1.1.17,Saneamento,3,2012,1562.56089167
+2.3,anual,corrente,1.1.17,Saneamento,3,2013,1648.9974443400001
+2.3,anual,corrente,1.1.17,Saneamento,3,2014,1708.81441328
+2.3,anual,corrente,1.1.17,Saneamento,3,2015,1211.16081228
+2.3,anual,corrente,1.1.17,Saneamento,3,2016,1755.9121207199998
+2.3,anual,corrente,1.1.17,Saneamento,3,2017,1395.48027559
+2.3,anual,corrente,1.1.17,Saneamento,3,2018,982.6626434
+2.3,anual,corrente,1.1.17,Saneamento,3,2019,1157.28464366
+2.3,anual,corrente,1.1.17,Saneamento,3,2020,1414.09751694
+2.3,anual,corrente,1.1.17,Saneamento,3,2021,664.1423069
+2.3,anual,corrente,1.1.17,Saneamento,3,2022,342.34258729
+2.3,anual,corrente,1.1.17,Saneamento,3,2023,377.3902493300001
+2.3,anual,corrente,1.1.17,Saneamento,3,2024,475.18769097999996
+2.3,anual,corrente,1.1.17,Saneamento,3,2025,611.65420723
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2008,1157.2700659326301
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2009,1938.0660300500003
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2010,2418.4136617000004
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2011,1706.25441491
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2012,2323.3037586000005
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2013,3304.8070018900003
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2014,3606.870488492679
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2015,3185.4053710456405
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2016,3016.30257841
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2017,2192.26745187
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2018,1951.4099209800006
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2019,2129.79226005
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2020,1991.6405445200003
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2021,1332.5511971399999
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2022,1249.4375893800002
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2023,1846.2803462099998
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2024,1856.2862457000006
+2.3,anual,corrente,1.1.18,Gestão Ambiental,3,2025,1988.2101297000004
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2008,802.70258087808
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2009,1016.4351798151
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2010,1004.015734498608
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2011,916.8046426871182
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2012,962.724657656135
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2013,895.082590897306
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2014,943.500509351502
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2015,645.3026536956561
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2016,757.5206877474639
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2017,692.78675303104
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2018,569.4833336602121
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2019,520.863152677951
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2020,436.52563406831007
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2021,399.49956390627005
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2022,712.63471695722
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2023,1354.9763568932462
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2024,1629.3334991373022
+2.3,anual,corrente,1.1.19,Ciência e Tecnologia,3,2025,2286.5769448092324
+2.3,anual,corrente,1.1.20,Agricultura,3,2008,959.8987153300001
+2.3,anual,corrente,1.1.20,Agricultura,3,2009,1190.1230464
+2.3,anual,corrente,1.1.20,Agricultura,3,2010,1092.1025754840039
+2.3,anual,corrente,1.1.20,Agricultura,3,2011,1383.045134066158
+2.3,anual,corrente,1.1.20,Agricultura,3,2012,982.5748612699999
+2.3,anual,corrente,1.1.20,Agricultura,3,2013,875.2181955799999
+2.3,anual,corrente,1.1.20,Agricultura,3,2014,1153.0719284299998
+2.3,anual,corrente,1.1.20,Agricultura,3,2015,802.34769429
+2.3,anual,corrente,1.1.20,Agricultura,3,2016,674.5321386
+2.3,anual,corrente,1.1.20,Agricultura,3,2017,515.1430188310383
+2.3,anual,corrente,1.1.20,Agricultura,3,2018,884.9888144068427
+2.3,anual,corrente,1.1.20,Agricultura,3,2019,998.457507628489
+2.3,anual,corrente,1.1.20,Agricultura,3,2020,1177.3684407617359
+2.3,anual,corrente,1.1.20,Agricultura,3,2021,1140.9431780247178
+2.3,anual,corrente,1.1.20,Agricultura,3,2022,1108.6618475124556
+2.3,anual,corrente,1.1.20,Agricultura,3,2023,2209.0539813225996
+2.3,anual,corrente,1.1.20,Agricultura,3,2024,3194.609121246105
+2.3,anual,corrente,1.1.20,Agricultura,3,2025,4044.7387725373665
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2008,457.40918483999997
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2009,503.86031080000004
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2010,595.9924196800001
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2011,578.0856393099999
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2012,627.23654687
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2013,1693.36992724
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2014,3859.8477144800004
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2015,326.17115813000004
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2016,328.35138448999993
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2017,243.40380382
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2018,379.10705088
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2019,137.49873266
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2020,115.44019691000003
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2021,40.873291519999995
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2022,74.11119706999999
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2023,103.47093928
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2024,116.16692812999999
+2.3,anual,corrente,1.1.21,Organização Agrária,3,2025,238.19498963
+2.3,anual,corrente,1.1.22,Indústria,3,2008,56.65018591
+2.3,anual,corrente,1.1.22,Indústria,3,2009,78.12890545
+2.3,anual,corrente,1.1.22,Indústria,3,2010,79.19248908999998
+2.3,anual,corrente,1.1.22,Indústria,3,2011,101.99850479
+2.3,anual,corrente,1.1.22,Indústria,3,2012,136.30660292
+2.3,anual,corrente,1.1.22,Indústria,3,2013,140.72466842
+2.3,anual,corrente,1.1.22,Indústria,3,2014,110.12609959
+2.3,anual,corrente,1.1.22,Indústria,3,2015,38.63598117000001
+2.3,anual,corrente,1.1.22,Indústria,3,2016,27.18069448
+2.3,anual,corrente,1.1.22,Indústria,3,2017,37.09789863
+2.3,anual,corrente,1.1.22,Indústria,3,2018,40.91997606
+2.3,anual,corrente,1.1.22,Indústria,3,2019,103.44525461
+2.3,anual,corrente,1.1.22,Indústria,3,2020,98.60046210999995
+2.3,anual,corrente,1.1.22,Indústria,3,2021,50.36888406
+2.3,anual,corrente,1.1.22,Indústria,3,2022,45.94258143999999
+2.3,anual,corrente,1.1.22,Indústria,3,2023,77.80201393
+2.3,anual,corrente,1.1.22,Indústria,3,2024,62.757098750000004
+2.3,anual,corrente,1.1.22,Indústria,3,2025,49.481688500000004
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2008,864.4736731400002
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2009,480.25968497
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2010,710.45799352
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2011,567.64436888
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2012,981.29742965
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2013,464.80145521
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2014,461.57924651
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2015,659.02773143
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2016,666.2587723499998
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2017,486.55581407
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2018,471.1244615
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2019,475.22455173
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2020,1058.27414815
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2021,382.3570829
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2022,260.75486157999995
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2023,586.30186712
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2024,278.29813919
+2.3,anual,corrente,1.1.23,Comércio e Serviços,3,2025,443.48799554000004
+2.3,anual,corrente,1.1.24,Comunicações,3,2008,147.59114456999998
+2.3,anual,corrente,1.1.24,Comunicações,3,2009,5.268871829999999
+2.3,anual,corrente,1.1.24,Comunicações,3,2010,34.68385579000001
+2.3,anual,corrente,1.1.24,Comunicações,3,2011,37.72579305000001
+2.3,anual,corrente,1.1.24,Comunicações,3,2012,44.46461014
+2.3,anual,corrente,1.1.24,Comunicações,3,2013,66.00867126
+2.3,anual,corrente,1.1.24,Comunicações,3,2014,139.75578518
+2.3,anual,corrente,1.1.24,Comunicações,3,2015,49.941428040000005
+2.3,anual,corrente,1.1.24,Comunicações,3,2016,44.65345313
+2.3,anual,corrente,1.1.24,Comunicações,3,2017,37.94336433
+2.3,anual,corrente,1.1.24,Comunicações,3,2018,69.26852214
+2.3,anual,corrente,1.1.24,Comunicações,3,2019,88.93923353000001
+2.3,anual,corrente,1.1.24,Comunicações,3,2020,104.45345262000001
+2.3,anual,corrente,1.1.24,Comunicações,3,2021,93.60754586000002
+2.3,anual,corrente,1.1.24,Comunicações,3,2022,183.59761197000003
+2.3,anual,corrente,1.1.24,Comunicações,3,2023,171.87711955
+2.3,anual,corrente,1.1.24,Comunicações,3,2024,87.27210215
+2.3,anual,corrente,1.1.24,Comunicações,3,2025,48.58616959
+2.3,anual,corrente,1.1.25,Energia,3,2008,16.768124590000003
+2.3,anual,corrente,1.1.25,Energia,3,2009,19.920321989999998
+2.3,anual,corrente,1.1.25,Energia,3,2010,17.54035261
+2.3,anual,corrente,1.1.25,Energia,3,2011,11.456027579999999
+2.3,anual,corrente,1.1.25,Energia,3,2012,23.426860559999998
+2.3,anual,corrente,1.1.25,Energia,3,2013,59.75044177000001
+2.3,anual,corrente,1.1.25,Energia,3,2014,53.09991101
+2.3,anual,corrente,1.1.25,Energia,3,2015,54.31471116
+2.3,anual,corrente,1.1.25,Energia,3,2016,42.389814509999994
+2.3,anual,corrente,1.1.25,Energia,3,2017,21.51313023
+2.3,anual,corrente,1.1.25,Energia,3,2018,36.894241380000004
+2.3,anual,corrente,1.1.25,Energia,3,2019,61.86814036333499
+2.3,anual,corrente,1.1.25,Energia,3,2020,86.24878073917901
+2.3,anual,corrente,1.1.25,Energia,3,2021,89.994388702635
+2.3,anual,corrente,1.1.25,Energia,3,2022,55.924445987668
+2.3,anual,corrente,1.1.25,Energia,3,2023,32.914811319238
+2.3,anual,corrente,1.1.25,Energia,3,2024,46.83602411
+2.3,anual,corrente,1.1.25,Energia,3,2025,30.42948819
+2.3,anual,corrente,1.1.26,Transporte,3,2008,6722.733620800001
+2.3,anual,corrente,1.1.26,Transporte,3,2009,9955.311641496548
+2.3,anual,corrente,1.1.26,Transporte,3,2010,13906.732917803398
+2.3,anual,corrente,1.1.26,Transporte,3,2011,13684.995344263998
+2.3,anual,corrente,1.1.26,Transporte,3,2012,11154.830403132693
+2.3,anual,corrente,1.1.26,Transporte,3,2013,11356.058510518507
+2.3,anual,corrente,1.1.26,Transporte,3,2014,12867.507143059976
+2.3,anual,corrente,1.1.26,Transporte,3,2015,8401.323832405276
+2.3,anual,corrente,1.1.26,Transporte,3,2016,10787.440047266402
+2.3,anual,corrente,1.1.26,Transporte,3,2017,9429.738349977322
+2.3,anual,corrente,1.1.26,Transporte,3,2018,9197.061690827348
+2.3,anual,corrente,1.1.26,Transporte,3,2019,7833.979596364452
+2.3,anual,corrente,1.1.26,Transporte,3,2020,7794.133281311018
+2.3,anual,corrente,1.1.26,Transporte,3,2021,7004.449247649864
+2.3,anual,corrente,1.1.26,Transporte,3,2022,7147.483413240211
+2.3,anual,corrente,1.1.26,Transporte,3,2023,13438.89803612044
+2.3,anual,corrente,1.1.26,Transporte,3,2024,14366.9176614574
+2.3,anual,corrente,1.1.26,Transporte,3,2025,13607.434173356529
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2008,205.01003492000004
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2009,196.88344770999998
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2010,288.42489395
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2011,277.30865714
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2012,335.20193759999995
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2013,374.5308965
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2014,1055.8185805685
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2015,1448.090761676208
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2016,1350.092130683632
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2017,412.44131346832006
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2018,477.14186800000004
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2019,571.561398431904
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2020,611.074924130952
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2021,292.39213653225
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2022,357.757612675
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2023,340.9685058
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2024,258.34134872000004
+2.3,anual,corrente,1.1.27,Desporto e Lazer,3,2025,528.6721198700001
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2008,38.89032477
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2009,59.56586999
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2010,102.15095303999999
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2011,164.33140402000004
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2012,212.43611761999998
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2013,239.45843222999997
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2014,141.42996700999998
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2015,38.68959893999999
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2016,66.82641215000001
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2017,67.82493532
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2018,94.74622025999999
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2019,120.76355267000002
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2020,647.1116988200001
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2021,1907.9482928699997
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2022,1578.191203
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2023,7973.0647417
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2024,6618.4915388300005
+2.3,anual,corrente,1.1.28,Encargos Especiais,3,2025,6616.107335389999
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2008,1915.85189296
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2009,2721.2197411899997
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2010,2533.6745431399995
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2011,10644.04880778
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2012,12333.64803908
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2013,16776.7540572458
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2014,18878.060672498377
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2015,14686.328117029198
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2016,16267.214257700402
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2017,8265.59292651
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2018,11201.195402569694
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2019,18773.341112320904
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2020,62883.88163744552
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2021,20810.883076320002
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2022,4415.5509236299995
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2023,22615.03440978
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2024,25975.56869956
+2.3,anual,corrente,1.2,Inversões Financeiras (GND 5) 2/,2,2025,13483.396788954977
+2.3,anual,corrente,1.2.1,Legislativa,3,2008,5.2
+2.3,anual,corrente,1.2.1,Legislativa,3,2009,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2010,3.69990067
+2.3,anual,corrente,1.2.1,Legislativa,3,2011,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2012,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2013,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2014,10
+2.3,anual,corrente,1.2.1,Legislativa,3,2015,10.72
+2.3,anual,corrente,1.2.1,Legislativa,3,2016,4.527915
+2.3,anual,corrente,1.2.1,Legislativa,3,2017,4.279
+2.3,anual,corrente,1.2.1,Legislativa,3,2018,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2019,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2020,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2021,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2022,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2023,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2024,0
+2.3,anual,corrente,1.2.1,Legislativa,3,2025,0
+2.3,anual,corrente,1.2.2,Judiciária,3,2008,7.35665
+2.3,anual,corrente,1.2.2,Judiciária,3,2009,15.02161301
+2.3,anual,corrente,1.2.2,Judiciária,3,2010,45.34977526
+2.3,anual,corrente,1.2.2,Judiciária,3,2011,55.52044375999999
+2.3,anual,corrente,1.2.2,Judiciária,3,2012,28.680677880000005
+2.3,anual,corrente,1.2.2,Judiciária,3,2013,136.226678
+2.3,anual,corrente,1.2.2,Judiciária,3,2014,1.5385891799999998
+2.3,anual,corrente,1.2.2,Judiciária,3,2015,11.695
+2.3,anual,corrente,1.2.2,Judiciária,3,2016,2.99121762
+2.3,anual,corrente,1.2.2,Judiciária,3,2017,150.218503
+2.3,anual,corrente,1.2.2,Judiciária,3,2018,261.29580561
+2.3,anual,corrente,1.2.2,Judiciária,3,2019,307.57582880999996
+2.3,anual,corrente,1.2.2,Judiciária,3,2020,91.67168404
+2.3,anual,corrente,1.2.2,Judiciária,3,2021,20.1
+2.3,anual,corrente,1.2.2,Judiciária,3,2022,41.2685
+2.3,anual,corrente,1.2.2,Judiciária,3,2023,9.08
+2.3,anual,corrente,1.2.2,Judiciária,3,2024,293.8343775
+2.3,anual,corrente,1.2.2,Judiciária,3,2025,1.6956225
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2008,72.395147
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2009,17.9254808
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2010,14.850079999999998
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2011,27.649526000000005
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2012,85.953682
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2013,35.84163134
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2014,26.572984450000003
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2015,47.45415888
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2016,25.77438803
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2017,50.762993
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2018,24.8878
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2019,0
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2020,74.95770692
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2021,32.13734573000001
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2022,13.26423219
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2023,7.0249999999999995
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2024,0
+2.3,anual,corrente,1.2.3,Essencial à Justiça,3,2025,0
+2.3,anual,corrente,1.2.4,Administração,3,2008,0.8
+2.3,anual,corrente,1.2.4,Administração,3,2009,5.712347509999999
+2.3,anual,corrente,1.2.4,Administração,3,2010,242.76793599999996
+2.3,anual,corrente,1.2.4,Administração,3,2011,422.5044302
+2.3,anual,corrente,1.2.4,Administração,3,2012,80.09770715
+2.3,anual,corrente,1.2.4,Administração,3,2013,340.40422856
+2.3,anual,corrente,1.2.4,Administração,3,2014,189.67223728
+2.3,anual,corrente,1.2.4,Administração,3,2015,539.27624684
+2.3,anual,corrente,1.2.4,Administração,3,2016,0
+2.3,anual,corrente,1.2.4,Administração,3,2017,99.44451705000002
+2.3,anual,corrente,1.2.4,Administração,3,2018,0
+2.3,anual,corrente,1.2.4,Administração,3,2019,0
+2.3,anual,corrente,1.2.4,Administração,3,2020,0
+2.3,anual,corrente,1.2.4,Administração,3,2021,0
+2.3,anual,corrente,1.2.4,Administração,3,2022,0
+2.3,anual,corrente,1.2.4,Administração,3,2023,0
+2.3,anual,corrente,1.2.4,Administração,3,2024,0
+2.3,anual,corrente,1.2.4,Administração,3,2025,0
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2008,81.07652929
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2009,3.7759749500000006
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2010,3.30537208
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2011,3.81213454
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2012,18.319759180000002
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2013,803.3277752693001
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2014,96.85017524837998
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2015,299.76073424919997
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2016,121.92832977039998
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2017,40.86936291000001
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2018,2688.1422728400003
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2019,7571.59465977
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2020,4.330887595519999
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2021,31.020996
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2022,5.049420550000001
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2023,3.6498574
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2024,4.30833694
+2.3,anual,corrente,1.2.5,Defesa Nacional,3,2025,2.36314845
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2008,0.5
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2009,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2010,0.8
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2011,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2012,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2013,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2014,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2015,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2016,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2017,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2018,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2019,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2020,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2021,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2022,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2023,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2024,0
+2.3,anual,corrente,1.2.6,Segurança Pública,3,2025,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2008,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2009,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2010,66.5178444
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2011,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2012,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2013,5.927075416496001
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2014,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2015,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2016,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2017,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2018,8.733684079692
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2019,2.4289550808969995
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2020,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2021,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2022,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2023,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2024,0
+2.3,anual,corrente,1.2.7,Relações Exteriores,3,2025,8.143861454976
+2.3,anual,corrente,1.2.8,Assistência Social,3,2008,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2009,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2010,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2011,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2012,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2013,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2014,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2015,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2016,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2017,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2018,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2019,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2020,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2021,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2022,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2023,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2024,0
+2.3,anual,corrente,1.2.8,Assistência Social,3,2025,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2008,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2009,1.7344846200000001
+2.3,anual,corrente,1.2.9,Previdência Social,3,2010,0.6335
+2.3,anual,corrente,1.2.9,Previdência Social,3,2011,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2012,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2013,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2014,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2015,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2016,0.227
+2.3,anual,corrente,1.2.9,Previdência Social,3,2017,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2018,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2019,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2020,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2021,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2022,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2023,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2024,0
+2.3,anual,corrente,1.2.9,Previdência Social,3,2025,0
+2.3,anual,corrente,1.2.10,Saúde,3,2008,37.7
+2.3,anual,corrente,1.2.10,Saúde,3,2009,103.28500000000001
+2.3,anual,corrente,1.2.10,Saúde,3,2010,0
+2.3,anual,corrente,1.2.10,Saúde,3,2011,164.4
+2.3,anual,corrente,1.2.10,Saúde,3,2012,4.5
+2.3,anual,corrente,1.2.10,Saúde,3,2013,355
+2.3,anual,corrente,1.2.10,Saúde,3,2014,0
+2.3,anual,corrente,1.2.10,Saúde,3,2015,211.624
+2.3,anual,corrente,1.2.10,Saúde,3,2016,182.93419921
+2.3,anual,corrente,1.2.10,Saúde,3,2017,26
+2.3,anual,corrente,1.2.10,Saúde,3,2018,296.64844679000004
+2.3,anual,corrente,1.2.10,Saúde,3,2019,0
+2.3,anual,corrente,1.2.10,Saúde,3,2020,0
+2.3,anual,corrente,1.2.10,Saúde,3,2021,0
+2.3,anual,corrente,1.2.10,Saúde,3,2022,0
+2.3,anual,corrente,1.2.10,Saúde,3,2023,393
+2.3,anual,corrente,1.2.10,Saúde,3,2024,2.49932949
+2.3,anual,corrente,1.2.10,Saúde,3,2025,151.13545162
+2.3,anual,corrente,1.2.11,Trabalho,3,2008,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2009,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2010,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2011,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2012,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2013,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2014,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2015,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2016,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2017,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2018,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2019,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2020,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2021,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2022,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2023,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2024,0
+2.3,anual,corrente,1.2.11,Trabalho,3,2025,0
+2.3,anual,corrente,1.2.12,Educação,3,2008,24.01085196
+2.3,anual,corrente,1.2.12,Educação,3,2009,87.87956172
+2.3,anual,corrente,1.2.12,Educação,3,2010,43.84459719
+2.3,anual,corrente,1.2.12,Educação,3,2011,60.99132005
+2.3,anual,corrente,1.2.12,Educação,3,2012,50.862743589999994
+2.3,anual,corrente,1.2.12,Educação,3,2013,28.171114600000003
+2.3,anual,corrente,1.2.12,Educação,3,2014,47.7444
+2.3,anual,corrente,1.2.12,Educação,3,2015,7.6145083200000006
+2.3,anual,corrente,1.2.12,Educação,3,2016,568.89086157
+2.3,anual,corrente,1.2.12,Educação,3,2017,0.645
+2.3,anual,corrente,1.2.12,Educação,3,2018,509.5
+2.3,anual,corrente,1.2.12,Educação,3,2019,500
+2.3,anual,corrente,1.2.12,Educação,3,2020,500
+2.3,anual,corrente,1.2.12,Educação,3,2021,500
+2.3,anual,corrente,1.2.12,Educação,3,2022,500
+2.3,anual,corrente,1.2.12,Educação,3,2023,6600
+2.3,anual,corrente,1.2.12,Educação,3,2024,522
+2.3,anual,corrente,1.2.12,Educação,3,2025,1813.3850149999998
+2.3,anual,corrente,1.2.13,Cultura,3,2008,8.14554391
+2.3,anual,corrente,1.2.13,Cultura,3,2009,1.5427229999999998
+2.3,anual,corrente,1.2.13,Cultura,3,2010,0.5984239400000001
+2.3,anual,corrente,1.2.13,Cultura,3,2011,0.30888328000000004
+2.3,anual,corrente,1.2.13,Cultura,3,2012,0.96826091
+2.3,anual,corrente,1.2.13,Cultura,3,2013,0.0140218
+2.3,anual,corrente,1.2.13,Cultura,3,2014,0.0627756
+2.3,anual,corrente,1.2.13,Cultura,3,2015,4.65355151
+2.3,anual,corrente,1.2.13,Cultura,3,2016,0.00304
+2.3,anual,corrente,1.2.13,Cultura,3,2017,0
+2.3,anual,corrente,1.2.13,Cultura,3,2018,0
+2.3,anual,corrente,1.2.13,Cultura,3,2019,0
+2.3,anual,corrente,1.2.13,Cultura,3,2020,0
+2.3,anual,corrente,1.2.13,Cultura,3,2021,0
+2.3,anual,corrente,1.2.13,Cultura,3,2022,0
+2.3,anual,corrente,1.2.13,Cultura,3,2023,0
+2.3,anual,corrente,1.2.13,Cultura,3,2024,0
+2.3,anual,corrente,1.2.13,Cultura,3,2025,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2008,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2009,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2010,0.8510830300000001
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2011,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2012,0.57832193
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2013,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2014,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2015,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2016,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2017,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2018,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2019,16.02558962
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2020,4.2260586700000005
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2021,0.03190944
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2022,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2023,0
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2024,10.560649430000002
+2.3,anual,corrente,1.2.14,Direitos da Cidadania,3,2025,0.7402084
+2.3,anual,corrente,1.2.15,Urbanismo,3,2008,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2009,10.22082398
+2.3,anual,corrente,1.2.15,Urbanismo,3,2010,9.9513
+2.3,anual,corrente,1.2.15,Urbanismo,3,2011,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2012,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2013,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2014,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2015,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2016,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2017,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2018,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2019,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2020,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2021,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2022,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2023,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2024,0
+2.3,anual,corrente,1.2.15,Urbanismo,3,2025,0
+2.3,anual,corrente,1.2.16,Habitação,3,2008,0
+2.3,anual,corrente,1.2.16,Habitação,3,2009,0
+2.3,anual,corrente,1.2.16,Habitação,3,2010,0
+2.3,anual,corrente,1.2.16,Habitação,3,2011,0
+2.3,anual,corrente,1.2.16,Habitação,3,2012,0
+2.3,anual,corrente,1.2.16,Habitação,3,2013,0
+2.3,anual,corrente,1.2.16,Habitação,3,2014,0
+2.3,anual,corrente,1.2.16,Habitação,3,2015,0
+2.3,anual,corrente,1.2.16,Habitação,3,2016,0
+2.3,anual,corrente,1.2.16,Habitação,3,2017,0
+2.3,anual,corrente,1.2.16,Habitação,3,2018,0
+2.3,anual,corrente,1.2.16,Habitação,3,2019,0
+2.3,anual,corrente,1.2.16,Habitação,3,2020,0
+2.3,anual,corrente,1.2.16,Habitação,3,2021,0
+2.3,anual,corrente,1.2.16,Habitação,3,2022,0
+2.3,anual,corrente,1.2.16,Habitação,3,2023,0
+2.3,anual,corrente,1.2.16,Habitação,3,2024,22.933543999999998
+2.3,anual,corrente,1.2.16,Habitação,3,2025,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2008,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2009,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2010,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2011,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2012,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2013,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2014,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2015,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2016,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2017,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2018,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2019,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2020,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2021,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2022,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2023,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2024,0
+2.3,anual,corrente,1.2.17,Saneamento,3,2025,0
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2008,0
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2009,0
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2010,50.68112086
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2011,48.99739723
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2012,1.6296943
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2013,0.7170582
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2014,0.45824545
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2015,0
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2016,1.29718076
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2017,8.43448203
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2018,14.946569219999997
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2019,29.8659555
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2020,4.74345341
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2021,0.06165176
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2022,0
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2023,0.061604349999999995
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2024,0
+2.3,anual,corrente,1.2.18,Gestão Ambiental,3,2025,13.899999999999999
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2008,30.15065
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2009,157.346441
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2010,77.33
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2011,53.82
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2012,144.642
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2013,51.17
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2014,10
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2015,63.41525093999999
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2016,77.64316278
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2017,62.151314760000005
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2018,36.645887689999995
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2019,25.09371379
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2020,6.0212862099999995
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2021,0
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2022,7.637182009999999
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2023,4.965413760000001
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2024,2.9099881300000003
+2.3,anual,corrente,1.2.19,Ciência e Tecnologia,3,2025,14.15320391
+2.3,anual,corrente,1.2.20,Agricultura,3,2008,3.485
+2.3,anual,corrente,1.2.20,Agricultura,3,2009,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2010,0.192
+2.3,anual,corrente,1.2.20,Agricultura,3,2011,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2012,5.4
+2.3,anual,corrente,1.2.20,Agricultura,3,2013,1.35
+2.3,anual,corrente,1.2.20,Agricultura,3,2014,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2015,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2016,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2017,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2018,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2019,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2020,3.9460932700000004
+2.3,anual,corrente,1.2.20,Agricultura,3,2021,0.252
+2.3,anual,corrente,1.2.20,Agricultura,3,2022,98.40511024
+2.3,anual,corrente,1.2.20,Agricultura,3,2023,0.14473168
+2.3,anual,corrente,1.2.20,Agricultura,3,2024,0
+2.3,anual,corrente,1.2.20,Agricultura,3,2025,0
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2008,779.11292412
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2009,897.7275423799999
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2010,563.53487888
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2011,809.5398742799999
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2012,359.16902168999997
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2013,594.2941696199999
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2014,660.56229943
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2015,224.77411668999997
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2016,274.21741063
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2017,79.96849309000001
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2018,61.6921152
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2019,18.213029820000003
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2020,48.529302630000004
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2021,1.4394483100000002
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2022,0.6669147399999998
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2023,1.14149783
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2024,125.24359353
+2.3,anual,corrente,1.2.21,Organização Agrária,3,2025,384.16265627999996
+2.3,anual,corrente,1.2.22,Indústria,3,2008,0
+2.3,anual,corrente,1.2.22,Indústria,3,2009,0
+2.3,anual,corrente,1.2.22,Indústria,3,2010,0
+2.3,anual,corrente,1.2.22,Indústria,3,2011,0
+2.3,anual,corrente,1.2.22,Indústria,3,2012,0
+2.3,anual,corrente,1.2.22,Indústria,3,2013,0
+2.3,anual,corrente,1.2.22,Indústria,3,2014,0
+2.3,anual,corrente,1.2.22,Indústria,3,2015,0
+2.3,anual,corrente,1.2.22,Indústria,3,2016,0
+2.3,anual,corrente,1.2.22,Indústria,3,2017,0
+2.3,anual,corrente,1.2.22,Indústria,3,2018,0
+2.3,anual,corrente,1.2.22,Indústria,3,2019,0
+2.3,anual,corrente,1.2.22,Indústria,3,2020,0
+2.3,anual,corrente,1.2.22,Indústria,3,2021,0
+2.3,anual,corrente,1.2.22,Indústria,3,2022,0
+2.3,anual,corrente,1.2.22,Indústria,3,2023,0
+2.3,anual,corrente,1.2.22,Indústria,3,2024,0
+2.3,anual,corrente,1.2.22,Indústria,3,2025,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2008,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2009,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2010,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2011,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2012,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2013,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2014,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2015,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2016,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2017,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2018,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2019,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2020,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2021,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2022,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2023,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2024,0
+2.3,anual,corrente,1.2.23,Comércio e Serviços,3,2025,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2008,200
+2.3,anual,corrente,1.2.24,Comunicações,3,2009,1.1761
+2.3,anual,corrente,1.2.24,Comunicações,3,2010,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2011,396.4
+2.3,anual,corrente,1.2.24,Comunicações,3,2012,20.02
+2.3,anual,corrente,1.2.24,Comunicações,3,2013,101.96170835999999
+2.3,anual,corrente,1.2.24,Comunicações,3,2014,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2015,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2016,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2017,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2018,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2019,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2020,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2021,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2022,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2023,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2024,0
+2.3,anual,corrente,1.2.24,Comunicações,3,2025,0
+2.3,anual,corrente,1.2.25,Energia,3,2008,0
+2.3,anual,corrente,1.2.25,Energia,3,2009,0
+2.3,anual,corrente,1.2.25,Energia,3,2010,0
+2.3,anual,corrente,1.2.25,Energia,3,2011,0
+2.3,anual,corrente,1.2.25,Energia,3,2012,0
+2.3,anual,corrente,1.2.25,Energia,3,2013,0
+2.3,anual,corrente,1.2.25,Energia,3,2014,0
+2.3,anual,corrente,1.2.25,Energia,3,2015,0
+2.3,anual,corrente,1.2.25,Energia,3,2016,3.137455
+2.3,anual,corrente,1.2.25,Energia,3,2017,3
+2.3,anual,corrente,1.2.25,Energia,3,2018,3
+2.3,anual,corrente,1.2.25,Energia,3,2019,6
+2.3,anual,corrente,1.2.25,Energia,3,2020,0
+2.3,anual,corrente,1.2.25,Energia,3,2021,0
+2.3,anual,corrente,1.2.25,Energia,3,2022,0
+2.3,anual,corrente,1.2.25,Energia,3,2023,0
+2.3,anual,corrente,1.2.25,Energia,3,2024,0
+2.3,anual,corrente,1.2.25,Energia,3,2025,0
+2.3,anual,corrente,1.2.26,Transporte,3,2008,222.05409428000002
+2.3,anual,corrente,1.2.26,Transporte,3,2009,336.85487961000007
+2.3,anual,corrente,1.2.26,Transporte,3,2010,305.16273343
+2.3,anual,corrente,1.2.26,Transporte,3,2011,884.3050598299999
+2.3,anual,corrente,1.2.26,Transporte,3,2012,623.68525667
+2.3,anual,corrente,1.2.26,Transporte,3,2013,449.25629495
+2.3,anual,corrente,1.2.26,Transporte,3,2014,203.11685371000002
+2.3,anual,corrente,1.2.26,Transporte,3,2015,424.19551722999995
+2.3,anual,corrente,1.2.26,Transporte,3,2016,145.32405924999998
+2.3,anual,corrente,1.2.26,Transporte,3,2017,5.31082566
+2.3,anual,corrente,1.2.26,Transporte,3,2018,0.44493071999999995
+2.3,anual,corrente,1.2.26,Transporte,3,2019,0
+2.3,anual,corrente,1.2.26,Transporte,3,2020,10.94225459
+2.3,anual,corrente,1.2.26,Transporte,3,2021,73.52964631
+2.3,anual,corrente,1.2.26,Transporte,3,2022,0
+2.3,anual,corrente,1.2.26,Transporte,3,2023,0
+2.3,anual,corrente,1.2.26,Transporte,3,2024,196.811554
+2.3,anual,corrente,1.2.26,Transporte,3,2025,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2008,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2009,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2010,10
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2011,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2012,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2013,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2014,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2015,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2016,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2017,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2018,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2019,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2020,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2021,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2022,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2023,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2024,0
+2.3,anual,corrente,1.2.27,Desporto e Lazer,3,2025,0
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2008,443.8645024
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2009,1081.0167686099999
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2010,1093.6039974
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2011,7715.79973861
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2012,10909.14091378
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2013,13873.092301129998
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2014,17631.48211215
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2015,12841.14503237
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2016,14858.31803808
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2017,7734.5084350100005
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2018,7295.25789042
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2019,10296.543379929999
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2020,62134.51291011
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2021,20152.310078770002
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2022,3749.259563899999
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2023,15595.96630476
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2024,24794.46732654
+2.3,anual,corrente,1.2.28,Encargos Especiais,3,2025,11093.717621340002
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2008,77.48368455233759
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2009,-864.2864225194328
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2010,-2474.052430325398
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2011,56.20243605899577
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2012,241.66234880652019
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2013,-838.7704827759121
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2014,1443.5529195835716
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2015,1895.4166476200003
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2016,494.2409994100095
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2017,-425.92997457001627
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2018,634.845773969988
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2019,0
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2020,0
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2021,0
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2022,0
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2023,0
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2024,0
+2.3,anual,corrente,1.3,Ajuste de Ordem Bancária 3/,2,2025,0

@@ -1,0 +1,1753 @@
+tabela,periodicidade,unidade_tipo,codigo,descricao,nivel,periodo,valor
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2008,0.04103754373615071
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2009,0.03589662676973211
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2010,0.03429903347826254
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2011,0.037231545297317474
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2012,0.035597496587111574
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2013,0.03426987940355449
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2014,0.03434542217067259
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2015,0.033989718273826755
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2016,0.036199071898506255
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2017,0.03467312766789223
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2018,0.03664922973463812
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2019,0.039023922082966865
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2020,0.03466773378562066
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2021,0.03923277430347877
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2022,0.0453581937883293
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2023,0.04127294647312475
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2024,0.04394516574315675
+2.5-A,anual,pct_pib,1,TRANSF. POR REPARTIÇÃO DE RECEITA,1,2025,0.04472295449809624
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2008,0.03276082865256417
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2009,0.029262134166001857
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2010,0.02721269192161192
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2011,0.02974392014130847
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2012,0.027812770785554393
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2013,0.026993939755683306
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2014,0.027136915059715282
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2015,0.0276352698672474
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2016,0.030282216888865704
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2017,0.027807083277910843
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2018,0.028073368015962767
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2019,0.028906333857567773
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2020,0.026890555806835217
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2021,0.030499428904247505
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2022,0.03392238630977606
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2023,0.03228338113051157
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2024,0.03497505327231365
+2.5-A,anual,pct_pib,1.1,FPM / FPE / IPI-EE,2,2025,0.035693370562168945
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2008,0.0009453255933781113
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2009,0.0008907854614962356
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2010,0.0008435288688019953
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2011,0.000864016713227126
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2012,0.0008909800327961651
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2013,0.0008685339014779357
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2014,0.0007883343914811603
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2015,0.0010196175111155657
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2016,0.0012010996171628382
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2017,0.001190290557492267
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2018,0.0012092957168779084
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2019,0.0013004539064797988
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2020,0.0011240069378881394
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2021,0.0006452816260276094
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2022,0.0009997942679173118
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2023,0.0010327493589803532
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2024,0.0010989277968497173
+2.5-A,anual,pct_pib,1.2,Fundos Constitucionais,2,2025,0.001466531336207056
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2008,0.0021259395368225407
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2009,0.0019267575086977357
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2010,0.0017632142418699654
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2011,0.0019158050818553255
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2012,0.001794625264417324
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2013,0.001744605233095349
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2014,0.0017531387745799174
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2015,0.001777576575636612
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2016,0.0019449838168728627
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2017,0.0017612785840276468
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2018,0.0017800295620704672
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2019,0.001839989588852323
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2020,0.0017058225963671597
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2021,0.0017999336255096609
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2022,0.0022973349028465994
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2023,0.0020519794095746786
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2024,0.0021938283898191658
+2.5-A,anual,pct_pib,1.2.1,Repasse Total,3,2025,0.0022675015388525896
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2008,-0.0011806139434444294
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2009,-0.0010359720472014997
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2010,-0.00091968537306797
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2011,-0.0010517883686281993
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2012,-0.0009036452316211592
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2013,-0.0008760713316174133
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2014,-0.0009648043830987566
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2015,-0.0007579590645210463
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2016,-0.0007438841997100244
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2017,-0.0005709880265353796
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2018,-0.0005707338451925594
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2019,-0.0005395356823725244
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2020,-0.0005818156584790203
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2021,-0.0011546519994820516
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2022,-0.0012975406349292873
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2023,-0.0010192300505943255
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2024,-0.0010949005929694485
+2.5-A,anual,pct_pib,1.2.2,Superávit dos Fundos,3,2025,-0.0008009702026455336
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2008,0.0016626190688867877
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2009,0.0017221928672811388
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2010,0.0016865589626702164
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2011,0.0017756100926609399
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2012,0.001825162611905291
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2013,0.0018499309707126238
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2014,0.001880776337235108
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2015,0.0019125580424026835
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2016,0.0018639237974183746
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2017,0.001825624559675129
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2018,0.0018215986044832963
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2019,0.001659340784631804
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2020,0.00165863982795737
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2021,0.0015632872580568042
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2022,0.001600847241764807
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2023,0.0016596345679658522
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2024,0.0016615654973369737
+2.5-A,anual,pct_pib,1.3,Contribuição do Salário Educação,2,2025,0.001677575512295
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2008,0.005077864339582911
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2009,0.0036214532354763057
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2010,0.003956881226336392
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2011,0.004227043531542305
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2012,0.004696708341785821
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2013,0.004396621366190939
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2014,0.004343519598637101
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2015,0.0031416932515864666
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2016,0.002448180698618132
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2017,0.003368739790725794
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2018,0.005131555996219548
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2019,0.005251627210940116
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2020,0.004682328901510002
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2021,0.006247902590214456
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2022,0.007749220712739677
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2023,0.006008679004309194
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2024,0.005842032486554644
+2.5-A,anual,pct_pib,1.4,Transferências de Exploração de Recursos Naturais (Compensações Financeiras),2,2025,0.005510419062470386
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2008,0.0005077104572989201
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2009,0.0002887495311941025
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2010,0.0004569728753588491
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2011,0.0004820662956799701
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2012,0.00023217822174830392
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2013,1.0750799926628131e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2014,2.0087116645493983e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2015,7.471218948412418e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2016,0.0001976737040014014
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2017,0.0002579484720646658
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2018,0.00019370846876878343
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2019,0.00011108682701534634
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2020,9.068100878374819e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2021,4.926330678269925e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2022,6.85374700457627e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2023,1.2727088277542362e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2024,8.312962018035643e-05
+2.5-A,anual,pct_pib,1.5,CIDE - Combustíveis,2,2025,7.20538755682049e-05
+2.5-A,anual,pct_pib,1.6,Demais,2,2008,8.319562443981644e-05
+2.5-A,anual,pct_pib,1.6,Demais,2,2009,0.00011131150828246235
+2.5-A,anual,pct_pib,1.6,Demais,2,2010,0.00014239962348317712
+2.5-A,anual,pct_pib,1.6,Demais,2,2011,0.00013888852289866639
+2.5-A,anual,pct_pib,1.6,Demais,2,2012,0.0001396965933215904
+2.5-A,anual,pct_pib,1.6,Demais,2,2013,0.0001501026095630569
+2.5-A,anual,pct_pib,1.6,Demais,2,2014,0.00017578966695844204
+2.5-A,anual,pct_pib,1.6,Demais,2,2015,0.0002058674119905102
+2.5-A,anual,pct_pib,1.6,Demais,2,2016,0.00020597719243979967
+2.5-A,anual,pct_pib,1.6,Demais,2,2017,0.00022344101002353306
+2.5-A,anual,pct_pib,1.6,Demais,2,2018,0.00021970293232580944
+2.5-A,anual,pct_pib,1.6,Demais,2,2019,0.0017950794963320312
+2.5-A,anual,pct_pib,1.6,Demais,2,2020,0.00022152130264617735
+2.5-A,anual,pct_pib,1.6,Demais,2,2021,0.00022761061814969845
+2.5-A,anual,pct_pib,1.6,Demais,2,2022,0.0010174077860856854
+2.5-A,anual,pct_pib,1.6,Demais,2,2023,0.00027577532308024596
+2.5-A,anual,pct_pib,1.6,Demais,2,2024,0.0002844570699214066
+2.5-A,anual,pct_pib,1.6,Demais,2,2025,0.0003030041493866452
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2008,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2009,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2010,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2011,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2012,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2013,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2014,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2015,1.2562870896420838e-07
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2016,2.0549358716987583e-07
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2017,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2018,3.936055642000883e-07
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2019,5.4186995741397056e-08
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2020,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2021,0
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2022,9.52944008595442e-07
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2023,2.412709487021441e-07
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2024,2.2942609474790836e-06
+2.5-A,anual,pct_pib,1.6.1,Concessão de Recursos Florestais,3,2025,8.763098506032644e-07
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2008,1.930920533952194e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2009,2.3091079563871848e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2010,2.468602100752491e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2011,2.3948799262382107e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2012,2.3889341237929167e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2013,2.3090750357182483e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2014,2.5423671497203996e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2015,2.6657991164011694e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2016,2.210953511371967e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2017,1.995075298808351e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2018,1.0434714347000247e-05
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2019,0
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2020,0
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2021,0
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2022,0
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2023,0
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2024,0
+2.5-A,anual,pct_pib,1.6.2,Concurso de Prognóstico,3,2025,2.3890462962986576e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2008,1.421993281733542e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2009,1.5337404618561527e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2010,1.096504095549542e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2011,1.5833483457868977e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2012,2.2432014473867686e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2013,2.1488593128656318e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2014,1.6933768573624754e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2015,2.8882241014883444e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2016,4.794178994437647e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2017,2.6985643579795467e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2018,2.211206716174872e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2019,3.46680791041536e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2020,8.115155391977673e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2021,8.605640238043018e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2022,7.386954365691681e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2023,4.006768393085258e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2024,1.0447635742798547e-06
+2.5-A,anual,pct_pib,1.6.3,IOF Ouro,3,2025,2.986068725708818e-06
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2008,6.246442581856097e-05
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2009,8.668668825673434e-05
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2010,0.00011661709838010265
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2011,0.00011335637529049739
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2012,0.00011356405063627451
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2013,0.00012486299989300878
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2014,0.00014867261860387556
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2015,0.00017619556801604593
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2016,0.00017886798474447252
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2017,0.0001867353607541528
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2018,0.00019381822408496158
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2019,0.00019069257851352952
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2020,0.00020676461931964864
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2021,0.00021463423950860677
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2022,0.00023795867678823906
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2023,0.0002605155803098514
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2024,0.0002671645400046313
+2.5-A,anual,pct_pib,1.6.4,ITR,3,2025,0.00028656251673910655
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2008,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2009,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2010,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2011,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2012,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2013,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2014,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2015,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2016,0
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2017,1.405633192331722e-05
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2018,1.2845181613472614e-05
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2019,1.3391406045896507e-05
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2020,6.6415279345510235e-06
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2021,4.370738403048615e-06
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2022,1.0760141047387845e-05
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2023,1.1011703428607174e-05
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2024,1.3953505395016398e-05
+2.5-A,anual,pct_pib,1.6.5,"Taxa de ocupação, foro e laudêmio",3,2025,1.0190207774927896e-05
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2008,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2009,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2010,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2011,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2012,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2013,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2014,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2015,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2016,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2017,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2018,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2019,0.0015874745168664487
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2020,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2021,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2022,0.0007603490698757714
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2023,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2024,0
+2.5-A,anual,pct_pib,1.6.6,Outras 2/,3,2025,0
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2008,0.16166650580888284
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2009,0.1749411686205278
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2010,0.17262594654495528
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2011,0.16885795956921362
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2012,0.1706814388833226
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2013,0.1743218966943976
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2014,0.18054269217098118
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2015,0.19418652707355655
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2016,0.20086300595310305
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2017,0.1946591317725392
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2018,0.18836787010563547
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2019,0.19515714098266976
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2020,0.2558223830904123
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2021,0.17903226523941043
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2022,0.17925996248618906
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2023,0.19447306761327135
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2024,0.18721459097265686
+2.5-A,anual,pct_pib,2,DESPESA TOTAL,1,2025,0.1878265786275981
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2008,0.05941481742064003
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2009,0.06752912012963584
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2010,0.06557414028952988
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2011,0.06446594309533027
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2012,0.0658468889201347
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2013,0.06707619332919773
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2014,0.06817493241155693
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2015,0.07276512883320162
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2016,0.08308889479952074
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2017,0.0848140492573121
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2018,0.08176437063310242
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2019,0.08479078108108473
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2020,0.08727156471537943
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2021,0.0788026718486465
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2022,0.07903960474239698
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2023,0.08213825870338835
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2024,0.07965719237234507
+2.5-A,anual,pct_pib,2.1,Benefícios Previdenciários,2,2025,0.08056879781242084
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2008,0.046250800156108815
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2009,0.05026190692054516
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2010,0.04981759702967666
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2011,0.04878537542864048
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2012,0.049795449128070934
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2013,0.05090142383295618
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2014,0.05163863359740531
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2015,0.05524913816408112
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2016,0.06362969347991154
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2017,0.06500709621570626
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2018,0.062665484964482
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2019,0.06524053873014135
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2020,0.06749665635415436
+2.5-A,anual,pct_pib,2.1.1,Benefícios Previdenciários - Urbano,3,2021,0.06049533315803009
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2008,0.01141031952669061
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2009,0.015314401282057017
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2010,0.013892998989491024
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2011,0.014032059953190122
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2012,0.014565375302825855
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2013,0.01474943304421046
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2014,0.015011982477755226
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2015,0.01590629163381446
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2016,0.017611621198997857
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2017,0.017791999905761295
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2018,0.01694028930000215
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2019,0.01707970954091459
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2020,0.017164134345008877
+2.5-A,anual,pct_pib,2.1.2,Benefícios Previdenciários - Rural,3,2021,0.01556885697611509
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2008,0.0017536977378406163
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2009,0.001952811927033664
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2010,0.0018635442703621755
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2011,0.0016485077134996632
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2012,0.0014860644892379213
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2013,0.001425336452031087
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2014,0.0015243163363963855
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2015,0.001609699035306052
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2016,0.0018475801206113507
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2017,0.002014953135844536
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2018,0.002158596368618246
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2019,0.002470532810028768
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2020,0.002610774016216188
+2.5-A,anual,pct_pib,2.1.3,Benefícios Previdenciários - Sentenças e precatórios,3,2021,0.002738481714501329
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2008,0.0425750877419243
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2009,0.046498033343892235
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2010,0.043936031010018764
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2011,0.041819316861714945
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2012,0.0395911853892076
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2013,0.03860505327796801
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2014,0.03857195277503875
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2015,0.039856071309759405
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2016,0.041244799089937924
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2017,0.043137102896074836
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2018,0.040182524714778685
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2019,0.0422913693196536
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2020,0.04207304443521824
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2021,0.036383285547742464
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2022,0.03338151524616913
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2023,0.03315548141374033
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2024,0.03109066711354497
+2.5-A,anual,pct_pib,2.2,Pessoal e Encargos Sociais,2,2025,0.03152816962507108
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2008,0.018746933520317848
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2009,0.02039254240921181
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2010,0.01961961958543685
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2011,0.018564794563917183
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2012,0.017769919082397705
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2013,0.017405985599852698
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2014,0.01753256040771733
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2015,0.01758260054082013
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2016,0.01852793886423981
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2017,0.019379464678488986
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2018,0.017823213886306758
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2019,0.018480619418461193
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2020,0.01784812745085221
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2021,0.01522000660464295
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2022,0.01382599956450014
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2023,0.013683752757851948
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2024,0.013773066719139413
+2.5-A,anual,pct_pib,2.2.1,Ativo Civil,3,2025,0.01417127571533231
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2008,0.003811820178320488
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2009,0.004385838771854608
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2010,0.004199174385693805
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2011,0.003947863953180355
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2012,0.0037123246659660917
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2013,0.00360395135528701
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2014,0.003678143598904229
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2015,0.003946980528369382
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2016,0.003940760971535121
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2017,0.003997175584916642
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2018,0.003895266874392642
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2019,0.004006764314366678
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2020,0.004297694580929226
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2021,0.0038393027580820504
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2022,0.0034630643922849975
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2023,0.0032290442514057
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2024,0.0030274662953708904
+2.5-A,anual,pct_pib,2.2.2,Ativo Militar,3,2025,0.002903605379083251
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2008,0.01228954809060714
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2009,0.01310389364023532
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2010,0.012243727376108121
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2011,0.011761727405996568
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2012,0.011429167452204791
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2013,0.011040139511039156
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2014,0.010802323948100488
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2015,0.011172555585668384
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2016,0.011287333995826923
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2017,0.012083888826038452
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2018,0.011136819384360985
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2019,0.011968701494751346
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2020,0.011954486473906083
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2021,0.010046798105466893
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2022,0.00913221630061597
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2023,0.00881276298332221
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2024,0.008574779751426087
+2.5-A,anual,pct_pib,2.2.3,Aposentadorias e pensões civis,3,2025,0.008537759205412169
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2008,0.006533596248975175
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2009,0.006834771920145265
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2010,0.0066863480129045
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2011,0.00628981092876715
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2012,0.005722213485050457
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2013,0.005601895683699273
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2014,0.005804037274610145
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2015,0.006221102746825844
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2016,0.006289816199555024
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2017,0.00665375238879813
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2018,0.006401637314778874
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2019,0.006974097524353385
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2020,0.007153703047323101
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2021,0.006222662542729845
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2022,0.005878802085913132
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2023,0.005620554293018974
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2024,0.005401352232266986
+2.5-A,anual,pct_pib,2.2.4,Reformas e pensões militares,3,2025,0.005171629118723719
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2008,0.00118885219406584
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2009,0.0017804555167599513
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2010,0.001187157271736044
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2011,0.0012551200098536992
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2012,0.0009575607035885486
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2013,0.0009343250991975284
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2014,0.0007477970232624446
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2015,0.0009328319080756728
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2016,0.0011989490587810496
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2017,0.0010228214178326321
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2018,0.0009255872549394274
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2019,0.000861186567720998
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2020,0.0008190328822076103
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2021,0.001054515536820717
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2022,0.001081432902854883
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2023,0.0018093671281415049
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2024,0.0003140021153415961
+2.5-A,anual,pct_pib,2.2.5,Sentenças e Precatórios,3,2025,0.0007439002065196315
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2008,4.337509637807258e-06
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2009,5.310856852765556e-07
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2010,4.378139437994938e-09
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2011,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2012,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2013,1.8756028892348537e-05
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2014,7.090522444106928e-06
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2015,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2016,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2017,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2018,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2019,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2020,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2021,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2022,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2023,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2024,0
+2.5-A,anual,pct_pib,2.2.6,Outros,3,2025,0
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2008,0.02051786247341463
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2009,0.021549704559225065
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2010,0.023008167514380753
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2011,0.022902354466700872
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2012,0.02358996686407472
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2013,0.0266833735278985
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2014,0.029246752180801378
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2015,0.04094638758416983
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2016,0.03412156084816393
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2017,0.029905654427582213
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2018,0.028900642658613196
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2019,0.02643497845644805
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2020,0.09465248087016132
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2021,0.03397476911963322
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2022,0.030106548978209576
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2023,0.032661743961353726
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2024,0.030411652091342934
+2.5-A,anual,pct_pib,2.3,Outras Despesas Obrigatórias,2,2025,0.03066936077727673
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2008,0.006562198328787261
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2009,0.008161294459435814
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2010,0.0075830881382147105
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2011,0.007805274452623529
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2012,0.008213680747763585
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2013,0.008460512098067224
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2014,0.009063743111416915
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2015,0.007890495209132613
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2016,0.008934692956439741
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2017,0.008276894939780847
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2018,0.007645950992155254
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2019,0.007523517569741724
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2020,0.00782837333526628
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2021,0.0050925406450213285
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2022,0.006376281556403439
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2023,0.006657569836252568
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2024,0.006852085154507599
+2.5-A,anual,pct_pib,2.3.1,Abono e seguro desemprego,3,2025,0.006895868023366619
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2008,4.082966044094554e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2009,4.9846447636973404e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2010,4.416607201138026e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2011,4.270519567904385e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2012,3.5767890861242006e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2013,3.794691786944098e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2014,3.295078761840023e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2015,3.5576036653693176e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2016,3.177026972891796e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2017,2.7379459534556678e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2018,2.2264004605614598e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2019,2.185524196444056e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2020,2.109181111928199e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2021,1.7528018354853003e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2022,1.6054576402665773e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2023,1.588282749055311e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2024,1.5657049938953434e-05
+2.5-A,anual,pct_pib,2.3.2,Anistiados,3,2025,1.6648906208003156e-05
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2008,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2009,0.0005602983397262047
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2010,0.00033882179739585236
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2011,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2012,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2013,0.00029938825349329107
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2014,0.00026845430586088745
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2015,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2016,0.0004625695129837017
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2017,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2018,0.00028554536523899904
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2019,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2020,0.010282676718600078
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2021,0
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2022,0.0013700937414898228
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2023,0.0024762069376279222
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2024,0.00014701996463094286
+2.5-A,anual,pct_pib,2.3.3,Apoio Fin. Municípios / Estados,3,2025,0.000440113242750876
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2008,0
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2009,5.479008212613332e-06
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2010,7.80469183430881e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2011,8.090550370644789e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2012,7.237471504009623e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2013,6.302471753392412e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2014,7.940590163292861e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2015,0.000134016450548807
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2016,9.09673438269678e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2017,8.768918220037483e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2018,8.575703999093458e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2019,0.00010129405914245926
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2020,8.74722214631907e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2021,7.494147116785575e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2022,6.897162216882042e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2023,6.562265030326203e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2024,6.859155352295044e-05
+2.5-A,anual,pct_pib,2.3.4,Benefícios de Legislação Especial e Indenizações,3,2025,7.229523073512023e-05
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2008,0.005029424525886893
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2009,0.005614150677681987
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2010,0.00579664720563773
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2011,0.005766268021297793
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2012,0.0061423884034188855
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2013,0.006373048518858271
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2014,0.006665663354834815
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2015,0.00709676698930972
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2016,0.007956544202170507
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2017,0.008172510922189201
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2018,0.007879364611009427
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2019,0.008083248689083906
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2020,0.008235332755341435
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2021,0.007508512831323838
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2022,0.007820394935167084
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2023,0.008468270419169815
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2024,0.009430512166263354
+2.5-A,anual,pct_pib,2.3.5,Benefícios de Prestação Continuada da LOAS/RMV,3,2025,0.009988288940608972
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2008,0.005029424525886893
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2009,0.005614150677681987
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2010,0.005721825678595567
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2011,0.005690692326627844
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2012,0.0060661056848539145
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2013,0.006287560725335912
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2014,0.0065241060191653984
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2015,0.006945295527401307
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2016,0.007792024087237687
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2017,0.008013457757112255
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2018,0.007724631626739622
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2019,0.0079142724190567
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2020,0.00806631033137172
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2021,0.0073209078658601065
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2022,0.007597091292179202
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2023,0.008122924480701491
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2024,0.008977590102102416
+2.5-A,anual,pct_pib,2.3.5.1,Benefícios de Prestação Continuada da LOAS/RMV - Benefícios,4,2025,0.00951377060096458
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2008,0
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2009,0
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2010,7.482152704216289e-05
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2011,7.557569466994709e-05
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2012,7.628271856497151e-05
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2013,8.548779352235782e-05
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2014,0.00014155733566941685
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2015,0.00015147146190841289
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2016,0.00016452011493282086
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2017,0.00015905316507694683
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2018,0.00015473298426980543
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2019,0.00016897627002720377
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2020,0.00016902242396971522
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2021,0.00018760496546373046
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2022,0.00022330364298788155
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2023,0.0003453459384683243
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2024,0.0004529220641609378
+2.5-A,anual,pct_pib,2.3.5.2,Benefícios de Prestação Continuada da LOAS/RMV - Sentenças e Precatórios,4,2025,0.0004745183396443928
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2008,0.0005909249158733505
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2009,0.0007509381433913791
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2010,0.0006494175220964582
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2011,0.0006323696388712137
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2012,7.38432325800228e-05
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2013,0
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2014,0.0001557375531516975
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2015,0.0028259276312406433
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2016,0.000897111437086821
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2017,0.0007908300175263568
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2018,0.0007181320500324844
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2019,0.0007168532446361982
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2020,4.706107432139984e-06
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2021,3.514486357684408e-06
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2022,8.66334883542498e-06
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2023,9.349757601995308e-06
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2024,7.98562030480188e-06
+2.5-A,anual,pct_pib,2.3.6,Complemento do FGTS (LC nº 110/01),3,2025,2.042979701548286e-05
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2008,0.002204803079292964
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2009,0.0010079382050553645
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2010,0.0023102895813105705
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2011,0.0011266267996566026
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2012,0.0006944471648459796
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2013,0.0011284284048842968
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2014,0.0007191923876234709
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2015,0.0010080753590639405
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2016,0.0006265762024521568
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2017,0.00011771847777261834
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2018,0.0008134335683800109
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2019,0.00045828420435103283
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2020,0.05645284998773565
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2021,0.013001662183804132
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2022,0.004660008889526177
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2023,0.00024508598313877696
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2024,0.0021408577758996986
+2.5-A,anual,pct_pib,2.3.7,Créditos Extraordinários 3/,3,2025,0.0005033968694247896
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2008,0
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2009,0
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2010,0
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2011,0
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2012,0.0003717734632953434
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2013,0.0016917412892089396
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2014,0.0031237492327716035
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2015,0.004237468742828886
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2016,0.0028062513236107893
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2017,0.002110909472143929
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2018,0.001932362583820921
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2019,0.0013797197533450573
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2020,0.0012362297240298208
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2021,0.0008068337139580474
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2022,0.0003071616380708247
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2023,0
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2024,0
+2.5-A,anual,pct_pib,2.3.8,Compensação ao RGPS pelas Desonerações da Folha,3,2025,0
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2008,0.00019290902007647884
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2009,0.0002655299728622455
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2010,0.00021099788425648914
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2011,0.00021366459444382296
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2012,0.00020845841730765275
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2013,0.0002703559608443177
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2014,9.127701217317661e-05
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2015,0.00012270796730163774
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2016,0.0001232217928474591
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2017,0.0001300426045184902
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2018,0.00012424425960346147
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2019,0.0001260410236317246
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2020,0.00013767052343911592
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2021,0.00011087189461720986
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2022,9.925601340436883e-05
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2023,0.00010106589594255453
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2024,0.00010228125025535025
+2.5-A,anual,pct_pib,2.3.9,Fabricação de Cédulas e Moedas,3,2025,9.00400930345052e-05
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2008,0.0010207398697621652
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2009,0.0015211791580314858
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2010,0.0015008146448032738
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2011,0.0020222816237078353
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2012,0.0021542523812188774
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2013,0.0018670981440133425
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2014,0.0018796373731303658
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2015,0.002101787584771648
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2016,0.0021812301891641628
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2017,0.001984809453965696
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2018,0.001972360993089704
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2019,0.002111588193294238
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2020,0.0019716596577853828
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2021,0.0024448579764044264
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2022,0.0032621621577268614
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2023,0.0034256275559002877
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2024,0.0040362665431460665
+2.5-A,anual,pct_pib,2.3.10,FUNDEB (Complem. União),3,2025,0.0046887195010163136
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2008,0.00015419822549022846
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2009,0.00015724845185680146
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2010,0.0001414864215866153
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2011,0.00015386120202087045
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2012,0.00018130599108081593
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2013,0.0002089234332269262
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2014,0.00021186032792932898
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2015,0.0011769923480807669
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2016,0.00018704708766022497
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2017,0.0002086754617121747
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2018,0.00022785036399100128
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2019,0.00023340096491287061
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2020,0.000258804018261542
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2021,0.0002382568777656274
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2022,0.00023934435017584435
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2023,0.00039134906687717983
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2024,0.00040937393137988856
+2.5-A,anual,pct_pib,2.3.11,Fundo Constitucional DF,3,2025,0.0003857300717410173
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2008,0.0018078452619550455
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2009,0.0016586101830861327
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2010,0.0017275030762101164
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2011,0.0016052044382608168
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2012,0.0017225434454987603
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2013,0.0016304502367307223
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2014,0.0018066685543219464
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2015,0.0019685131654508035
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2016,0.002076782719084254
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2017,0.0018461471304125248
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2018,0.0018815600524005203
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2019,0.001633618652268193
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2020,0.0014442044733194678
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2021,0.0011991435103694563
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2022,0.0014839061479165123
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2023,0.0015590658841970096
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2024,0.0016499022419059993
+2.5-A,anual,pct_pib,2.3.12,"Legislativo, Judiciário, MPU e DPU",3,2025,0.0015188289094148109
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2008,0.0016773137296138248
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2009,0.001178720254443765
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2010,0.001003642191821693
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2011,0.000891387154848539
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2012,0.0007762588374672323
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2013,0.00039622111035086293
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2014,0.0006748627303240225
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2015,0.000651751949635366
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2016,0.0009331143623981569
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2017,0.0005862012309078898
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2018,0.00027269582379182224
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2019,0
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2020,0.00040990409741330165
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2021,0.000538875032889581
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2022,0.00039564094999979666
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2023,0.0003643234175035119
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2024,0.00033835457925788273
+2.5-A,anual,pct_pib,2.3.13,Lei Kandir (LC nº 87/96 e 102/00) e LC nº 176 de 2020,3,2025,0.0003128084636913818
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2008,0.0004890194427595911
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2009,0.0005239725067738286
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2010,0.0005333531275516045
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2011,0.0005178185384926927
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2012,0.0006002979224238417
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2013,0.0006316626647075791
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2014,0.0008397342331634784
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2015,0.0016552326407731008
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2016,0.0016213222770656219
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2017,0.0016166510759496793
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2018,0.0019772988172483733
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2019,0.0020920954673822657
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2020,0.003006363299818488
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2021,0.002106560320434064
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2022,0.001742092691005385
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2023,0.006558881925923164
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2024,0.0029455878330974274
+2.5-A,anual,pct_pib,2.3.14,Sentenças Judiciais e Precatórios - OCC,3,2025,0.0034025347319991198
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2008,0.000717597635911424
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2009,7.042220892025905e-05
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2010,0.0008426436501893878
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2011,0.0016528792378000192
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2012,0.001652053468771828
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2013,0.0012317645720294988
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2014,0.0007196492839834163
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2015,0.008928742913172827
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2016,0.0038435519811591333
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2017,0.002818192971453718
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2018,0.0022430875217902073
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2019,0.0015287737335237129
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2020,0.0027684952941576055
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2021,0.0008287535436983779
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2022,0.0015203917752193968
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2023,0.0019797521992860247
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2024,0.0015153017392752243
+2.5-A,anual,pct_pib,2.3.15,"Subsídios, Subvenções e Proagro",3,2025,0.0020009243054426033
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2008,0.00014346711505156847
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2009,5.939344606066054e-05
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2010,0.00012579999693259283
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2011,0.0002096163463154393
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2012,0.00027345426091849874
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2013,2.3660631697205565e-05
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2014,0.00011084175879939627
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2015,0.0008635010247039024
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2016,0.0002903087017250708
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2017,0.00030963539289802884
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2018,0.0001630104173869975
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2019,0.00015483837360098944
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2020,8.640019489865873e-05
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2021,9.108317237180369e-05
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2022,0.00021914217176959754
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2023,0.0001434759964770968
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2024,5.0051159965093776e-05
+2.5-A,anual,pct_pib,2.3.15.1,Equalização de custeio agropecuário,4,2025,0.00017004239676715488
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2008,9.122471062817602e-06
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2009,-2.6090347713664576e-05
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2010,-8.711133248792751e-08
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2011,5.3914588787698285e-06
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2012,1.3611399715660826e-05
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2013,6.229362957728796e-05
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2014,1.2252296659947698e-05
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2015,0.0004168586693980444
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2016,0.0004735753874383076
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2017,0.00033035539950454956
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2018,0.00022531734667020922
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2019,0.0002127115451067646
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2020,0.0001098020725482274
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2021,0.00025956901610135817
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2022,0.0004335522284537438
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2023,0.0003175350702707258
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2024,0.00023352383237692885
+2.5-A,anual,pct_pib,2.3.15.2,Equalização de invest. rural e agroindustrial,4,2025,0.0004523546527876605
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2008,2.4986319447722738e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2009,3.4524932872792887e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2010,2.2821956063561822e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2011,1.7529507566424404e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2012,3.607707061477344e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2013,1.605900526012618e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2014,1.3186126414228788e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2015,5.019423395856757e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2016,1.2951364924831296e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2017,1.1244326763235937e-05
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2018,7.646890265460873e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2019,3.243450098769835e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2020,3.209409232598251e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2021,9.47851293363798e-07
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2022,1.8862810490022813e-06
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2023,3.6716698339806545e-07
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2024,1.2594526194339e-07
+2.5-A,anual,pct_pib,2.3.15.3,Equalização Empréstimo do Governo Federal,4,2025,1.9675334515440684e-06
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2008,2.066799422715785e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2009,4.500574524775005e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2010,3.7336156291303185e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2011,8.357144617910907e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2012,0.00010072272643014717
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2013,0.00013682290843382161
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2014,5.697357551264224e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2015,2.6191667994071272e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2016,1.730188027306834e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2017,1.6503728478625937e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2018,6.737547759349566e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2019,2.842582677253129e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2020,1.7955440863643748e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2021,1.5296455442107422e-05
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2022,8.669744361001032e-06
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2023,5.990166873045144e-06
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2024,5.125093305524621e-07
+2.5-A,anual,pct_pib,2.3.15.4,Equalização Aquisições do Governo Federal,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2008,0.00028521045091626525
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2009,0.0002777183861094074
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2010,0.0003497353372783492
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2011,0.00018951125701954598
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2012,9.165220294749893e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2013,2.8573085856407855e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2014,7.785949148043441e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2015,8.588805913110443e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2016,7.970146585845606e-06
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2017,2.468937357123891e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2018,6.060711289171115e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2019,8.566476999079247e-06
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2020,9.745132100213527e-08
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2022,6.814075906015527e-08
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2023,2.0127384495709754e-06
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2024,1.4070688651322439e-05
+2.5-A,anual,pct_pib,2.3.15.5,Garantia à Sustentação de Preços,4,2025,5.42124646316123e-06
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2008,0.000288322198146946
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2009,0.0002717205921232891
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2010,1.4453768231831623e-05
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2011,0.0005284186425721697
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2012,0.0003482805407719804
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2013,0.0003035186723400879
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2014,8.72955552068428e-05
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2015,0.0016525718806342355
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2016,0.0008150732751983501
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2017,0.0006183051144956306
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2018,0.0004094794584937201
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2019,0.0003601559978050062
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2020,0.0002982662088949325
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2021,0.00030027373975297447
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2022,0.0005459376904150695
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2023,0.000526671445407682
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2024,0.0004397564071053119
+2.5-A,anual,pct_pib,2.3.15.6,Pronaf,4,2025,0.0007305468227057864
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2008,3.7447756285221754e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2009,1.376091154420517e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2010,-2.610609866632921e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2011,7.437857800824456e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2012,7.60868203478077e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2013,3.721924972018437e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2014,0.00010882952775858615
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2015,5.7825359345791746e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2016,0.00011162953899946156
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2017,5.751464101426189e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2018,9.103814843100782e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2019,4.1136241636870405e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2020,4.891093425339556e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2021,8.93712962583087e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2022,4.23685710388193e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2023,3.7884520826242646e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2024,4.39897774140376e-05
+2.5-A,anual,pct_pib,2.3.15.7,Proex,4,2025,3.750758386245267e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2008,7.642200852668878e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2009,7.42297188286774e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2010,2.5588025193522757e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2011,0.00010119862687599017
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2012,3.356281975472663e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2013,0.00014740912162796541
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2014,6.152087460816369e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2015,5.017712928990528e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2016,9.933210252749938e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2017,2.9674125887555338e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2018,0.0002615960663967065
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2019,0.00014142108236236674
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2020,7.010095887464663e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2021,7.90078133807181e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2022,3.0229594686256173e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2023,5.7275100104289105e-05
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2024,0.00010200577721506523
+2.5-A,anual,pct_pib,2.3.15.8,Programa especial de saneamento de ativos (PESA),4,2025,2.7931176464819988e-05
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2012,1.4865989790858461e-07
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2015,8.15824933778216e-06
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2016,9.023773251942111e-06
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2017,6.991095851801026e-06
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2018,4.000868551964704e-06
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2019,1.9942156826141356e-06
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2020,3.1153400236840554e-07
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.9,Álcool,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2008,0.00030966820964712424
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2009,0.0003053557459674035
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2010,0.00015076411706240568
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2011,0.00016138739877451323
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2012,9.367250084204372e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2013,1.248068317609609e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2014,7.824985288846051e-06
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2015,1.0358055808659473e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2016,1.5196645717050166e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2017,2.3302871271283783e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2018,6.129254670437611e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2019,3.322251729711698e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2020,2.9967432534567085e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2021,3.258299777825446e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2022,2.594995417664349e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2023,4.186401490520751e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2024,2.6519534902942806e-05
+2.5-A,anual,pct_pib,2.3.15.10,Fundo da terra/ INCRA,4,2025,0.0001159605289625658
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2008,7.614253318527942e-06
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2009,1.5886777057609898e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2010,2.128634930903687e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2011,1.499091527937742e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2012,1.547732402147919e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2013,1.2797349721495918e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2014,1.798617519641455e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2015,1.6882765330826588e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2016,1.7547073630289142e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2017,1.6947393958378888e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2018,1.530870065174764e-05
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2019,5.778161569088303e-06
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2020,7.71395553477512e-07
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2021,1.02629864695145e-06
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2022,4.936315576747981e-08
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.11,Funcafé,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2009,1.760337233906266e-05
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2011,5.871381954513717e-06
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2012,1.1903234978347992e-05
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2013,1.2875295272374378e-06
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2014,4.921177780812148e-07
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2015,3.9412536671297206e-07
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2016,4.141665986732534e-06
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2017,2.4754712815353254e-06
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2018,1.312567051425715e-06
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2019,7.588792363289935e-07
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2020,1.3450163785579593e-07
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2021,1.236967526797189e-08
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2023,1.747677751217289e-09
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.12,Revitaliza,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2011,9.802067858663499e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2012,0.00015611591071560413
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2013,2.2855886485610346e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2014,1.916347895714593e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2015,0.005050822548209667
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2016,0.0016294728968217786
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2017,0.0012008816886094598
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2018,0.0007152202098281952
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2019,0.00044140976596047975
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2020,0.0002166777003480253
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2021,9.269765312356673e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2022,6.624451318061359e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2023,4.458420579687379e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2024,1.9348454136417194e-05
+2.5-A,anual,pct_pib,2.3.15.13,Programa de Sustentação ao Investimento - PSI,4,2025,1.5200600058848027e-05
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2008,0
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2009,0
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2010,0
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2011,0
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2012,2.783526074200461e-09
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2013,9.079731691890585e-08
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2014,1.4436650202878608e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2015,8.316399832461721e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2016,9.022159503227906e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2017,9.567437159645128e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2018,9.470894489561232e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2019,9.659274142694302e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2020,1.034280764067327e-06
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2021,9.715612593205002e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2022,8.901999494227326e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2023,1.1056376717700754e-06
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2024,9.056040336417938e-07
+2.5-A,anual,pct_pib,2.3.15.14,Operações de crédito destinadas a Pessoas com deficiência (EQPCD),4,2025,8.489242272470635e-07
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2008,1.4647015806840319e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2009,2.6359989678318548e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2010,9.007045311220321e-07
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2011,1.3152374953083036e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2012,1.1072130906638543e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2013,4.689007223087135e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2014,2.163021571551354e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2015,8.651691663224184e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2016,0.00011162001763608838
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2017,8.966549724742366e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2018,9.292100171454405e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2019,5.701129630008847e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2020,9.294841762927501e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2021,4.71586000346802e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2022,3.940346241070772e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2023,0.00018231667743148455
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2024,7.44148331955116e-05
+2.5-A,anual,pct_pib,2.3.15.15,Fundo Setorial Audiovisual (FSA),4,2025,6.103359094392767e-05
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2011,2.2505530900476984e-05
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2012,7.645123631664795e-05
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2013,8.869475884962443e-05
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2014,8.761685018190096e-05
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2015,0.00011549944920184986
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2016,3.225226052596706e-05
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2017,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2018,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2019,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2020,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.16,Subv. Parcial à Remuneração por Cessão de Energia Elétrica de Itaipu,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2012,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2014,3.595766741824877e-07
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2015,2.7536431332123137e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2016,1.0911015212923572e-05
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2017,7.173993241645323e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2018,6.368864851618368e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2019,5.430964481881456e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2020,4.709028835204865e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2021,3.5322150208604526e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2022,2.614096628162277e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2023,2.2611624791981473e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2024,1.5311193539026433e-06
+2.5-A,anual,pct_pib,2.3.15.17,Equalização dos Fundos FDA/FDNE/FDCO,4,2025,1.0091805191937386e-06
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2012,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2015,-3.908397929257612e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2016,-1.8033390115832634e-06
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2017,-2.557929912105474e-06
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2018,-1.0113418118093055e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2019,-6.63355480551457e-06
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2020,-2.2824929091101258e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2021,-3.297831608552069e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2022,-2.2934215701341033e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2023,-1.5899907078711213e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2024,-1.4689453674571691e-05
+2.5-A,anual,pct_pib,2.3.15.18,Receitas de Recuperação de Subvenções,4,2025,-3.4908748369237844e-06
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2008,1.8650698562267452e-05
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2009,0.00010857327545127383
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2012,0.0001249775689848883
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2013,8.057777572441856e-05
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2015,0.00017845864105059826
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2016,0.00017989168853207543
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2017,0.00010014457566199838
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2018,2.305778824304917e-05
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2019,3.8680461886674804e-05
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2020,0.000255072640489782
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2021,0.0001891613128305511
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2022,0.0004961450645864176
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2023,0.0008594302552293154
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2024,0.00046191586927237947
+2.5-A,anual,pct_pib,2.3.15.19,Proagro,4,2025,0.00039478339744860956
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2008,-8.39285168335822e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2009,-1.7992798310880962e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2010,-7.159482326804971e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2011,4.5380766945535515e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2012,1.0009965816293805e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2013,-2.0282047514566124e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2014,-1.5748693154255563e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2015,-2.270130784936377e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2016,-1.700244909323493e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2017,-2.5710532086793702e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2018,-9.674897130287875e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2019,-6.1209455284182175e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2020,2.7992022965721e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2021,-1.4638587819685283e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2022,1.0163210397575387e-05
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2023,6.110346947776516e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2024,-1.1783891346745825e-06
+2.5-A,anual,pct_pib,2.3.15.20,PNAFE,4,2025,-8.488147135826301e-06
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2008,-0.0006886356332431352
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2009,-0.001274389063371671
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2010,-5.993812602755055e-06
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2012,-7.08430505831846e-06
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2015,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2016,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2017,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2018,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2019,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2020,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.21,- Fundo Nacional do Desenvolvimento,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2008,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2009,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2010,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2011,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2012,4.718953603030022e-05
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2013,8.954850784225094e-05
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2014,6.355892770705244e-05
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2015,6.542891362683625e-05
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2016,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2017,0
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2018,5.1776663189036463e-05
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2019,5.777049646725495e-06
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2020,2.462558446732725e-06
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2021,6.920942313708779e-07
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2022,1.0420069663244974e-05
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2023,6.446288736284928e-06
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2024,3.4030823711756795e-09
+2.5-A,anual,pct_pib,2.3.15.22,- Sudene (Microcrédito Produtivo Orientado),4,2025,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2012,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2014,-2.704095309302007e-07
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2015,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2016,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2017,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2018,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2019,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2020,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.23,- Subvenções Econômicas,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2008,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2009,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2010,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2011,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2012,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2013,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2014,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2015,0.00025121522817751144
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2016,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2017,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2018,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2019,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2020,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2021,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2022,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2023,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2024,0
+2.5-A,anual,pct_pib,2.3.15.24,- Securitização da dívida agrícola (Lei 9.318/1595),4,2025,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2008,0.00020088731734171938
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2009,0.0001695830469152411
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2010,0.000133303744224039
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2011,0.00012276459471269953
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2012,0.00013858020382545602
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2013,0.0001412669541564543
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2015,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2016,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2017,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2018,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2019,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2020,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.25,- Capitalização à Emgea,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2009,2.5091770629710746e-07
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2011,3.242252847323235e-08
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2012,8.887646736960626e-08
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2015,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2016,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2017,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2018,4.231438234960033e-06
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2019,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2020,1.1326832392500912e-06
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2021,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2022,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2023,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2024,0
+2.5-A,anual,pct_pib,2.3.15.26,- Cacau,4,2025,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2008,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2009,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2010,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2011,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2012,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2013,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2014,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2015,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2016,2.325611832634536e-05
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2017,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2018,3.6718043940565344e-07
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2019,0
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2020,0.0015485561765844244
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2021,-0.00032701399959787417
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2022,-0.00039040836576036727
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2023,-0.00023968043590297705
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2024,6.249466678704804e-05
+2.5-A,anual,pct_pib,2.3.15.27,Demais Subsídios e Subvenções,4,2025,-1.7043072476183974e-06
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2008,3.005877756446159e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2009,2.4076542110209422e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2010,2.0349983152532823e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2011,1.8076490457789915e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2012,1.040950076302968e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2013,1.0329785474890865e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2014,1.1431183643456137e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2015,8.955541199587493e-06
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2016,4.5012305583681205e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2017,4.5731841325985157e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2018,4.312679458974322e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2019,3.0332187630261673e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2020,1.0122541840805922e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2021,1.7131939713362066e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2022,1.3435467437143074e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2023,1.3162324791107441e-05
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2024,9.772172929195666e-06
+2.5-A,anual,pct_pib,2.3.16,Transferências ANA,3,2025,7.0103072187883905e-06
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2008,0
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2009,0
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2010,0
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2011,0
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2012,0
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2013,0
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2014,7.830288062549169e-06
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2015,0.00014067378217380003
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2016,0.00013552572781335808
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2017,0.000141065692611013
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2018,0.00012584356868507055
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2019,0.00013152601384275195
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2020,0.00025296784230811897
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2021,0.0001328728048953371
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2022,0.00015846140052089126
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2023,0.0001833742950494276
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2024,0.00019429722728112923
+2.5-A,anual,pct_pib,2.3.17,Transferências Multas ANEEL,3,2025,0.00015378210115315813
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2008,0
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2009,0
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2010,0.00022689929979925096
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2011,0.0003730315748338589
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2012,0.0006801112817375296
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2013,0.0009067536583555847
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2014,0.0010852799205635822
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2015,0.0009609091635264889
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2016,0.0011197799445860654
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2017,0.0009442044935771591
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2018,0.0004047364237888926
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2019,0.0002628294576972168
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2020,-2.3863065309011656e-05
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2021,-0.0001480881311419593
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2022,7.199766463335846e-05
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2023,0.00014715298429856356
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2024,0.00012717782362004802
+2.5-A,anual,pct_pib,2.3.18,Impacto Primário do FIES,3,2025,0.00017194128245516679
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2008,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2009,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2010,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2011,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2012,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2013,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2014,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2015,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2016,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2017,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2018,0.00024502782440075484
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2019,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2020,0.0002674195261386396
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2021,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2022,0.0004922300521057569
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2023,0
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2024,0.00042062746412642395
+2.5-A,anual,pct_pib,2.3.19,Financiamento de Campanha Eleitoral,3,2025,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2008,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2009,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2010,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2011,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2012,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2013,0.0014757237622493884
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2014,0.001809624638595339
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2015,1.7941093054991848e-06
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2016,4.8489212502207104e-05
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2017,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2018,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2019,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2020,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2021,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2022,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2023,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2024,0
+2.5-A,anual,pct_pib,2.3.20,Demais,3,2025,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2008,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2009,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2010,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2011,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2012,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2013,0.0014757237622493884
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2014,0.001809624638595339
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2015,1.7941093054991848e-06
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2016,4.8489212502207104e-05
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2017,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2018,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2019,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2020,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2021,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2022,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2023,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2024,0
+2.5-A,anual,pct_pib,2.3.20.1,Auxílio CDE,4,2025,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2008,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2009,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2010,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2011,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2012,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2013,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2014,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2015,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2016,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2017,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2018,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2019,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2020,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2021,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2022,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2023,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2024,0
+2.5-A,anual,pct_pib,2.3.20.2,Fundos de Desenvolvimento Regional,4,2025,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2008,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2009,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2010,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2011,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2012,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2013,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2014,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2015,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2016,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2017,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2018,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2019,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2020,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2021,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2022,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2023,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2024,0
+2.5-A,anual,pct_pib,2.3.20.3,Reserva de Contingência,4,2025,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2008,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2009,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2010,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2011,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2012,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2013,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2014,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2015,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2016,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2017,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2018,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2019,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2020,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2021,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2022,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2023,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2024,0
+2.5-A,anual,pct_pib,2.3.20.4,Ressarc. Est/Mun. Comb. Fósseis,4,2025,0
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2008,0.03915873817290388
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2009,0.039364310587774655
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2010,0.0401076077310259
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2011,0.03967034514546754
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2012,0.041653397709905546
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2013,0.041957276559333394
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2014,0.044549054803584155
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2015,0.04061893934642563
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2016,0.04240775121548048
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2017,0.03680232519157007
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2018,0.03752033209914118
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2019,0.04164001212548342
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2020,0.03182529306965327
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2021,0.02987153872338825
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2022,0.03673229351941339
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2023,0.046517583534788944
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2024,0.0460550793954239
+2.5-A,anual,pct_pib,2.4,Despesas do Poder Executivo Sujeitas à Programação Financeira,2,2025,0.045060250412829496
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2008,0.015923802879317512
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2009,0.017378919481757776
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2010,0.017098695538262248
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2011,0.017949377863827925
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2012,0.018910346046370312
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2013,0.01872930116793688
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2014,0.019329355689091762
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2015,0.01908846614583948
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2016,0.0202018766615917
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2017,0.018868548813717655
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2018,0.01932951663278354
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2019,0.019358057366926282
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2020,0.017586967699630224
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2021,0.016118788687175957
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2022,0.02173826705019091
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2023,0.029824587315525102
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2024,0.030316185931981685
+2.5-A,anual,pct_pib,2.4.1,Obrigatórias com Controle de Fluxo,3,2025,0.029010999921287563
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2008,0.0004976940690424774
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2009,0.00116298690981389
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2010,0.001421335013669323
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2011,0.001412535245914679
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2012,0.0013920574357037133
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2013,0.0015628402174222903
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2014,0.0015973995696826524
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2015,0.0015582399743580765
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2016,0.0020477741034765056
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2017,0.0019871895528225407
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2018,0.0018559241508898658
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2019,0.001866790851487219
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2020,0.0017642793348220797
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2021,0.0015329757020713698
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2022,0.0014225764051969735
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2023,0.0014072872854628095
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2024,0.0015821799508573917
+2.5-A,anual,pct_pib,2.4.1.1,Benefícios a servidores públicos,4,2025,0.0016734690703543939
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2008,0.0033676940653431285
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2009,0.003520594493359309
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2010,0.003491388106780745
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2011,0.0038690529302962623
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2012,0.0043627474527628855
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2013,0.004595505894508542
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2014,0.004597948430454529
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2015,0.004495482403145808
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2016,0.0044710863700212775
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2017,0.004301166173228822
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2018,0.0042730728282990935
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2019,0.004470221063394864
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2020,0.0025058946776008047
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2021,0.0028615816337378523
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2022,0.008740325341214392
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2023,0.015195435023873168
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2024,0.014279290138351025
+2.5-A,anual,pct_pib,2.4.1.2,Bolsa Família e Auxílio Brasil,4,2025,0.012417855774091779
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2008,0.011060901326113428
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2009,0.011537337107758824
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2010,0.011009602558676727
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2011,0.011335403780032852
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2012,0.011725415249189113
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2013,0.011052515366940449
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2014,0.011677932038064621
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2015,0.011709058959376763
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2016,0.012463841985982249
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2017,0.011405968079908176
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2018,0.011589663576170988
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2019,0.01168027993922639
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2020,0.011688856461574679
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2021,0.010346388788926431
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2022,0.010358991842448215
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2023,0.01183682321620211
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2024,0.012957646390779265
+2.5-A,anual,pct_pib,2.4.1.3,Saúde,4,2025,0.013391339277787599
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2008,0.0008327530927866707
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2009,0.0010659897344977743
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2010,0.0011340270112809442
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2011,0.0011972829146027686
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2012,0.001313473048274491
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2013,0.0013718664026783596
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2014,0.0011770460894577073
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2015,0.0010840049406085784
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2016,0.0009328390666822814
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2017,0.0009464925259358806
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2018,0.0009181055385089903
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2019,0.0007765458337556272
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2020,0.0008983606370840274
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2021,0.0008009581736343147
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2022,0.0006296588061898847
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2023,0.0007498596966836578
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2024,0.0006822710762197814
+2.5-A,anual,pct_pib,2.4.1.4,Educação,4,2025,0.0006699601580291143
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2008,0.00016476032603180923
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2009,9.20112363279756e-05
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2010,4.234284785451112e-05
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2011,0.00013510299298136172
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2012,0.00011665286044011287
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2013,0.0001465732863872418
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2014,0.00027902956143225293
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2015,0.00024167986835025107
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2016,0.000286335135429388
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2017,0.00022773248182222835
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2018,0.0006927505389146033
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2019,0.0005642196790621886
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2020,0.0007295765885486307
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2021,0.0005768843888059877
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2022,0.0005867146551414419
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2023,0.0006351820933033519
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2024,0.0008147983757742276
+2.5-A,anual,pct_pib,2.4.1.5,Demais,4,2025,0.0008583756410246714
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2008,0.02323493529358637
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2009,0.021985391106016876
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2010,0.023008912192763648
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2011,0.02172096728163961
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2012,0.022743051663535227
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2013,0.023227975391396514
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2014,0.025219699114492396
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2015,0.021530473200586146
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2016,0.02220587455388877
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2017,0.01793377637785242
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2018,0.018190815466357643
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2019,0.02228195475855713
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2020,0.014238325370023047
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2021,0.013752750036212296
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2022,0.01499402646922249
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2023,0.016692996219263838
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2024,0.01573889346344221
+2.5-A,anual,pct_pib,2.4.2,Discricionárias,3,2025,0.016049250491541944
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2008,0.0023160641134881916
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2009,0.002372359588961609
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2010,0.0022415512296432988
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2011,0.0021301611767554855
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2012,0.0025290923423772755
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2013,0.0027856196719924678
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2014,0.0027830279421075213
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2015,0.0028476100833517565
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2016,0.003138043578447559
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2017,0.0034970798971739434
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2018,0.0040819326173295555
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2019,0.003969020801544854
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2020,0.003111766270206974
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2021,0.0033128415686215786
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2022,0.0032747383642803794
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2023,0.003482927649586365
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2024,0.004394709969786062
+2.5-A,anual,pct_pib,2.4.2.1,Saúde,4,2025,0.004548202600217884
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2008,0.0024205251591969627
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2009,0.0028715842641468983
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2010,0.0035176564560760993
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2011,0.0036958223560947154
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2012,0.0046758351306584525
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2013,0.004623285203617154
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2014,0.00538081853076045
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2015,0.004596516369800672
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2016,0.00450123110370408
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2017,0.003632999934582156
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2018,0.0034986989523359217
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2019,0.002964797475787196
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2020,0.0025403446232273833
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2021,0.002184423385297636
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2022,0.001985939566730859
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2023,0.0031828164009950585
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2024,0.002448426991453776
+2.5-A,anual,pct_pib,2.4.2.2,Educação,4,2025,0.0025597452290482387
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2008,0.0024718843970977663
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2009,0.0024527959388484662
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2010,0.0029545653825052962
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2011,0.002635559852365593
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2012,0.0026579360689009427
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2013,0.0026538433473771595
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2014,0.0027093905790524183
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2015,0.0018714107506908105
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2016,0.0022558835868203043
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2017,0.0019316466978681417
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2018,0.0021896367989427228
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2019,0.00264447749783375
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2020,0.0015615008077643074
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2021,0.0012596292543938265
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2022,0.0012584712505289346
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2023,0.00118032081358749
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2024,0.001145400449006702
+2.5-A,anual,pct_pib,2.4.2.3,Defesa,4,2025,0.0011095602215376679
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2008,0.0023150011853266795
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2009,0.003224946784841178
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2010,0.0037372920158384422
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2011,0.0034682839276341084
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2012,0.002633097192400541
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2013,0.002409889125342356
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2014,0.0025145019285151473
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2015,0.0016956718676887788
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2016,0.0019900853572469303
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2017,0.001654655223871902
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2018,0.0015322524054603391
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2019,0.0012529129139685017
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2020,0.0011963096598139346
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2021,0.0009029435240052892
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2022,0.0008090609211501656
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2023,0.0013671532062970403
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2024,0.0013576666640022004
+2.5-A,anual,pct_pib,2.4.2.4,Transporte,4,2025,0.0011668868934020615
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2008,0.0011306281968123098
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2009,0.0012533159688308516
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2010,0.0015228944732251358
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2011,0.0010942978690068723
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2012,0.0009101961415548623
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2013,0.0011043280787452784
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2014,0.0010446205411518356
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2015,0.000867001240295443
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2016,0.000861725581341728
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2017,0.0009071872783275427
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2018,0.0011198011609245735
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2019,0.0009177195026183364
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2020,0.0007752123865302745
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2021,0.0006616872508060179
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2022,0.0007629686527880442
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2023,0.0007108187642781367
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2024,0.0005779535088154584
+2.5-A,anual,pct_pib,2.4.2.5,Administração,4,2025,0.0007291747191354324
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2008,0.0011834753534711998
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2009,0.0011608826563765284
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2010,0.001169606640838105
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2011,0.0009322177009608233
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2012,0.001031838906133878
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2013,0.0010387919434223232
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2014,0.0010772892974576437
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2015,0.0008966697120503805
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2016,0.0008991018694184343
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2017,0.0006390125361633798
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2018,0.0006096260362584083
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2019,0.0005326879634129141
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2020,0.0004177974853569016
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2021,0.00032686509905901156
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2022,0.00048514042378090854
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2023,0.0006434485896429319
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2024,0.0007261101172990086
+2.5-A,anual,pct_pib,2.4.2.6,Ciência e Tecnologia,4,2025,0.0007907837130102843
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2008,0.000619011032348176
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2009,0.000631784422379154
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2010,0.0006195215675066667
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2011,0.0004889823686624042
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2012,0.0004571676325792149
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2013,0.00045639403864570897
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2014,0.0004226193087703548
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2015,0.00034499099642372596
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2016,0.00041263388105678973
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2017,0.000460296700274294
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2018,0.0005014403877810953
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2019,0.000475582957109572
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2020,0.00039671549876446323
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2021,0.0003380546028437951
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2022,0.0003473293150972564
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2023,0.0003121418918475793
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2024,0.00029141337974945174
+2.5-A,anual,pct_pib,2.4.2.7,Segurança Pública,4,2025,0.0003103510962695828
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2008,0.0007854043640413552
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2009,0.00081086841075516
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2010,0.000790090211271547
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2011,0.0007391897119831179
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2012,0.000789110178097855
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2013,0.0007404398459897682
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2014,0.0008249168582012884
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2015,0.0005404037589173709
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2016,0.0007137574363663071
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2017,0.0006149127597664568
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2018,0.0004076503311303225
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2019,0.0005196856480409025
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2020,0.00033144986580355617
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2021,0.000281798382216085
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2022,0.0005791548752709801
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2023,0.0008429509625320012
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2024,0.0007426467385691248
+2.5-A,anual,pct_pib,2.4.2.8,Assistência Social,4,2025,0.0007424681714928523
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2008,0.009992941491803726
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2009,0.0072068530708770335
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2010,0.006455734215859054
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2011,0.006536452318176491
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2012,0.007058778070832205
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2013,0.007415384136264301
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2014,0.008462514128475733
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2015,0.007870198421367209
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2016,0.00743341215948664
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2017,0.0045959853498246045
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2018,0.004249776776194702
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2019,0.009005069998241104
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2020,0.003907228772555254
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2021,0.004484506968969056
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2022,0.005491223099594961
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2023,0.004970417940497236
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2024,0.0040545656447604295
+2.5-A,anual,pct_pib,2.4.2.9,Demais,4,2025,0.004092077847427939
